@@ -3,6 +3,7 @@
 
 
 # Codes： #
+    # compile by python 3.5.1
     path='F:\PythonProjects\usagov_bitly_data2012-03-16-1331923249.txt'
     print(open(path).readline())
 
