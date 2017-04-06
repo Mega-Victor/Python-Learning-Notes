@@ -68,7 +68,7 @@ if __name__ == '__main__':  # main 函数
         'Cache-Control': 'max-age=0',
         'Accept-Encoding': 'gzip, deflate, sdch',
         'Host': 'news.qq.com',
-        'Cookie': 'pac_uid=1_807387853; tvfe_boss_uuid=3403ff60466a623b; sd_userid=42081487762143688; sd_cookie_crttime=1487762143688; ptui_loginuin=807387853; uid_uin=144115199868538691; uid_a2=39e50b3287c31cd34fc4831ab7bde738ea075731cfee53d658cb7faf25ce083ab3d10ca5e4cce9578a310dc59f0d858813cf01b5ec249332f7cbfd9ce4450aebf92fbc357956a552; uid_type=2; uid_appid=1400000008; openid=o1a7pssL8vCDv5DPcNyShRa1XOvw; RK=4XMaLo7qVy; pt2gguin=o0807387853; uin=o0807387853; skey=@IM3HfDWUs; ptisp=edu; ptcz=eee75d95ec5af8b944a8a38ac707380dd4c3b0005bbe46dbbffe48224f18f655; mobileUV=1_15ad70ce593_e54ff; gj_mpvid=56252108; ptag=www_qq_com|/; ts_refer=www.qq.com/; main_login=wx; vuserid=144115199868538691; ad_play_index=41; pgv_info=ssid=s5275098712; ts_last=news.qq.com/world_index.shtml; pgv_pvid=2274749388; o_cookie=807387853; ts_uid=1417647856',
+        'Cookie':
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
     }
     web_s = 'http://news.qq.com/a/20170321'

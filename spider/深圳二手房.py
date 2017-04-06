@@ -62,15 +62,15 @@ def content(u, h):
 
 
 if __name__ == '__main__':  # main 函数
-    web_u = 'http://su.lianjia.com/ershoufang/d'
+    web_u = ''
     web_h = {'Accept-Language': 'zh-CN,zh;q=0.8',
              'Upgrade-Insecure-Requests': '1',
              'Connection': 'keep-alive',
              'Host': 'su.lianjia.com',
-             'Cookie': 'iknew_callEsay=true; lianjia_uuid=2170f3d9-a9d6-445d-84b3-fd53bdf619ea; _ga=GA1.2.178358532.1483019972; _smt_uid=586515a1.96682e2; select_city=320500; cityCode=su; ubt_load_interval_b=1490358564312; ubt_load_interval_c=1490358564312; ubta=1641808036.961307658.1483019972458.1490358507831.1490358565366.64; ubtb=1641808036.961307658.1490358565371.40BCFF6C4A2B10A46E24CEC8F0624B87; ubtc=1641808036.961307658.1490358565371.40BCFF6C4A2B10A46E24CEC8F0624B87; ubtd=41',
+             'Cookie': 
              'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, sdch'}
 
-    web_s = 'http://su.lianjia.com/ershoufang/su4430847.html'
+    web_s = ''
 
     f = open('D:\\桌面\\tes.csv', 'w')
     f.seek(0)
