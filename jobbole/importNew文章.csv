@@ -1,0 +1,2441 @@
+title,url
+异步打印日志的一点事,http://www.importnew.com/27247.html
+警惕不规范的变量命名,http://www.importnew.com/27242.html
+你真的会阅读 Java 的异常信息吗,http://www.importnew.com/27238.html
+面试中单例模式有几种写法,http://www.importnew.com/27233.html
+电子凭证 : Java 生成 Pdf ,http://www.importnew.com/27220.html
+就是让你懂 Spring 中 Mybatis 的花样配置,http://www.importnew.com/27207.html
+Java 消息队列任务的平滑关闭,http://www.importnew.com/27196.html
+千亿 KV 数据存储和查询方案,http://www.importnew.com/27190.html
+Spring Boot & Spring MVC 异常处理的N种方法,http://www.importnew.com/27186.html
+Java 多线程知识小抄集 ( 三 ),http://www.importnew.com/27182.html
+并发一枝花之 ConcurrentLinkedQueue,http://www.importnew.com/27052.html
+Java 多线程知识小抄集 ( 二 ),http://www.importnew.com/27171.html
+Java 多线程知识小抄集 ( 一 ),http://www.importnew.com/27167.html
+图解 Java 多线程,http://www.importnew.com/27131.html
+从串行线程封闭到对象池、线程池,http://www.importnew.com/27122.html
+并发一枝花之 CopyOnWriteArrayList,http://www.importnew.com/27118.html
+Java EE 8 中的新特性,http://www.importnew.com/27114.html
+使用 Hibernate 和 MySQL 需要知道的五件事 ,http://www.importnew.com/27108.html
+Java 高并发综合,http://www.importnew.com/27105.html
+Spring Boot Starter 介绍,http://www.importnew.com/27101.html
+Selector 实现原理,http://www.importnew.com/26258.html
+Reference、ReferenceQueue 详解,http://www.importnew.com/26250.html
+velocity原理探究,http://www.importnew.com/26226.html
+分布式事务 ( DTS ) 你必须知道的事儿,http://www.importnew.com/26212.html
+Californium 开源框架分析（ 入门篇 ）,http://www.importnew.com/26192.html
+从零开始玩转 JMX ( 三 ) — Model MBean,http://www.importnew.com/26187.html
+Spring Batch 批处理框架介绍,http://www.importnew.com/26177.html
+Java 引用类型简述,http://www.importnew.com/26171.html
+JAVA 动态代理,http://www.importnew.com/26166.html
+详解 Tomcat 配置文件 server.xml,http://www.importnew.com/26156.html
+ 从零开始玩转 JMX ( 二 ) — Condition,http://www.importnew.com/26150.html
+跟上 Java 8 - 你忽略了的新特性,http://www.importnew.com/26144.html
+从零开始玩转 JMX ( 一 ) — 简介和 Standard MBean,http://www.importnew.com/26137.html
+跟上 Java 8 - 日期和时间实用技巧,http://www.importnew.com/26129.html
+关于烂代码的那些事 ( 下 ),http://www.importnew.com/26121.html
+说说 JAVA 代理模式,http://www.importnew.com/26116.html
+跟上 Java 8 - 函数式编程,http://www.importnew.com/26108.html
+关于烂代码的那些事（ 中 ）,http://www.importnew.com/26102.html
+使用 JPA 实现乐观锁,http://www.importnew.com/26099.html
+跟上 Java 8 - Stream API 快速入门,http://www.importnew.com/26090.html
+Netty in action — 事件循环和线程模式,http://www.importnew.com/26718.html
+Spring Security ( 一 ) ：架构概述,http://www.importnew.com/26712.html
+netty 实战 - netty client 连接池设计 ,http://www.importnew.com/26701.html
+关于 Java 中的 double check lock,http://www.importnew.com/26698.html
+Java 多态性的“飘渺之旅” ,http://www.importnew.com/26690.html
+Java 多线程并发编程一览笔录,http://www.importnew.com/26678.html
+我的编程习惯 - 日志建议,http://www.importnew.com/26662.html
+Java 标准 I/O 流编程一览笔录,http://www.importnew.com/26644.html
+Spring4 + Spring MVC + MyBatis 整合思路,http://www.importnew.com/26640.html
+如何正确实现 Java 中的 HashCode,http://www.importnew.com/26635.html
+JAVA 设计模式 : 状态模式,http://www.importnew.com/26627.html
+深入了解 Java 之虚拟机内存 ,http://www.importnew.com/26611.html
+Java 中的异常和处理详解,http://www.importnew.com/26613.html
+如何实现一个分布式 RPC 框架,http://www.importnew.com/26604.html
+编辑从字节码和 JVM 的角度解析 Java 核心类 String 的不可变特性,http://www.importnew.com/26595.html
+Java synchronized 中的 while 和 notifyAll ,http://www.importnew.com/26584.html
+Netty 自定义解码器处理半包消息,http://www.importnew.com/26577.html
+关于 NIO 你不得不知道的一些“地雷” ,http://www.importnew.com/26563.html
+Java 正则表达式 StackOverflowError 问题及其优化,http://www.importnew.com/26560.html
+Dagger2 神器入门（四）,http://www.importnew.com/26555.html
+手把手教你 Spark 性能调优 ,http://www.importnew.com/26541.html
+Dagger2 神器入门（三）,http://www.importnew.com/26537.html
+Java ArrayList 踩坑记录,http://www.importnew.com/26533.html
+Dagger2 神器入门（二）,http://www.importnew.com/26515.html
+小死锁,http://www.importnew.com/26507.html
+Dagger2 神器入门（一）,http://www.importnew.com/26503.html
+在 Java 中提升函数以更好地“函数式”编程,http://www.importnew.com/26500.html
+BTrace 原理浅析,http://www.importnew.com/26495.html
+Java Socket Timeout 总结,http://www.importnew.com/26486.html
+多研究些架构，少谈些框架（4）:  架构师是技术的使用者,http://www.importnew.com/26479.html
+并发编程 - Concurrent 用户指南 ,http://www.importnew.com/26461.html
+二分查找 : 那个隐藏了 10 年的 Java Bug,http://www.importnew.com/26482.html
+Jodd 一 款优雅的 Java 工具集,http://www.importnew.com/26456.html
+多研究些架构，少谈些框架（ 3 ）：事件驱动架构,http://www.importnew.com/26440.html
+多研究些架构，少谈些框架（ 2 ）：微服务和充血模型,http://www.importnew.com/26429.html
+程序员你为什么这么累【续】：编码习惯之 Controller 规范,http://www.importnew.com/26423.html
+线上服务 CPU 100%？一键定位 so easy！,http://www.importnew.com/26413.html
+多研究些架构，少谈些框架（ 1 ）: 论微服务架构的核心概念,http://www.importnew.com/26407.html
+程序员你为什么这么累【续】：编码习惯之接口定义,http://www.importnew.com/26403.html
+程序员你为什么这么累？,http://www.importnew.com/26396.html
+十个 JDBC 的最佳实践,http://www.importnew.com/26087.html
+跟上 Java 8 - 了解 lambda,http://www.importnew.com/26080.html
+高并发下的下单功能设计,http://www.importnew.com/26071.html
+Java8 如何正确使用 Optional,http://www.importnew.com/26066.html
+关于烂代码的那些事（上）,http://www.importnew.com/26061.html
+SpringBoot(十四)：springboot整合shiro-登录认证和权限管理,http://www.importnew.com/26055.html
+深入并发包 ConcurrentHashMap ,http://www.importnew.com/26049.html
+SpringBoot(十三)：springboot 小技巧,http://www.importnew.com/26040.html
+Java 并发实践 — ConcurrentHashMap 与 CAS,http://www.importnew.com/26035.html
+SpringBoot实战：我们的第一款开源软件,http://www.importnew.com/26016.html
+如何查看一个 java 对象的大小,http://www.importnew.com/25992.html
+SpringBoot(十二)：springboot如何测试打包部署,http://www.importnew.com/25985.html
+使用 JMX 来获取 CPU 利用率和 GC 所占用的 CPU 利用率,http://www.importnew.com/25978.html
+SpringBoot(十一)：Spring boot 中 mongodb 的使用,http://www.importnew.com/25973.html
+Java synchronized 中的 while 和 notifyAll,http://www.importnew.com/25968.html
+SpringBoot(十) ：邮件服务,http://www.importnew.com/25965.html
+Jetty 基本介绍 ,http://www.importnew.com/25959.html
+SpringBoot (九) ：定时任务,http://www.importnew.com/25953.html
+深入Spring Boot: 那些注入不了的 Spring 占位符（${} 表达式）,http://www.importnew.com/25940.html
+SpringBoot ( 八 ) ：RabbitMQ 详解,http://www.importnew.com/25928.html
+如何做性能测试,http://www.importnew.com/26897.html
+我的编码习惯 - 配置规范,http://www.importnew.com/26888.html
+我的编码习惯 - 函数编写建议（ 附完整源码 ）,http://www.importnew.com/26881.html
+我的编码习惯 - 参数校验和国际化规范,http://www.importnew.com/26868.html
+我的编码习惯 - 异常处理,http://www.importnew.com/26858.html
+Java 里如何实现线程间通信,http://www.importnew.com/26850.html
+探究 Java 虚拟机栈,http://www.importnew.com/26842.html
+Java 守护线程概述,http://www.importnew.com/26834.html
+Java 技术之垃圾回收机制,http://www.importnew.com/26821.html
+探索各种随机函数 ( Java 环境 ),http://www.importnew.com/26806.html
+记一次集群内无可用 http 服务问题排查,http://www.importnew.com/26797.html
+浅析分布式下的事件驱动机制（ PubSub 模式 ）,http://www.importnew.com/26788.html
+浅析 Spring 中的事件驱动机制 ,http://www.importnew.com/26782.html
+HttpClient 以及 Json 传递的一些坑,http://www.importnew.com/26779.html
+Java 中 9 个处理 Exception 的最佳实践,http://www.importnew.com/26775.html
+,http://www.importnew.com/26771.html
+公司编程竞赛之最长路径问题,http://www.importnew.com/26760.html
+Spring Security ( 三 ) ：核心配置解读,http://www.importnew.com/26749.html
+Spring，为内部方法新起一个事务，此处应有坑,http://www.importnew.com/26746.html
+Spring Security ( 二 ) ：指南,http://www.importnew.com/26735.html
+从 Effective Java 总结一些有助安卓开发的建议,http://www.importnew.com/25444.html
+SpringBoot (七) ：springboot + mybatis 多数据源最简解决方案,http://www.importnew.com/25898.html
+关于 Java 你不知道的十件事,http://www.importnew.com/25468.html
+SpringBoot (六) ：如何优雅的使用 mybatis,http://www.importnew.com/25883.html
+Mybatis处理列名—字段名映射(一) — 驼峰式命名映射,http://www.importnew.com/25871.html
+SpringBoot(五) ：spring data jpa 的使用,http://www.importnew.com/25862.html
+Mybatis 缓存特性的使用及源码分析，避坑指南,http://www.importnew.com/25836.html
+SpringBoot (四) ：thymeleaf 使用详解,http://www.importnew.com/25826.html
+"关于 Mybatis的 $ 和 # , 你真的知道他们的细节吗? ",http://www.importnew.com/25791.html
+SpringBoot(三) ：Spring boot 中 Redis 的使用,http://www.importnew.com/25786.html
+详解 equals() 方法和 hashCode() 方法,http://www.importnew.com/25783.html
+SpringBoot(二) ：web综合开发,http://www.importnew.com/25768.html
+SpringBoot (一) ：入门篇,http://www.importnew.com/25761.html
+消息队列探秘 - RabbitMQ 消息队列介绍,http://www.importnew.com/25744.html
+Java Selenium (十四) 处理 Iframe 中的元素,http://www.importnew.com/25738.html
+Log4j1 升级 Log4j2 实战,http://www.importnew.com/25729.html
+Java Selenium (十三) 智能等待页面加载完成,http://www.importnew.com/25724.html
+使用 Hystrix 实现自动降级与依赖隔离,http://www.importnew.com/25704.html
+并发队列-无界非阻塞队列 ConcurrentLinkedQueue 原理探究 ,http://www.importnew.com/25668.html
+ Mybatis 处理列名、字段名映射(二) - AS用法 & ResultMap  ,http://www.importnew.com/25654.html
+[Mybatis] TypeHandler 的简单应用及源码分析  ,http://www.importnew.com/25617.html
+Java 函数调用是传值还是传引用？从字节码角度来看看 ！,http://www.importnew.com/25601.html
+Java Selenium (十二) 操作弹出窗口,http://www.importnew.com/25594.html
+并发队列 - 无界阻塞队列 LinkedBlockingQueue 原理探究,http://www.importnew.com/25583.html
+Java Selenium (十一) 操作弹出对话框,http://www.importnew.com/25572.html
+并发队列 - 有界阻塞队列 ArrayBlockingQueue 原理探究,http://www.importnew.com/25566.html
+Java Selenium (十) 操作浏览器,http://www.importnew.com/25561.html
+并发队列 - 无界阻塞优先级队列 PriorityBlockingQueue 原理探究,http://www.importnew.com/25541.html
+Java Selenium (九) 常见 Web UI 元素操作及 API 使用,http://www.importnew.com/25535.html
+Java虚拟机（JVM）概述,http://www.importnew.com/25438.html
+JVM OOM & JAVA finalizer 引发的 OOM & Thread.stop,http://www.importnew.com/25522.html
+Java Selenium (八) Selenium IDE 用法,http://www.importnew.com/25509.html
+Spring 中的懒加载与事务 - 排坑记录,http://www.importnew.com/25381.html
+为 Java 程序员而生的 10 + 最佳库 ,http://www.importnew.com/25495.html
+Java Selenium (六) XPath 定位,http://www.importnew.com/25488.html
+Spring Boot 日志管理,http://www.importnew.com/25485.html
+Java Selenium (五) 元素定位大全,http://www.importnew.com/25478.html
+Spring Boot 多数据源配置与使用,http://www.importnew.com/25474.html
+Java Selenium (四) 使用浏览器调试工具,http://www.importnew.com/25454.html
+Spring Boot 中使用 Spring-data-jpa 让数据访问更简单、更优雅,http://www.importnew.com/25451.html
+Java语法糖 2 ：自动装箱和自动拆箱,http://www.importnew.com/24789.html
+Unsafe 与 CAS,http://www.importnew.com/24783.html
+Java 语法糖 1：可变长度参数以及 foreach 循环原理,http://www.importnew.com/24780.html
+从为什么 String=String 谈到 StringBuilder 和 StringBuffer,http://www.importnew.com/24769.html
+IDEA 集成 sonarLint 检查代码 bugs,http://www.importnew.com/24755.html
+hibernate 三种状态的转换,http://www.importnew.com/24750.html
+log4j 日志信息的引入（通用版）—— 解决项目运行过程中的日志信息,http://www.importnew.com/24746.html
+Junit mockito 解耦合测试,http://www.importnew.com/24741.html
+log4j2 不使用配置文件，动态生成 logger 对象,http://www.importnew.com/24736.html
+Spring9 : Autowire（自动装配）机制,http://www.importnew.com/24731.html
+Spring Data + Thymeleaf 3 + Bootstrap 4 实现分页器 ,http://www.importnew.com/24722.html
+在 Eclipse 里使用 PlantUML ,http://www.importnew.com/24706.html
+SOAP webserivce 和 RESTful webservice 对比及区别 ,http://www.importnew.com/24695.html
+一个轻量级分布式 RPC 框架 -- NettyRpc ,http://www.importnew.com/24689.html
+Docker 在 openSUSE 下的安装、使用,http://www.importnew.com/24684.html
+Kafka 基本原理,http://www.importnew.com/24677.html
+用 Docker、Gradle 来构建、运行、发布一个 Spring Boot 应用,http://www.importnew.com/24671.html
+简述 Docker,http://www.importnew.com/24658.html
+简述 Microservices（微服务）,http://www.importnew.com/24651.html
+实现在 Eclipse 中编写 Markdown 文件 ,http://www.importnew.com/24643.html
+Java 工具集 — Jodd,http://www.importnew.com/26393.html
+Java 泛型详解,http://www.importnew.com/26387.html
+JVM 垃圾回收算法及回收器详解,http://www.importnew.com/26383.html
+Java 反射机制应用实践,http://www.importnew.com/26378.html
+Java 并发编程之 NIO 简明教程,http://www.importnew.com/26368.html
+同步容器（ 如 Vector ）并不是所有操作都线程安全,http://www.importnew.com/26359.html
+Java 开发必须掌握的线上问题排查命令,http://www.importnew.com/26354.html
+编辑 Java 中的事务 — JDBC 事务和 JTA 事务,http://www.importnew.com/26349.html
+堆外内存之 DirectByteBuffer 详解,http://www.importnew.com/26334.html
+RabbitMQ 负载均衡 ( 2 ) — HAProxy,http://www.importnew.com/26330.html
+记一次 Spring Maven 打包的坑,http://www.importnew.com/26327.html
+RabbitMQ 负载均衡（ 1 ),http://www.importnew.com/26323.html
+JAVA REENTRANTLOCK、SEMAPHORE 的实现与 AQS 框架,http://www.importnew.com/26319.html
+再谈 AbstractQueuedSynchronizer 3 ：基于 AbstractQueuedSynchronizer 的并发类实现,http://www.importnew.com/26310.html
+记录一次 maven jar 包冲突的排查过程,http://www.importnew.com/26315.html
+谈谈 Java 开发中的对象拷贝,http://www.importnew.com/26306.html
+再谈 AbstractQueuedSynchronizer 2 ：共享模式与基于 Condition 的等待 / 通知机制实现,http://www.importnew.com/26300.html
+Java HashMap 遍历方式性能探讨,http://www.importnew.com/26298.html
+再谈 AbstractQueuedSynchronizer 1 ：独占模式,http://www.importnew.com/26284.html
+ClassLoader 揭秘,http://www.importnew.com/26269.html
+并行化资源池队列 1 —— 部分有界队列 ,http://www.importnew.com/24968.html
+Hibernate 脏数据检查,http://www.importnew.com/24964.html
+图解集合7：红黑树概念、红黑树的插入及旋转操作详细解读 ,http://www.importnew.com/24930.html
+"Executor, ExecutorService 和 Executors 间的不同",http://www.importnew.com/24923.html
+扯谈 spring mvc 之 WebApplicationContext 的继承关系,http://www.importnew.com/24919.html
+写给后端程序员的 HTTP 缓存原理介绍,http://www.importnew.com/24907.html
+java 调试技能之 dubbo 调试 -- telnet,http://www.importnew.com/24896.html
+Spring MVC 异常处理详解,http://www.importnew.com/24892.html
+Spring Boot 启动流程详解（一）,http://www.importnew.com/24875.html
+在 Spring Boot 中使用 Https ,http://www.importnew.com/24864.html
+Spring Boot异常处理详解,http://www.importnew.com/24851.html
+Web Service 那点事儿（4）—— 使用 CXF 开发 REST 服务,http://www.importnew.com/24848.html
+tomcat ssi 配置及升级导致 ssi include 错误问题解决,http://www.importnew.com/24843.html
+Web Service 那点事儿（3）—— SOAP 及其安全控制,http://www.importnew.com/24830.html
+HashMap 和 HashTable 到底哪不同 ？,http://www.importnew.com/24822.html
+Web Service 那点事儿（2）—— 使用 CXF 开发 SOAP 服务,http://www.importnew.com/24816.html
+深入 JVM 分析 spring-boot 应用 hibernate-validator NoClassDefFoundError,http://www.importnew.com/24811.html
+怎样写一个 RefererFilter ,http://www.importnew.com/24804.html
+Web Service 那点事儿（1）,http://www.importnew.com/24800.html
+epoll 浅析以及 nio 中的 Selector ,http://www.importnew.com/24794.html
+Netty 超时机制及心跳程序实现,http://www.importnew.com/24637.html
+Linux 常用性能分析命令,http://www.importnew.com/24633.html
+Mybatis关联查询（嵌套查询）,http://www.importnew.com/24624.html
+基于 Solr 的空间搜索,http://www.importnew.com/24611.html
+使用 Solr 索引 MySQL 数据,http://www.importnew.com/24600.html
+Java并发集合的实现原理,http://www.importnew.com/24594.html
+Mybatis实现数据的增删改查（CRUD）,http://www.importnew.com/24591.html
+【MyBatis源码分析】Configuration加载（下篇）,http://www.importnew.com/24581.html
+几种服务器端IO模型的简单介绍及实现,http://www.importnew.com/24571.html
+【MyBatis源码分析】Configuration加载（上篇）,http://www.importnew.com/24563.html
+【MyBatis源码分析】insert方法、update方法、delete方法处理流程（上篇）,http://www.importnew.com/24545.html
+Java常见面试题之Forward和Redirect的区别,http://www.importnew.com/24549.html
+【Spring源码分析】原型Bean实例化过程、byName与byType及FactoryBean获取Bean源码实现,http://www.importnew.com/24538.html
+Java 9 中的 9 个新特性,http://www.importnew.com/24528.html
+Spring data JPA,http://www.importnew.com/24514.html
+zookeeper 入门系列-理论基础 - zab 协议,http://www.importnew.com/24519.html
+深入学习 Java 序列化,http://www.importnew.com/24490.html
+Spring源码分析：AOP源码解析（下篇）,http://www.importnew.com/24459.html
+Spring boot executable jar/war 原理,http://www.importnew.com/24471.html
+Spring源码分析：配置文件读取流程,http://www.importnew.com/24446.html
+异步打印日志的一点事,http://www.importnew.com/27247.html
+警惕不规范的变量命名,http://www.importnew.com/27242.html
+你真的会阅读 Java 的异常信息吗,http://www.importnew.com/27238.html
+面试中单例模式有几种写法,http://www.importnew.com/27233.html
+电子凭证 : Java 生成 Pdf ,http://www.importnew.com/27220.html
+就是让你懂 Spring 中 Mybatis 的花样配置,http://www.importnew.com/27207.html
+Java 消息队列任务的平滑关闭,http://www.importnew.com/27196.html
+千亿 KV 数据存储和查询方案,http://www.importnew.com/27190.html
+Spring Boot & Spring MVC 异常处理的N种方法,http://www.importnew.com/27186.html
+Java 多线程知识小抄集 ( 三 ),http://www.importnew.com/27182.html
+并发一枝花之 ConcurrentLinkedQueue,http://www.importnew.com/27052.html
+Java 多线程知识小抄集 ( 二 ),http://www.importnew.com/27171.html
+Java 多线程知识小抄集 ( 一 ),http://www.importnew.com/27167.html
+图解 Java 多线程,http://www.importnew.com/27131.html
+从串行线程封闭到对象池、线程池,http://www.importnew.com/27122.html
+并发一枝花之 CopyOnWriteArrayList,http://www.importnew.com/27118.html
+Java EE 8 中的新特性,http://www.importnew.com/27114.html
+使用 Hibernate 和 MySQL 需要知道的五件事 ,http://www.importnew.com/27108.html
+Java 高并发综合,http://www.importnew.com/27105.html
+Spring Boot Starter 介绍,http://www.importnew.com/27101.html
+谈谈对Canal（ 增量数据订阅与消费 ）的理解 ,http://www.importnew.com/25189.html
+【译】Reddit如何统计每个帖子的浏览量,http://www.importnew.com/25180.html
+JSON Web Token - 在 Web 应用间安全地传递信息,http://www.importnew.com/25171.html
+MyBatis 7 ：MyBatis 插件及示例 — 打印每条 SQL 语句及其执行时间 ,http://www.importnew.com/25166.html
+图解集合 8 : 红黑树的移除节点操作,http://www.importnew.com/25125.html
+Mysql Java 驱动代码阅读笔记及 JDBC 规范笔记,http://www.importnew.com/25114.html
+图解集合 6 : LinkedHashMap,http://www.importnew.com/25103.html
+TThreadedSelectorServer 介绍及 Direct Memory OOM 分析,http://www.importnew.com/25089.html
+图解集合 5 ：不正确地使用HashMap引发死循环及元素丢失,http://www.importnew.com/25070.html
+JNI 探秘 — FileInputStream 的 read 方法详解,http://www.importnew.com/25065.html
+JNI 探秘 — 你不知道的 FileInputStream 的秘密,http://www.importnew.com/25060.html
+图解集合 4 ：HashMap,http://www.importnew.com/25049.html
+Netty Client 重连实现,http://www.importnew.com/25046.html
+图解集合 3 : CopyOnWriteArrayList,http://www.importnew.com/25034.html
+图解集合 2 ：LinkedList,http://www.importnew.com/25023.html
+图解集合 1 ：ArrayList,http://www.importnew.com/25008.html
+【MyBatis源码分析】环境准备,http://www.importnew.com/25005.html
+并行化资源池队列 3 —— 紧密相关的同步化队列,http://www.importnew.com/25001.html
+并行化资源池队列 2 —— 无锁化的无界队列 ,http://www.importnew.com/24998.html
+kafka 数据可靠性深度解读,http://www.importnew.com/24973.html
+RabbitMQ指南（上）,http://www.importnew.com/24319.html
+Docker基本命令,http://www.importnew.com/24335.html
+用大白话聊聊分布式系统,http://www.importnew.com/24314.html
+我的2016年书单,http://www.importnew.com/24310.html
+Spring AOP的实现原理,http://www.importnew.com/24305.html
+Java单元测试之模拟利器（2）：Powermock在Spring测试的应用,http://www.importnew.com/24294.html
+Java8学习笔记,http://www.importnew.com/24300.html
+Spring源码分析：非懒加载的单例Bean初始化前后的一些操作,http://www.importnew.com/24282.html
+Java单元测试之模拟利器（1）：Powermock介绍,http://www.importnew.com/24288.html
+详解MyBatis的foreach语句,http://www.importnew.com/24276.html
+Hi，我们再来聊一聊Java的单例吧,http://www.importnew.com/24272.html
+Spring源码分析：非懒加载的单例Bean初始化过程（下）,http://www.importnew.com/24264.html
+Spring源码分析：非懒加载的单例Bean初始化过程（上）,http://www.importnew.com/24258.html
+Spring源码分析：Bean加载流程概览及配置文件读取,http://www.importnew.com/24254.html
+Java Stream API性能测试,http://www.importnew.com/24250.html
+深入理解Java Stream流水线,http://www.importnew.com/24235.html
+Java Stream API进阶篇,http://www.importnew.com/24245.html
+Java Stream API入门篇,http://www.importnew.com/24237.html
+JVM如何操作缓冲区,http://www.importnew.com/24231.html
+并发编程：Actors模型和CSP模型,http://www.importnew.com/24226.html
+Java虚拟机9：Java类加载机制,http://www.importnew.com/24438.html
+Spring源码分析：AOP源码解析（上篇）,http://www.importnew.com/24430.html
+禁止JVM执行外部命令Runtime.exec：由Apache Commons Collections漏洞引发的思考,http://www.importnew.com/24426.html
+zookeeper入门系列：paxos协议,http://www.importnew.com/24420.html
+从Java进程里dump出类的class文件的小工具--dumpclass,http://www.importnew.com/24408.html
+zookeeper入门系列：概述,http://www.importnew.com/24411.html
+详细分析罕见的ClassCircularityError异常导致的StackOverflowError,http://www.importnew.com/24391.html
+又一次线上OOM排查经过,http://www.importnew.com/24393.html
+消息中间件收录集,http://www.importnew.com/24385.html
+Java基础中一些值得聊的话题（加载篇）,http://www.importnew.com/24381.html
+RESTful API 设计最佳实践,http://www.importnew.com/24372.html
+Quartz Cron Expressions 详解,http://www.importnew.com/24368.html
+使用 TeamCity 实现持续集成（CI） ,http://www.importnew.com/24362.html
+为什么我们迫切需要持续集成（Continuous Integration）,http://www.importnew.com/24358.html
+使用 PMD Eclipse插件,http://www.importnew.com/24354.html
+Spring Boot 中使用 Swagger2 构建强大的 RESTful API 文档,http://www.importnew.com/25428.html
+Java Selenium (三) 环境搭建基于 Maven,http://www.importnew.com/25419.html
+Spring Boot 中使用 Jdbc Template 访问数据库,http://www.importnew.com/25415.html
+使用 Eclipse Checkstyle Plugin,http://www.importnew.com/24350.html
+RabbitMQ指南（下）,http://www.importnew.com/24329.html
+OAuth 2.0 认证的原理与实践,http://www.importnew.com/24344.html
+RabbitMQ指南（中）,http://www.importnew.com/24324.html
+ 分布式系统常见的事务处理机制 ,http://www.importnew.com/24340.html
+Spring Boot 构建 RESTful API 与单元测试,http://www.importnew.com/25392.html
+Spring Boot 工程结构推荐 ,http://www.importnew.com/25389.html
+Java selenium (二) 环境搭建方法,http://www.importnew.com/25396.html
+Spring Boot 开发 Web 应用 ,http://www.importnew.com/25385.html
+Spring Boot 快速入门,http://www.importnew.com/25371.html
+Java Selenium (一) Selenium 介绍,http://www.importnew.com/25366.html
+Java 8 最佳技巧 ,http://www.importnew.com/25315.html
+使用 IoC 反转控制的三种设计模式 ,http://www.importnew.com/25320.html
+优先队列实现原理分析,http://www.importnew.com/25306.html
+如何实现一个Java Class 解析器,http://www.importnew.com/25302.html
+JVM 类加载机制详解,http://www.importnew.com/25295.html
+深入学习 FutureTask,http://www.importnew.com/25286.html
+kafka 数据可靠性深度解读,http://www.importnew.com/25247.html
+为什么 QueueingConsumer 会被 Deprecated ?,http://www.importnew.com/25242.html
+Java回调机制解读,http://www.importnew.com/24220.html
+八幅漫画理解使用 JSON Web Token 设计单点登录系统,http://www.importnew.com/25271.html
+Kafka 端到端审计,http://www.importnew.com/25228.html
+深入 JVM 分析 spring-boot 应用 hibernate-validator NoClassDefFoundError,http://www.importnew.com/25223.html
+记一次synchronized锁字符串引发的坑兼再谈Java字符串,http://www.importnew.com/24214.html
+httpClient实现微信公众号消息群发,http://www.importnew.com/24209.html
+推荐系统中对新用户的处理,http://www.importnew.com/24204.html
+大型分布式网站术语分析,http://www.importnew.com/24198.html
+解决https证书验证不通过的问题 ,http://www.importnew.com/24192.html
+如何设计一个秒杀系统,http://www.importnew.com/24185.html
+SpringBoot自动化配置的注解开关原理,http://www.importnew.com/24168.html
+JVM诊断调优CheatSheet,http://www.importnew.com/24174.html
+SpringBoot编写自定义的starter ,http://www.importnew.com/24164.html
+Linux下安装Redis,http://www.importnew.com/24112.html
+Redis初级介绍,http://www.importnew.com/24107.html
+MyBatis动态SQL底层原理分析,http://www.importnew.com/24160.html
+通过源码分析MyBatis的缓存,http://www.importnew.com/24151.html
+SpringBatch中的retry和skip机制实现分析,http://www.importnew.com/24147.html
+MyBatis拦截器原理探究,http://www.importnew.com/24143.html
+SpringBoot的事务管理,http://www.importnew.com/24138.html
+如何把IP转换成经纬度,http://www.importnew.com/24132.html
+记录自己理解的一些设计模式,http://www.importnew.com/24128.html
+Redis Lua脚本原理,http://www.importnew.com/24124.html
+Redis发布订阅实现原理,http://www.importnew.com/24120.html
+Java消息队列-Spring整合ActiveMq,http://www.importnew.com/24097.html
+一文让你明白Java字节码,http://www.importnew.com/24088.html
+你真的了解volatile关键字吗？,http://www.importnew.com/24082.html
+红黑树插入算法实现原理分析,http://www.importnew.com/24071.html
+二叉查找树实现原理分析,http://www.importnew.com/24059.html
+Java阻塞队列ArrayBlockingQueue和LinkedBlockingQueue实现原理分析,http://www.importnew.com/24055.html
+Java Annotation的RetentionPolicy介绍,http://www.importnew.com/24051.html
+如何使用Jedis操作Redis消息队列 ,http://www.importnew.com/24116.html
+Java反射机制应用实践,http://www.importnew.com/24042.html
+双亲委派模型与自定义类加载器,http://www.importnew.com/24036.html
+Java泛型详解,http://www.importnew.com/24029.html
+一起写一个JSON解析器,http://www.importnew.com/24023.html
+Log4j日志体系结构,http://www.importnew.com/24019.html
+更好地理解与使用Future,http://www.importnew.com/24015.html
+Netty精粹之玩转NIO缓冲区,http://www.importnew.com/24011.html
+扒一扒ReentrantLock以及AQS实现原理,http://www.importnew.com/24006.html
+理解CacheLine与写出更好的JAVA,http://www.importnew.com/24000.html
+如何读取ClassPath下的资源,http://www.importnew.com/23996.html
+阿里客户端工程师试题简析——Android应用的闪退（crash）分析,http://www.importnew.com/23992.html
+可以不要再使用Double-Checked Locking了,http://www.importnew.com/23980.html
+Java核心技术点之动态代理,http://www.importnew.com/23972.html
+缓存级别与缓存更新问题,http://www.importnew.com/23967.html
+更好的使用JAVA线程池,http://www.importnew.com/23984.html
+理解Java中字符流与字节流的区别,http://www.importnew.com/23963.html
+MyBatis快速入门（4）：MyBatis和Spring集成,http://www.importnew.com/23949.html
+MyBatis快速入门（3）：动态SQL,http://www.importnew.com/23943.html
+MyBatis快速入门（2）：多表映射,http://www.importnew.com/23936.html
+常用Maven插件介绍,http://www.importnew.com/23928.html
+MyBatis快速入门（1）：搭建环境和单表映射,http://www.importnew.com/23932.html
+Jenkins Gitlab持续集成打包平台搭建,http://www.importnew.com/23921.html
+深入分析Object.finalize方法的实现原理,http://www.importnew.com/23913.html
+深入分析ConcurrentHashMap1.8的扩容实现,http://www.importnew.com/23907.html
+深入分析Java方法反射的实现原理,http://www.importnew.com/23902.html
+关于Java面试，你应该准备这些知识点,http://www.importnew.com/23896.html
+你真的会用Gson吗?Gson使用指南（4）,http://www.importnew.com/23878.html
+Java内存模型,http://www.importnew.com/23888.html
+你真的会用Gson吗?Gson使用指南（3）,http://www.importnew.com/23872.html
+你真的会用Gson吗?Gson使用指南（2）,http://www.importnew.com/23866.html
+你真的会用Gson吗?Gson使用指南（1）,http://www.importnew.com/23862.html
+2017年你不能错过的Java类库,http://www.importnew.com/23858.html
+配置sonar、jenkins进行持续审查,http://www.importnew.com/23849.html
+Protobuf 语法指南,http://www.importnew.com/23843.html
+DexGuard、Proguard、Multi-dex,http://www.importnew.com/23838.html
+Leakcanary Square的一款Android/Java内存泄漏检测工具,http://www.importnew.com/23831.html
+Android优化,http://www.importnew.com/23825.html
+与Service实现双向通信（下）,http://www.importnew.com/23810.html
+Java Synchronised机制,http://www.importnew.com/23820.html
+与Service实现双向通信（中）,http://www.importnew.com/23803.html
+Java核心技术点之注解,http://www.importnew.com/23816.html
+与Service实现双向通信（上）,http://www.importnew.com/23799.html
+JVM（8）：JVM知识点总览-高级Java工程师面试必备,http://www.importnew.com/23792.html
+JVM（7）：JVM调优-工具篇,http://www.importnew.com/23786.html
+JVM（6）：JVM调优-从eclipse开始,http://www.importnew.com/23780.html
+JVM（5）：tomcat性能调优和性能监控（visualvm）,http://www.importnew.com/23774.html
+JVM（4）：Jvm调优-命令篇,http://www.importnew.com/23761.html
+JVM（3）：Java GC算法 垃圾收集器,http://www.importnew.com/23752.html
+JVM（2）：JVM内存结构,http://www.importnew.com/23746.html
+JVM（1）：Java 类的加载机制,http://www.importnew.com/23742.html
+解决ActiveMQ中，Java与C++交互中文乱码问题,http://www.importnew.com/23738.html
+ArrayList 初始化 - Java 那些事儿,http://www.importnew.com/27075.html
+注解的那点事儿 ,http://www.importnew.com/27071.html
+并发一枝花之 BlockingQueue,http://www.importnew.com/27054.html
+Java 实现生产者 - 消费者模型,http://www.importnew.com/27063.html
+面试中单例模式有几种写法,http://www.importnew.com/27056.html
+HashMap 实现原理,http://www.importnew.com/27043.html
+Java 泛型一览笔录,http://www.importnew.com/27037.html
+Redis 简述,http://www.importnew.com/27031.html
+Spring 知识点提炼,http://www.importnew.com/27024.html
+基于 ZooKeeper 的分布式锁和队列,http://www.importnew.com/27019.html
+基于 Spring Boot 的天气预报服务,http://www.importnew.com/27014.html
+就是要你懂 Java 中 volatile 关键字实现原理 ,http://www.importnew.com/27002.html
+动态添加 Redis 密码认证,http://www.importnew.com/26999.html
+Web GIS 离线解决方案,http://www.importnew.com/26979.html
+Apache Spark Jobs 性能调优,http://www.importnew.com/26967.html
+使用 Eureka 实现服务注册与发现,http://www.importnew.com/26958.html
+我们为什么要使用 AOP,http://www.importnew.com/26951.html
+这些年，安放在我工位上的那些书,http://www.importnew.com/26932.html
+Redis 和 Memcached 的区别,http://www.importnew.com/26921.html
+如何学习 TCP 协议,http://www.importnew.com/26906.html
+http request乱码的真相,http://www.importnew.com/23734.html
+JVM源码分析之堆内存的初始化,http://www.importnew.com/23766.html
+jsearch的索引文件结构,http://www.importnew.com/23727.html
+最频繁访问驻留缓存算法,http://www.importnew.com/23722.html
+关于Java Collections的几个常见问题,http://www.importnew.com/23715.html
+Java I/O 总结,http://www.importnew.com/23708.html
+我心目中的支付宝架构,http://www.importnew.com/23703.html
+保障服务的持续高可用、高性能及负载均衡 ,http://www.importnew.com/23699.html
+JVM源码分析之老年代TenuredGeneration的垃圾回收算法实现,http://www.importnew.com/23689.html
+JVM源码分析之新生代DefNewGeneration的实现,http://www.importnew.com/23683.html
+JVM源码分析之垃圾收集的执行过程,http://www.importnew.com/23677.html
+JVM源码分析之如何触发并执行GC线程,http://www.importnew.com/23667.html
+JVM源码分析之Java对象的创建过程,http://www.importnew.com/23669.html
+JVM源码分析之Java类的加载过程,http://www.importnew.com/23663.html
+清蒸 JVM （一）,http://www.importnew.com/23658.html
+JVM类加载的那些事,http://www.importnew.com/23650.html
+JVM方法调用的那些事,http://www.importnew.com/23645.html
+Java GC的那些事（下）,http://www.importnew.com/23640.html
+Java GC的那些事（上）,http://www.importnew.com/23633.html
+JVM内存的那些事,http://www.importnew.com/23629.html
+《Head first设计模式》学习笔记 - 单件模式 ,http://www.importnew.com/23491.html
+《Head first设计模式》学习笔记 - 命令模式 ,http://www.importnew.com/23481.html
+《Head first设计模式》学习笔记 - 适配器模式,http://www.importnew.com/23477.html
+《Head first设计模式》学习笔记 - 外观模式,http://www.importnew.com/23473.html
+《Head first设计模式》学习笔记 - 模板方法模式,http://www.importnew.com/23467.html
+Java 10 可能对 Lambda 表达式进行升级,http://www.importnew.com/23486.html
+《Head first设计模式》学习笔记 - 迭代器模式,http://www.importnew.com/23462.html
+促销系统设计,http://www.importnew.com/23456.html
+5亿整数的大文件，怎么排？,http://www.importnew.com/23450.html
+学习笔记：The Log（我所读过的最好的一篇分布式技术文章）,http://www.importnew.com/23445.html
+JVM模板解释器--如何根据字节码生成汇编码？,http://www.importnew.com/23439.html
+你了解实时计算吗？,http://www.importnew.com/23433.html
+Spring Profile和Mybatis进行多个数据源（H2和Mysql）的切换,http://www.importnew.com/23428.html
+你会swap吗，按值传递还是按引用？,http://www.importnew.com/23413.html
+JVM模板解释器--字节码的resolve过程,http://www.importnew.com/23384.html
+spring整合ehcache注解实现查询缓存，并实现实时缓存更新或删除,http://www.importnew.com/23358.html
+G1垃圾回收器中的字符串去重(Java 8 Update 20),http://www.importnew.com/23354.html
+在命令行中使用Eclipse MAT工具,http://www.importnew.com/23348.html
+Java RESTful框架的性能比较,http://www.importnew.com/23342.html
+Vert.x 线程模型揭秘,http://www.importnew.com/23334.html
+netty5 HTTP协议栈浅析与实践,http://www.importnew.com/23195.html
+听说最近你读过不少书,http://www.importnew.com/23191.html
+JVM初探——使用堆外内存减少Full GC,http://www.importnew.com/23186.html
+浅谈WeakHashMap,http://www.importnew.com/23182.html
+Java集合框架源码剖析：LinkedHashSet 和 LinkedHashMap,http://www.importnew.com/23178.html
+Java Lambda表达式初探,http://www.importnew.com/23174.html
+JDK动态代理详解,http://www.importnew.com/23168.html
+JDK7与JDK8中HashMap的实现,http://www.importnew.com/23164.html
+Java中的陷阱题 ,http://www.importnew.com/23160.html
+Java 9的这一基本功能，你可能从未听过,http://www.importnew.com/23155.html
+JVM中的逃逸分析,http://www.importnew.com/23150.html
+JVM GC参数以及GC算法的应用,http://www.importnew.com/23146.html
+ActiveMQ + ZooKeeper 集群高可用配置,http://www.importnew.com/23142.html
+用Maven部署war包到远程Tomcat服务器 ,http://www.importnew.com/23138.html
+ehcache实现页面整体缓存和页面局部缓存 ,http://www.importnew.com/23131.html
+Spring源码的编译、下载和阅读,http://www.importnew.com/23125.html
+Action 分发机制实现原理,http://www.importnew.com/23114.html
+格雷码那点事——递归非递归实现,http://www.importnew.com/23120.html
+JVM源码---教你傻瓜式编译openjdk7,http://www.importnew.com/23031.html
+Zookeeper入门 ,http://www.importnew.com/23025.html
+Spring：基于注解的Spring MVC（下）,http://www.importnew.com/23019.html
+Spring：基于注解的Spring MVC（上）,http://www.importnew.com/23015.html
+高并发下的九死一生，一个不小心就掉入万丈深渊,http://www.importnew.com/23010.html
+Web API 版本控制的几种方式,http://www.importnew.com/23005.html
+基于dropwizard/metrics ，kafka，zabbix构建应用统计数据收集展示系统,http://www.importnew.com/23001.html
+JVM内存管理--GC算法精解（五分钟让你彻底明白标记/清除算法）,http://www.importnew.com/22996.html
+利用github搭建个人maven仓库,http://www.importnew.com/22992.html
+Jackson 通过自定义注解来控制json key的格式,http://www.importnew.com/22987.html
+JVM初探：内存分配、GC原理与垃圾收集器,http://www.importnew.com/23035.html
+统计分析工程的依赖项,http://www.importnew.com/22983.html
+理解Compressed Sparse Column Format (CSC),http://www.importnew.com/22977.html
+在Spring MVC中使用Apache Shiro安全框架,http://www.importnew.com/22908.html
+Lock 那点事儿,http://www.importnew.com/22971.html
+写程序很难之去除字符串的空白字符,http://www.importnew.com/22956.html
+Apache HttpClient 没有设置time out导致应用长时间阻塞的问题,http://www.importnew.com/22952.html
+关于Java并发编程的总结和思考,http://www.importnew.com/22945.html
+适应各种开发，测试，线上，线下环境的Spring配置方式,http://www.importnew.com/22941.html
+正确实现用spring扫描自定义的annotation,http://www.importnew.com/22934.html
+zookeeper 大量连接断开重连原因排查,http://www.importnew.com/22930.html
+ReentrantLock实现原理深入探究,http://www.importnew.com/22924.html
+ConcurrentHashMap的红黑树实现分析,http://www.importnew.com/23621.html
+如何在生产环境使用Btrace进行调试,http://www.importnew.com/23614.html
+谈谈ConcurrentHashMap1.7和1.8的不同实现,http://www.importnew.com/23610.html
+java对象头的HotSpot实现分析,http://www.importnew.com/23605.html
+如何使用jstack分析线程状态 ,http://www.importnew.com/23601.html
+你真的很熟分布式和事务吗？,http://www.importnew.com/23597.html
+浅谈Spring框架注解的用法分析,http://www.importnew.com/23592.html
+面试的角度诠释Java工程师（一）,http://www.importnew.com/23549.html
+面试的角度诠释Java工程师（二）,http://www.importnew.com/23557.html
+框架开发之Java注解的妙用,http://www.importnew.com/23564.html
+谈谈Java反射机制,http://www.importnew.com/23560.html
+Java并发：volatile内存可见性和指令重排,http://www.importnew.com/23535.html
+死磕Java并发：Java内存模型之happens-before,http://www.importnew.com/23519.html
+死磕Java并发：深入分析volatile的实现原理,http://www.importnew.com/23520.html
+Loadbalance的几种算法以及在ribbon中的使用,http://www.importnew.com/23515.html
+死磕Java并发：深入分析synchronized的实现原理 ,http://www.importnew.com/23511.html
+《Head first设计模式》学习笔记 - 观察者模式 ,http://www.importnew.com/23507.html
+《Head first设计模式》学习笔记 - 策略模式 ,http://www.importnew.com/23503.html
+《Head first设计模式》学习笔记 - 工厂方法模式 ,http://www.importnew.com/23499.html
+《Head first设计模式》学习笔记 - 抽象工厂模式 ,http://www.importnew.com/23495.html
+Maven实战：pom.xml与settings.xml ,http://www.importnew.com/22779.html
+Spring8：一些常用的Spring Bean扩展接口,http://www.importnew.com/22775.html
+MemCache超详细解读,http://www.importnew.com/22771.html
+JAVA虚拟机关闭钩子(Shutdown Hook),http://www.importnew.com/22765.html
+keepalived实现Tomcat服务双机热备,http://www.importnew.com/22761.html
+Spring Cache,http://www.importnew.com/22757.html
+谈谈互联网后端基础设施,http://www.importnew.com/22732.html
+推荐系统杂谈,http://www.importnew.com/22728.html
+LB 负载均衡的层次结构,http://www.importnew.com/22724.html
+IM 去中心化概念模型与架构设计,http://www.importnew.com/22719.html
+ThreadPoolExecutor使用错误导致死锁,http://www.importnew.com/22705.html
+缓存策略优化,http://www.importnew.com/22709.html
+Java 脚本化编程指南,http://www.importnew.com/22675.html
+Java Scripting API 使用示例 ,http://www.importnew.com/22671.html
+Java 8 的 Nashorn 脚本引擎教程,http://www.importnew.com/22667.html
+如何开始使用 Java 机器学习,http://www.importnew.com/22663.html
+CognitiveJ —— Java 的图像分析库,http://www.importnew.com/22658.html
+Java 性能优化的五大技巧,http://www.importnew.com/22653.html
+Java 解惑：Comparable 和 Comparator 的区别,http://www.importnew.com/22641.html
+面试心得与总结---BAT、网易、蘑菇街,http://www.importnew.com/22637.html
+Google Java编程风格指南,http://www.importnew.com/22633.html
+java NIO详解,http://www.importnew.com/22623.html
+Intellij IDEA 一些不为人知的技巧,http://www.importnew.com/22604.html
+Java 异常处理的误区和经验总结,http://www.importnew.com/22600.html
+JavaEE - JPA（7）：ORM的核心注解 - 关系类型,http://www.importnew.com/22595.html
+JavaEE - JPA（6）：ORM的核心注解 - 基础类型以及嵌套类型,http://www.importnew.com/22589.html
+JavaEE - JPA（5）：ORM的核心注解 - 访问方式，表映射以及主键生成,http://www.importnew.com/22582.html
+JavaEE - JPA（4）：EntityManager相关核心概念,http://www.importnew.com/22576.html
+JavaEE - JPA（3）：Spring Framework中的事务管理,http://www.importnew.com/22570.html
+JavaEE - JPA（2）：EJB中的事务管理,http://www.importnew.com/22564.html
+JavaEE - JPA（1）：事务的基础概念,http://www.importnew.com/22559.html
+线程及同步的性能 - 线程池/ ThreadPoolExecutors/ ForkJoinPool,http://www.importnew.com/22554.html
+大话程序猿眼里的高并发（下）,http://www.importnew.com/22546.html
+大话程序猿眼里的高并发（上）,http://www.importnew.com/22542.html
+Java语法糖（4）：内部类,http://www.importnew.com/22535.html
+Java语法糖（3）：泛型,http://www.importnew.com/22529.html
+Java语法糖（2）：自动装箱和自动拆箱,http://www.importnew.com/22523.html
+Java消息队列任务的平滑关闭,http://www.importnew.com/22519.html
+Java语法糖（1）：可变长度参数以及foreach循环原理,http://www.importnew.com/22513.html
+ThreadLocal内存泄露,http://www.importnew.com/22480.html
+2016最流行的Java EE服务器,http://www.importnew.com/22475.html
+自己写一个java.lang.reflect.Proxy代理的实现,http://www.importnew.com/22501.html
+java 如何在pdf中生成表格,http://www.importnew.com/22497.html
+如何防止单例模式被JAVA反射攻击,http://www.importnew.com/22493.html
+对一致性Hash算法，Java代码实现的深入研究,http://www.importnew.com/22488.html
+java虚拟机 jvm 局部变量表实战,http://www.importnew.com/22484.html
+聊聊并发-Java中的Copy-On-Write容器,http://www.importnew.com/22470.html
+java.lang.Instrument 代理Agent使用,http://www.importnew.com/22466.html
+Class热替换与卸载,http://www.importnew.com/22462.html
+JDK自带工具之问题排查场景示例,http://www.importnew.com/22455.html
+Java开发者需要了解的移动开发编程语言,http://www.importnew.com/22451.html
+13个不容错过的Java项目,http://www.importnew.com/22447.html
+JVM 性能调优实战之：一次系统性能瓶颈的寻找过程,http://www.importnew.com/22434.html
+JVM 性能调优实战之：使用阿里开源工具 TProfiler 在海量业务代码中精确定位性能代码,http://www.importnew.com/22438.html
+2016年7款最佳 Java 框架推荐,http://www.importnew.com/22429.html
+ Java 开发者值得关注的 11 个技术博客,http://www.importnew.com/22425.html
+Redmonk发布Java框架流行度调研结果,http://www.importnew.com/22421.html
+Java 8开发的4大顶级技巧,http://www.importnew.com/22417.html
+GitHub漫游指南：10个值得你关注的Java项目 ,http://www.importnew.com/22409.html
+除了Guava，Java开发者还值得了解的5个谷歌类库,http://www.importnew.com/22413.html
+从零开始玩转logback,http://www.importnew.com/22290.html
+关于Java并发编程的总结和思考,http://www.importnew.com/22286.html
+Java虚拟机学习（10）：类加载器(ClassLoader),http://www.importnew.com/22270.html
+Java虚拟机学习（9）：对象引用强度,http://www.importnew.com/22264.html
+Java虚拟机学习（8）：查看JVM参数及值的命令行工具,http://www.importnew.com/22258.html
+Java虚拟机学习（7）：对象内存分配与回收,http://www.importnew.com/22251.html
+Java虚拟机学习（6）：对象访问,http://www.importnew.com/22245.html
+Java虚拟机学习（5）：内存调优,http://www.importnew.com/22240.html
+Java虚拟机学习（4）：JDK可视化监控工具,http://www.importnew.com/22235.html
+Java虚拟机学习（3）： 类加载机制,http://www.importnew.com/22228.html
+Java虚拟机学习（2）：垃圾收集算法,http://www.importnew.com/22223.html
+Java虚拟机学习（1）：体系结构 内存模型,http://www.importnew.com/22217.html
+分布式Unique ID的生成方法一览,http://www.importnew.com/22211.html
+Netty之有效规避内存泄漏,http://www.importnew.com/22205.html
+JDK数则,http://www.importnew.com/22199.html
+Spring MVC中的二三事,http://www.importnew.com/22188.html
+避免死锁,http://www.importnew.com/22184.html
+哪个更快：Java堆还是本地内存,http://www.importnew.com/22178.html
+深入解析OutOfMemoryError,http://www.importnew.com/22173.html
+String.intern() 祛魅,http://www.importnew.com/22126.html
+Netty SSL性能调优,http://www.importnew.com/22122.html
+性能优化那些事,http://www.importnew.com/22118.html
+深度解析Java8 – ScheduledThreadPoolExecutor源码解析 ,http://www.importnew.com/22112.html
+深度解析Java8 – AbstractQueuedSynchronizer的实现分析（上）,http://www.importnew.com/22102.html
+深度解析Java8 – AbstractQueuedSynchronizer的实现分析（下）,http://www.importnew.com/22108.html
+【闲说】性能测试,http://www.importnew.com/22096.html
+Java面试题全集（下）,http://www.importnew.com/22087.html
+Java面试题全集（上）,http://www.importnew.com/22083.html
+AtomicInteger源码分析——基于CAS的乐观锁实现,http://www.importnew.com/22078.html
+Java性能优化指南，及唯品会的实战 ,http://www.importnew.com/22068.html
+我的Java后端书架 (2016年暖冬4.0版),http://www.importnew.com/22064.html
+使用 Java8 Optional 的正确姿势,http://www.importnew.com/22060.html
+ThreadLocal 内存泄露的实例分析,http://www.importnew.com/22046.html
+阿里面试回来，想和Java程序员谈一谈,http://www.importnew.com/22056.html
+详解Java中的clone方法 -- 原型模式,http://www.importnew.com/22035.html
+深入分析 ThreadLocal 内存泄漏问题,http://www.importnew.com/22039.html
+一个经典例子让你彻彻底底理解java回调机制,http://www.importnew.com/22031.html
+系统负载能力浅析,http://www.importnew.com/22025.html
+Java动态代理与CGLIB,http://www.importnew.com/22015.html
+也谈IO模型,http://www.importnew.com/22019.html
+编程思想之多线程与多进程系列（上）,http://www.importnew.com/21897.html
+从消息机制谈到观察者模式,http://www.importnew.com/21893.html
+Java并发编程：CountDownLatch、CyclicBarrier和 Semaphore ,http://www.importnew.com/21889.html
+2016 年最受欢迎的编程语言是什么？ ,http://www.importnew.com/21879.html
+编程思想之消息机制,http://www.importnew.com/21875.html
+从MyEclipse到IntelliJ IDEA,http://www.importnew.com/21870.html
+图解HashMap和HashSet的内部工作机制,http://www.importnew.com/21841.html
+Java中synchronized的用法,http://www.importnew.com/21866.html
+用Java做音乐识别软件,http://www.importnew.com/21839.html
+使用String的intern方法节省内存,http://www.importnew.com/21836.html
+JAVA程序员必知的一些事,http://www.importnew.com/21828.html
+Java对象初始化顺序,http://www.importnew.com/21832.html
+史上最清晰的红黑树讲解（下）,http://www.importnew.com/21822.html
+史上最清晰的红黑树讲解（上）,http://www.importnew.com/21818.html
+AOP 那点事儿（续集）,http://www.importnew.com/21811.html
+AOP 那点事儿,http://www.importnew.com/21807.html
+使用 Docker 搭建 Java Web 运行环境 ,http://www.importnew.com/21798.html
+盘点当下最流行的 Java 工具,http://www.importnew.com/21793.html
+Java集合---ConcurrentHashMap原理分析 ,http://www.importnew.com/21786.html
+ConcurrentHashMap源码剖析,http://www.importnew.com/21781.html
+如何实现一个应用级缓存（上）,http://www.importnew.com/21570.html
+图解 & 深入浅出JavaWeb：事务必会必知 ,http://www.importnew.com/21565.html
+Netty 实现 WebSocket 聊天功能,http://www.importnew.com/21561.html
+Java 编程要点之并发（Concurrency）详解,http://www.importnew.com/21548.html
+Java 编程要点之 I/O 流详解,http://www.importnew.com/21556.html
+在 JDK 9 中更简洁使用 try-with-resources 语句 ,http://www.importnew.com/21544.html
+Mockito 简明教程,http://www.importnew.com/21540.html
+Apache Hadoop 入门教程,http://www.importnew.com/21536.html
+Hibernate 性能优化法则,http://www.importnew.com/21532.html
+每个程序员都必读的10篇文章,http://www.importnew.com/21527.html
+Java中的垃圾回收,http://www.importnew.com/21522.html
+关于Java的10个谎言 ,http://www.importnew.com/21510.html
+Java transient关键字使用小记,http://www.importnew.com/21517.html
+再谈notify和notifyAll的区别和相同 ,http://www.importnew.com/21501.html
+深入分析JavaWeb Item6 -- servletConfig 与servletContext详解,http://www.importnew.com/21506.html
+Java字节码中的一些特定处理,http://www.importnew.com/21496.html
+Java中的垃圾回收机制,http://www.importnew.com/21492.html
+深入浅出ThreadLocal ,http://www.importnew.com/21479.html
+混乱的 Java 日志体系,http://www.importnew.com/21486.html
+JVM类加载的那些事,http://www.importnew.com/21470.html
+谈谈HashMap线程不安全的体现,http://www.importnew.com/22011.html
+ConcurrentHashMap总结 ,http://www.importnew.com/22007.html
+RPC原理及RPC实例分析,http://www.importnew.com/22003.html
+Java直接（堆外）内存使用详解,http://www.importnew.com/21998.html
+Java程序员的日常——经验贴（纯干货）,http://www.importnew.com/21993.html
+Apache Commons CLI官方文档翻译 —— 快速构建命令行启动模式,http://www.importnew.com/21988.html
+java内部类final语义实现,http://www.importnew.com/21983.html
+jdk线程池中调整coreSize无效的问题分析及处理,http://www.importnew.com/21976.html
+使用JDI进行线上程序断点信息记录,http://www.importnew.com/21971.html
+服务端推送websocket和sse场景及应用 ,http://www.importnew.com/21967.html
+Apache HBase 入门教程,http://www.importnew.com/21958.html
+开发可正确序列化和反序列化的guava table组件,http://www.importnew.com/21963.html
+Java正则表达中Greedy Reluctant Possessive 的区别,http://www.importnew.com/21954.html
+使用Dozer优雅的将DO转换成VO,http://www.importnew.com/21947.html
+Spring 5 新功能：函数式 Web 框架,http://www.importnew.com/21941.html
+Java锁优化,http://www.importnew.com/21933.html
+排名Top 16的Java实用类库,http://www.importnew.com/21928.html
+Java 9 将推迟到2017年7月发布,http://www.importnew.com/21919.html
+编程思想之多线程与多进程系列（下）,http://www.importnew.com/21907.html
+编程思想之多线程与多进程系列（中）,http://www.importnew.com/21904.html
+理解RxJava的线程模型,http://www.importnew.com/23325.html
+继续了解Java的纤程库 - Quasar,http://www.importnew.com/23314.html
+Java中的纤程库 - Quasar,http://www.importnew.com/23318.html
+JVM上最快的Bloom filter实现,http://www.importnew.com/23301.html
+使用四种框架分别实现百万websocket常连接的服务器,http://www.importnew.com/23293.html
+七种WebSocket框架的性能比较,http://www.importnew.com/23286.html
+niubi-job：一个分布式的任务调度框架设计原理以及实现,http://www.importnew.com/23277.html
+从线程间通信看到的关于基本类型封包的问题,http://www.importnew.com/23272.html
+扯谈web安全之JSON,http://www.importnew.com/23253.html
+编绎调试HotSpot JVM及在Eclipse里调试,http://www.importnew.com/23264.html
+伪共享（false sharing），并发编程无声的性能杀手,http://www.importnew.com/23246.html
+Java豆瓣电影爬虫——抓取电影详情和电影短评数据,http://www.importnew.com/23242.html
+构建高可用ZooKeeper集群,http://www.importnew.com/23237.html
+mysql数据库开发常见问题及优化,http://www.importnew.com/23232.html
+成小胖学习微服务架构·基础篇 ,http://www.importnew.com/23227.html
+用数据找机会——《决战大数据》精粹,http://www.importnew.com/23222.html
+基于netty http协议栈的轻量级流程控制组件的实现,http://www.importnew.com/23218.html
+和 Thrift 的一场美丽邂逅,http://www.importnew.com/23211.html
+日交易额百亿级交易系统的超轻量日志实现 ,http://www.importnew.com/23206.html
+kafka学习笔记：知识点整理,http://www.importnew.com/23199.html
+Tomcat5.5(6.0)配置-多域名绑定和虚拟目录,http://www.importnew.com/21364.html
+高并发Java（9）：锁的优化和注意事项,http://www.importnew.com/21353.html
+高并发Java（8）：NIO和AIO,http://www.importnew.com/21341.html
+Spring MVC REST异常处理最佳实践（下）,http://www.importnew.com/21280.html
+Spring MVC REST异常处理最佳实践（上）,http://www.importnew.com/21278.html
+高并发Java（7）：并发设计模式,http://www.importnew.com/21312.html
+编程的智慧,http://www.importnew.com/21317.html
+给Java程序猿们推荐一些值得一看的好书,http://www.importnew.com/21308.html
+高并发Java（6）：JDK并发包2,http://www.importnew.com/21303.html
+高并发Java（5）：JDK并发包1,http://www.importnew.com/21288.html
+为Java说句公道话,http://www.importnew.com/21298.html
+HashMap的实现与优化,http://www.importnew.com/21294.html
+高并发Java（4）：无锁,http://www.importnew.com/21282.html
+GitHub上那些值得一试的JAVA开源库,http://www.importnew.com/21257.html
+Java学习路线,http://www.importnew.com/21251.html
+高并发Java（3）：Java内存模型和线程安全,http://www.importnew.com/21245.html
+高并发Java（2）：多线程基础,http://www.importnew.com/21239.html
+Class对象和Java反射机制,http://www.importnew.com/21235.html
+高并发Java（1）：前言,http://www.importnew.com/21229.html
+Java代码优化,http://www.importnew.com/21224.html
+Java垃圾回收机制,http://www.importnew.com/21218.html
+Java反射在JVM的实现,http://www.importnew.com/21211.html
+十分钟理解Java中的弱引用,http://www.importnew.com/21206.html
+Java并发控制机制,http://www.importnew.com/21199.html
+GC算法基础 ,http://www.importnew.com/21193.html
+深入分析Java ClassLoader原理,http://www.importnew.com/21189.html
+Junit测试Controller（MockMVC使用），传输@RequestBody数据解决办法,http://www.importnew.com/21153.html
+浅谈 Java 字符串,http://www.importnew.com/21147.html
+如何正确地写出单例模式,http://www.importnew.com/21141.html
+Java多线程干货系列（1）：Java多线程基础,http://www.importnew.com/21136.html
+万能 Java,http://www.importnew.com/21131.html
+JDK 中的证书生成和管理工具 keytool ,http://www.importnew.com/21125.html
+Java中的Checked Exception——美丽世界中潜藏的恶魔？,http://www.importnew.com/21117.html
+粗浅看 Tomcat系统架构分析,http://www.importnew.com/21112.html
+粗浅看 Tomcat中设计模式分析,http://www.importnew.com/21106.html
+【调侃】IOC前世今生,http://www.importnew.com/21102.html
+Java 征途：行者的地图,http://www.importnew.com/21096.html
+Logstash实践: 分布式系统的日志监控,http://www.importnew.com/21093.html
+Java中的多线程你只要看这一篇就够了,http://www.importnew.com/21089.html
+降低Java垃圾回收开销的5条建议,http://www.importnew.com/20656.html
+"使用基于注解的mybatis时,利用反射和注解生成sql语句",http://www.importnew.com/22918.html
+Mybatis的ResultMap的使用,http://www.importnew.com/22914.html
+web.xml组件加载顺序,http://www.importnew.com/22909.html
+Quartz集群实战及原理解析,http://www.importnew.com/22896.html
+Quartz 入门详解,http://www.importnew.com/22890.html
+JVM 调优 —— GC 长时间停顿问题及解决方法,http://www.importnew.com/22886.html
+Spring、Spring MVC、MyBatis整合文件配置详解,http://www.importnew.com/22880.html
+应用内置embeded tomcat，并打包为fat jar的解决方案,http://www.importnew.com/22876.html
+spring boot executable jar/war 原理,http://www.importnew.com/22872.html
+单点登录原理与简单实现,http://www.importnew.com/22863.html
+spring + redis 实现数据的缓存,http://www.importnew.com/22868.html
+spring核心框架体系结构,http://www.importnew.com/22859.html
+使用Spring Boot开发Web项目,http://www.importnew.com/22854.html
+几种简单的负载均衡算法及其Java代码实现,http://www.importnew.com/22821.html
+MyBatis（6）：MyBatis集成Spring事务管理（下）,http://www.importnew.com/22816.html
+MyBatis（5）：MyBatis集成Spring事务管理（上）,http://www.importnew.com/22807.html
+MyBatis（4）：动态SQL,http://www.importnew.com/22801.html
+MyBatis（3）：SQL映射,http://www.importnew.com/22795.html
+MyBatis（2）：config.xml文件,http://www.importnew.com/22789.html
+MyBatis（1）：MyBatis入门,http://www.importnew.com/22783.html
+JAVA要死了吗？不！我来告诉你为什么！,http://www.importnew.com/21756.html
+曾经的 Java IDE 王者 Eclipse，它是如何没落的？,http://www.importnew.com/21754.html
+如何查看HotSpot VM的运行时数据,http://www.importnew.com/21729.html
+浅谈Java String内幕（下）,http://www.importnew.com/21720.html
+浅谈Java String内幕（上）,http://www.importnew.com/21711.html
+浅谈HotSpot逃逸分析,http://www.importnew.com/21699.html
+日志打印的5点建议,http://www.importnew.com/21690.html
+「深入Java」Generics泛型,http://www.importnew.com/21694.html
+Java中创建URL的常见问题及解决方案,http://www.importnew.com/21686.html
+远程过程调用(RPC)详解,http://www.importnew.com/21660.html
+java中针对finalize的实现和相应的执行过程,http://www.importnew.com/21640.html
+java中针对Reference的实现和相应的执行过程 ,http://www.importnew.com/21633.html
+Transaction 那点事儿,http://www.importnew.com/21603.html
+gc过程中reference对象的处理,http://www.importnew.com/21628.html
+UML类图几种关系的总结,http://www.importnew.com/21598.html
+ThreadLocal 那点事儿（续集）,http://www.importnew.com/21593.html
+Jsoup代码解读（2）：DOM相关对象,http://www.importnew.com/21621.html
+从 MVC 到前后端分离,http://www.importnew.com/21589.html
+关于业务架构的一些思考,http://www.importnew.com/21585.html
+如何实现一个应用级缓存（下）,http://www.importnew.com/21577.html
+Java中创建对象的5种不同方法,http://www.importnew.com/22405.html
+Java性能优化全攻略,http://www.importnew.com/22401.html
+奇怪的Java题：为什么1000 == 1000返回为False，而100 == 100会返回为True?,http://www.importnew.com/22386.html
+11个最值得Java开发者收藏的网站,http://www.importnew.com/22382.html
+位运算的妙用,http://www.importnew.com/22378.html
+Java的常见误区与细节,http://www.importnew.com/22374.html
+对Java意义重大的7个性能指标,http://www.importnew.com/22397.html
+高性能的关键：Spring MVC的异步模式 ,http://www.importnew.com/22368.html
+Jackson 通过自定义注解来控制json key的格式,http://www.importnew.com/22364.html
+【Spring】Bean的生命周期 ,http://www.importnew.com/22350.html
+关于日志记录的一些感想,http://www.importnew.com/22360.html
+MyBatis增强工具pndao-帮你自动写SQL,http://www.importnew.com/22346.html
+JDK自带工具概览,http://www.importnew.com/22342.html
+JSch基本使用,http://www.importnew.com/22322.html
+Java调优经验谈,http://www.importnew.com/22336.html
+从零开始玩转JMX（4）：Apache Commons Modeler & Dynamic MBean,http://www.importnew.com/22316.html
+从零开始玩转JMX（3）：Model MBean,http://www.importnew.com/22311.html
+从零开始玩转JMX（2）：Condition,http://www.importnew.com/22304.html
+从零开始玩转JMX（1）：简介和 Standard MBean,http://www.importnew.com/22299.html
+数据库相关中间件全家桶,http://www.importnew.com/22294.html
+Java开发者应当理解的专业术语,http://www.importnew.com/20850.html
+源码分析HotSpot GC过程（下）：TenuredGeneration的GC过程,http://www.importnew.com/21068.html
+log4j2 不使用配置文件，动态生成logger对象,http://www.importnew.com/21079.html
+源码分析：Java对象的内存分配,http://www.importnew.com/21075.html
+源码分析HotSpot GC过程（中）：DefNewGeneration的GC过程,http://www.importnew.com/21063.html
+源码分析HotSpot GC过程（上）,http://www.importnew.com/21059.html
+Java上的jQuery？解析HTML利器—Jsoup,http://www.importnew.com/21055.html
+高性能的关键：Spring MVC的异步模式,http://www.importnew.com/21051.html
+深入理解乐观锁与悲观锁,http://www.importnew.com/21037.html
+用Maven部署war包到远程Tomcat服务器,http://www.importnew.com/21047.html
+聊一聊ThreadLocal,http://www.importnew.com/21043.html
+java/android 设计模式学习笔记（9）：代理模式,http://www.importnew.com/21031.html
+Redis与Java - 数据结构 ,http://www.importnew.com/21028.html
+通过反编译深入理解Java String及intern,http://www.importnew.com/21024.html
+java/android 设计模式学习笔记（8）：桥接模式,http://www.importnew.com/21019.html
+终止阻塞的线程,http://www.importnew.com/21015.html
+从字节码层面看“HelloWorld” ,http://www.importnew.com/21010.html
+java/android 设计模式学习笔记（7）：装饰者模式,http://www.importnew.com/21005.html
+Java并发编程实战（3）：“J.U.C”—锁，lock,http://www.importnew.com/20997.html
+Java幽灵引用的作用,http://www.importnew.com/20992.html
+java/android 设计模式学习笔记（6）：适配器模式,http://www.importnew.com/20986.html
+Java并发编程实战（2）：synchronized,http://www.importnew.com/20978.html
+JAVA中断线程的方法 ,http://www.importnew.com/20972.html
+java/android 设计模式学习笔记（5）：对象池模式 ,http://www.importnew.com/20967.html
+ThreadLocal工作原理,http://www.importnew.com/20963.html
+Java中ConcurrentHashMap学习,http://www.importnew.com/20952.html
+Java中如何删除一个集合中的多个元素,http://www.importnew.com/20959.html
+Spring高级应用之注入嵌套Bean,http://www.importnew.com/20956.html
+Java路径问题最终解决方案—可定位所有资源的相对路径寻址 ,http://www.importnew.com/20943.html
+Java中的Atomic包使用指南,http://www.importnew.com/20940.html
+java/android 设计模式学习笔记（4）：抽象工厂模式,http://www.importnew.com/20933.html
+java并发编程实战（1）：线程基本概念,http://www.importnew.com/20929.html
+java/android 设计模式学习笔记（3）：工厂方法模式,http://www.importnew.com/20924.html
+并发性能优化 ： 降低锁粒度,http://www.importnew.com/20920.html
+java enum的使用以及字符串其字符串之间的转换,http://www.importnew.com/20915.html
+java/android 设计模式学习笔记（2）：观察者模式,http://www.importnew.com/20907.html
+Java8中CAS的增强,http://www.importnew.com/20903.html
+Spring 4.3 的新功能和增强,http://www.importnew.com/20899.html
+Spring中ApplicationContext的事件机制,http://www.importnew.com/20890.html
+Java并发编程（23）：并发新特性—信号量Semaphore（含代码）,http://www.importnew.com/20886.html
+Java并发编程（17）：深入Java内存模型—内存操作规则总结,http://www.importnew.com/20778.html
+Spring MVC 实践 - Base,http://www.importnew.com/20774.html
+java提高篇之实现多重继承,http://www.importnew.com/20768.html
+Java并发编程（16）：深入Java内存模型—happen-before规则及其对DCL的分析（含代码）,http://www.importnew.com/20763.html
+Java实现 二叉搜索树算法（BST）,http://www.importnew.com/20754.html
+Spring学习篇：AOP知识整理,http://www.importnew.com/20748.html
+Java并发编程（15）：并发编程中实现内存可见的两种方法比较—加锁和volatile变量,http://www.importnew.com/20741.html
+Spring容器中Bean的作用域 ,http://www.importnew.com/20736.html
+java的动态代理机制详解,http://www.importnew.com/20732.html
+Java并发编程（14）：图文讲述同步的另一个重要功能—内存可见性,http://www.importnew.com/20725.html
+关于JVM的类型和模式,http://www.importnew.com/20715.html
+Java并发编程（13）：生产者—消费者模型（含代码）,http://www.importnew.com/20709.html
+对map集合进行排序 ,http://www.importnew.com/20703.html
+Java并发编程（12）：线程间通信中notifyAll造成的早期通知问题（含代码）,http://www.importnew.com/20697.html
+Java同步块,http://www.importnew.com/20720.html
+线程安全与共享资源 ,http://www.importnew.com/20693.html
+java提高篇之数组（2）,http://www.importnew.com/20683.html
+Java并发编程（11）：线程间通信中notify通知的遗漏（含代码）,http://www.importnew.com/20677.html
+如何创建并运行java线程 ,http://www.importnew.com/20672.html
+java提高篇之数组（1）：认识JAVA数组,http://www.importnew.com/20666.html
+java提高篇之集合大家族,http://www.importnew.com/20894.html
+Spring高级应用之注入各类集合,http://www.importnew.com/20881.html
+Java中实现CallBack功能,http://www.importnew.com/20877.html
+Java并发编程（22）：并发新特性—障碍器CyclicBarrier（含代码）,http://www.importnew.com/20873.html
+一道面试题比较synchronized和读写锁,http://www.importnew.com/20865.html
+多个线程之间共享数据的方式,http://www.importnew.com/20861.html
+java/android 设计模式学习笔记（1）：单例模式,http://www.importnew.com/20844.html
+java中 CopyOnWriteArrayList 的使用,http://www.importnew.com/20840.html
+Java并发编程（21）：并发新特性—阻塞队列和阻塞栈（含代码）,http://www.importnew.com/20834.html
+NIO学习--缓冲区,http://www.importnew.com/20830.html
+Spring两种依赖注入方式的比较,http://www.importnew.com/20827.html
+Java并发编程（20）：并发新特性—Lock锁和条件变量（含代码）,http://www.importnew.com/20822.html
+剖析同步器,http://www.importnew.com/20817.html
+Spring MVC 实践 - Component ,http://www.importnew.com/20813.html
+Java并发编程（19）：并发新特性—Executor框架与线程池（含代码）,http://www.importnew.com/20809.html
+一个通用并发对象池的实现,http://www.importnew.com/20804.html
+java提高篇之关键字final ,http://www.importnew.com/20800.html
+Java并发编程（18）：第五篇中volatile意外问题的正确分析解答（含代码）,http://www.importnew.com/20794.html
+Spring中你不知道的注入方式,http://www.importnew.com/20788.html
+NIO学习--核心概念与基本读写,http://www.importnew.com/20784.html
+Java并发编程（10）：使用wait/notify/notifyAll实现线程间通信的几点重要说明,http://www.importnew.com/20659.html
+开源全局配置中心XDiamond,http://www.importnew.com/20650.html
+java提高篇之异常(下) ,http://www.importnew.com/20645.html
+Java并发编程（9）：死锁（含代码）,http://www.importnew.com/20638.html
+浅析数据一致性,http://www.importnew.com/20633.html
+java提高篇之异常（上）,http://www.importnew.com/20629.html
+Java并发编程（8）：多线程环境中安全使用集合API（含代码）,http://www.importnew.com/20624.html
+[Google Guava] 1.1-使用和避免null,http://www.importnew.com/20616.html
+spring security的原理及教程,http://www.importnew.com/20612.html
+Java并发编程（7）：使用synchronized获取互斥锁的几点说明,http://www.importnew.com/20607.html
+Java JUC之Atomic系列12大类实例讲解和原理分解,http://www.importnew.com/20594.html
+[JAVA · 初级]：容器类 ,http://www.importnew.com/20590.html
+Java并发编程（6）：Runnable和Thread实现多线程的区别（含代码）,http://www.importnew.com/20584.html
+java提高篇之关键字static,http://www.importnew.com/20579.html
+Java中的JIT机制对运行速度的优化,http://www.importnew.com/20575.html
+Java并发编程（5）：volatile变量修饰符—意料之外的问题（含代码）,http://www.importnew.com/20566.html
+java提高篇之java的四舍五入,http://www.importnew.com/20561.html
+Java 8 指南,http://www.importnew.com/20557.html
+Java并发编程（4）：守护线程与线程阻塞的四种情况,http://www.importnew.com/20551.html
+Java Date Time 教程-java.util.Date,http://www.importnew.com/20545.html
+Java并发编程（3）：线程挂起、恢复与终止的正确方法（含代码）,http://www.importnew.com/20539.html
+Spring+Log4j+ActiveMQ实现远程记录日志——实战+分析,http://www.importnew.com/20532.html
+Java并发编程（2）：线程中断（含代码）,http://www.importnew.com/20527.html
+为什么在Spring的配置里，最好不要配置xsd文件的版本号,http://www.importnew.com/20523.html
+Java并发编程（1）：可重入内置锁,http://www.importnew.com/20487.html
+哪个线程执行 CompletableFuture’s tasks 和 callbacks? ,http://www.importnew.com/20483.html
+渐析java的浅拷贝和深拷贝,http://www.importnew.com/20479.html
+乐观锁的一种实现方式——CAS,http://www.importnew.com/20472.html
+Java引用类型 ,http://www.importnew.com/20468.html
+"ELK(ElasticSearch, Logstash, Kibana)搭建实时日志分析平台",http://www.importnew.com/20464.html
+ZooKeeper编程指导,http://www.importnew.com/20457.html
+Java线程池架构2-多线程调度器（ScheduledThreadPoolExecutor）,http://www.importnew.com/20453.html
+java提高篇之LinkedList,http://www.importnew.com/20448.html
+Java对象锁和类锁全面解析（多线程synchronized关键字）,http://www.importnew.com/20444.html
+【深入Java虚拟机（5）】：多态性实现机制——静态分派与动态分派,http://www.importnew.com/20438.html
+[JAVA · 初级]：偶识【正则表达式】,http://www.importnew.com/20432.html
+Java的LockSupport.park()实现分析,http://www.importnew.com/20428.html
+【深入Java虚拟机（4）】：类加载机制,http://www.importnew.com/20421.html
+Java提高篇之TreeMap,http://www.importnew.com/20413.html
+缓存穿透、缓存并发、缓存失效之思路变迁,http://www.importnew.com/20402.html
+【深入Java虚拟机（3）】：类初始化,http://www.importnew.com/20392.html
+Java8系列之重新认识HashMap,http://www.importnew.com/20386.html
+Java提高篇之hashCode,http://www.importnew.com/20381.html
+【深入Java虚拟机（2）】：Class类文件结构 ,http://www.importnew.com/20376.html
+【深入Java虚拟机（1）】：Java内存区域与内存溢出,http://www.importnew.com/20366.html
+[JAVA · 初级]：多线程,http://www.importnew.com/20362.html
+[JAVA · 初级]：GC-垃圾回收机制,http://www.importnew.com/20354.html
+Maven的Java插件开发指南 ,http://www.importnew.com/20348.html
+使用 RMI + ZooKeeper 实现远程调用框架 ,http://www.importnew.com/20344.html
+粗浅看 java反射机制 ,http://www.importnew.com/20339.html
+Java8初体验（2）：Stream语法详解,http://www.importnew.com/20331.html
+轻量级分布式 RPC 框架,http://www.importnew.com/20327.html
+【Java集合源码剖析】HashMap源码剖析 ,http://www.importnew.com/20321.html
+Java8初体验（1）：lambda表达式语法,http://www.importnew.com/20317.html
+分布式锁1 Java常用技术方案,http://www.importnew.com/20307.html
+Spring+EhCache缓存实例（详细讲解+源码下载）,http://www.importnew.com/20303.html
+java提高篇之Iterator,http://www.importnew.com/20299.html
+Java注解教程及自定义注解,http://www.importnew.com/20286.html
+通过Java反编译揭开一些问题的真相,http://www.importnew.com/20280.html
+java提高篇之强制类型转换,http://www.importnew.com/20272.html
+Java的String对象不可修改？,http://www.importnew.com/19971.html
+Java NIO学习笔记之图解ByteBuffer,http://www.importnew.com/20061.html
+【深入Java虚拟机（4）】：类加载机制,http://www.importnew.com/20054.html
+Java中的sun.misc.Unsafe包,http://www.importnew.com/20050.html
+JGit新手指南,http://www.importnew.com/19970.html
+Servlet - 基础,http://www.importnew.com/20045.html
+【深入Java虚拟机（3）】：类初始化,http://www.importnew.com/20040.html
+java提高篇之字符串,http://www.importnew.com/20033.html
+【深入Java虚拟机（2）】：Class类文件结构,http://www.importnew.com/19987.html
+Java 8：StampedLock、ReadWriteLock以及synchronized的比较,http://www.importnew.com/19981.html
+【深入Java虚拟机（1）】：Java内存区域与内存溢出 ,http://www.importnew.com/19946.html
+jvm java虚拟机 新生代的配置,http://www.importnew.com/19942.html
+java提高篇之HashMap,http://www.importnew.com/19938.html
+Spring知识点提炼,http://www.importnew.com/19933.html
+【Java集合源码剖析】Vector源码剖析,http://www.importnew.com/19928.html
+java提高篇之抽象类与接口,http://www.importnew.com/19924.html
+Java多线程和线程池,http://www.importnew.com/19919.html
+【Java集合源码剖析】LinkedList源码剖析,http://www.importnew.com/19915.html
+剖析Disruptor为什么会这么快(3)：揭秘内存屏障,http://www.importnew.com/19909.html
+Java虚拟机结构分析,http://www.importnew.com/19903.html
+谈谈Java内存管理,http://www.importnew.com/21463.html
+「深入Java」类型信息：RTTI和反射,http://www.importnew.com/21458.html
+Java开发的几个注意点,http://www.importnew.com/21453.html
+StackOverflow: 你没见过的七个最好的Java答案,http://www.importnew.com/21449.html
+面试总结,http://www.importnew.com/21445.html
+Web接口测试工具--Jmeter,http://www.importnew.com/21433.html
+JVM监控与调优,http://www.importnew.com/21441.html
+高性能场景下，HashMap的优化使用建议,http://www.importnew.com/21429.html
+11大Java开源中文分词器的使用方法和分词效果对比,http://www.importnew.com/21425.html
+Java 8 --行为参数化,http://www.importnew.com/21421.html
+Java8 Top Tips,http://www.importnew.com/21417.html
+Spring常用工具类,http://www.importnew.com/21413.html
+【Hibernate那点事儿】—— Hibernate应该了解的知识,http://www.importnew.com/21402.html
+如何在java中使用ConcurrentHashMap,http://www.importnew.com/21388.html
+如何线程安全的使用HashMap,http://www.importnew.com/21396.html
+Java I/O 模型的演进,http://www.importnew.com/21383.html
+如何给变量取个简短且无歧义的名字,http://www.importnew.com/21374.html
+Java有值类型吗？,http://www.importnew.com/21368.html
+高并发Java（10）：JDK8对并发的新支持,http://www.importnew.com/21358.html
+Maven那点事儿（Eclipse版）,http://www.importnew.com/21269.html
+剖析Disruptor为什么会这么快(2)：神奇的缓存行填充,http://www.importnew.com/19896.html
+Java HashSet和HashMap源码剖析,http://www.importnew.com/19892.html
+java在CPU中的一些个破事,http://www.importnew.com/19883.html
+剖析Disruptor为什么会这么快(1)：锁的缺点,http://www.importnew.com/19877.html
+Servlet - 会话跟踪,http://www.importnew.com/19871.html
+【Java集合源码剖析】ArrayList源码剖析,http://www.importnew.com/19867.html
+BSON格式解释,http://www.importnew.com/19863.html
+Java开发常用的在线工具,http://www.importnew.com/19858.html
+【Java集合源码剖析】Java集合框架,http://www.importnew.com/19853.html
+渐析java的浅拷贝和深拷贝,http://www.importnew.com/19847.html
+Java8集合中的Lambda表达式,http://www.importnew.com/19838.html
+商品搜索引擎---推荐系统设计,http://www.importnew.com/19834.html
+java中文乱码解决之道（8）：解决URL中文乱码问题,http://www.importnew.com/19829.html
+攻破JAVA NIO技术壁垒,http://www.importnew.com/19816.html
+java中文乱码解决之道（7）：JSP页面编码过程,http://www.importnew.com/19810.html
+【Java TCP/IP Socket】基于线程池的TCP服务器（含代码）,http://www.importnew.com/19802.html
+Maven仓库介绍,http://www.importnew.com/19797.html
+java中文乱码解决之道（6）：javaWeb中的编码解码的,http://www.importnew.com/19791.html
+"2016年排名Top 100的Java类库——在分析了47,251个依赖之后得出的结论",http://www.importnew.com/19786.html
+Zookeeper注册中心的搭建,http://www.importnew.com/19782.html
+【Java TCP/IP Socket】UDP Socket（含代码）,http://www.importnew.com/19670.html
+怎么理解Condition,http://www.importnew.com/19666.html
+跟开涛学SpringMVC（7.2）：SpringMVC数据格式化,http://www.importnew.com/19659.html
+java中文乱码解决之道（4）：java编码转换过程,http://www.importnew.com/19651.html
+跟开涛学SpringMVC（7.1）：SpringMVC数据类型转换,http://www.importnew.com/19645.html
+【Java TCP/IP Socket】TCP Socket（含代码）,http://www.importnew.com/19635.html
+Java8简单的本地缓存实现,http://www.importnew.com/19627.html
+java中文乱码解决之道（3）：编码详情：伟大的创想---Unicode编码,http://www.importnew.com/19622.html
+跟开涛学SpringMVC（6.5）：SpringMVC强大的数据绑定（2）,http://www.importnew.com/19617.html
+Java内存模型,http://www.importnew.com/19612.html
+java中文乱码解决之道（2）：字符编码详解：基础知识 + ASCII + GB**,http://www.importnew.com/19606.html
+跟开涛学SpringMVC（6.4）：SpringMVC强大的数据绑定（1）,http://www.importnew.com/19600.html
+Java堆内存,http://www.importnew.com/19593.html
+java中文乱码解决之道（1）：认识字符集,http://www.importnew.com/19587.html
+跟开涛学SpringMVC（6.3）：Spring MVC 3.1新特性 生产者、消费者请求限定,http://www.importnew.com/19581.html
+详解java定时任务,http://www.importnew.com/19573.html
+跟开涛学SpringMVC（6.2）：SpringMVC3强大的请求映射规则详解,http://www.importnew.com/19561.html
+设计模式总结,http://www.importnew.com/19556.html
+运行时动态增加枚举类型,http://www.importnew.com/19549.html
+跟开涛学SpringMVC（6.1）：注解式控制器运行流程及处理器定义,http://www.importnew.com/19543.html
+java中文乱码解决之道（5）：java是如何编码解码的,http://www.importnew.com/19776.html
+Java7里try-with-resources分析,http://www.importnew.com/19771.html
+Sping+ActiveMQ整合,http://www.importnew.com/19767.html
+Java经典类库-Guava中的函数式编程讲解,http://www.importnew.com/19761.html
+java提高篇之equals()方法总结,http://www.importnew.com/19754.html
+java之架构基础-动态代理&cglib,http://www.importnew.com/19749.html
+happens-before俗解,http://www.importnew.com/19745.html
+深入理解Java之泛型,http://www.importnew.com/19740.html
+Dubbo分布式服务框架入门（附工程）,http://www.importnew.com/19732.html
+Java8并发教程：Threads和Executors ,http://www.importnew.com/19727.html
+【Java TCP/IP Socket】构建和解析自定义协议消息（含代码）,http://www.importnew.com/19723.html
+Spring知识点提炼,http://www.importnew.com/19719.html
+mybaits入门（含实例教程和源码）,http://www.importnew.com/19714.html
+使用BigDecimal进行精确运算,http://www.importnew.com/19710.html
+Java的日期API真烂,http://www.importnew.com/19705.html
+【Java TCP/IP Socket】应用程序协议中消息的成帧与解析（含代码）,http://www.importnew.com/19700.html
+ActiveMQ简述,http://www.importnew.com/19690.html
+Java中的几个HashMap/ConcurrentHashMap实现分析,http://www.importnew.com/19685.html
+java在处理大数据的时候一些小技巧,http://www.importnew.com/19681.html
+跟开涛学SpringMVC（7.3）：SpringMVC数据验证,http://www.importnew.com/19675.html
+Servlet - Upload、Download、Async、动态注册,http://www.importnew.com/20173.html
+深入理解Java PriorityQueue,http://www.importnew.com/20169.html
+Java基础小技巧回顾--浅析String,http://www.importnew.com/20157.html
+【Java TCP/IP Socket】TCP Socket通信中由read返回值造成的的死锁问题（含代码）,http://www.importnew.com/20151.html
+ThreadLocal 那点事儿,http://www.importnew.com/20147.html
+事务必会必知,http://www.importnew.com/20143.html
+java提高篇之详解内部类,http://www.importnew.com/20134.html
+【深入Java虚拟机（8）】：Java垃圾收集机制 ,http://www.importnew.com/20129.html
+浅析若干Java序列化工具,http://www.importnew.com/20125.html
+在应用中嵌入Tomcat,http://www.importnew.com/19958.html
+并发编程模型,http://www.importnew.com/20116.html
+【深入Java虚拟机（7）】：Javac编译与JIT编译,http://www.importnew.com/20109.html
+Servlet - Listener、Filter、Decorator,http://www.importnew.com/20105.html
+Java序列化漏洞对数百万应用造成威胁,http://www.importnew.com/19963.html
+JDK BUG吗? 混乱的日期API,http://www.importnew.com/20098.html
+【深入Java虚拟机（6）】：Java语法糖,http://www.importnew.com/20093.html
+Java内存模型,http://www.importnew.com/20086.html
+Java编程入门（3.3）：while与do..while语句,http://www.importnew.com/19967.html
+java提高篇之理解java的三大特性——多态,http://www.importnew.com/20079.html
+【深入Java虚拟机（5）】：多态性实现机制——静态分派与动态分派,http://www.importnew.com/20071.html
+【Java TCP/IP Socket】Socket编程知识点总结,http://www.importnew.com/20267.html
+ExecutorService-10个要诀和技巧,http://www.importnew.com/20263.html
+java提高篇之理解java的三大特性——继承,http://www.importnew.com/20258.html
+java提高篇之理解java的三大特性——封装,http://www.importnew.com/20252.html
+【Java TCP/IP Socket】深入剖析socket——TCP套接字的生命周期 ,http://www.importnew.com/20245.html
+Tomcat容器管理安全的几种验证方式 ,http://www.importnew.com/20241.html
+J.U.C系列-线程安全的理论讲解,http://www.importnew.com/20236.html
+【Java TCP/IP Socket】深入剖析socket——TCP通信中由于底层队列填满而造成的死锁问题（含代码）,http://www.importnew.com/20232.html
+【Java TCP/IP Socket】深入剖析socket——数据传输的底层实现,http://www.importnew.com/20222.html
+Spirng+SpringMVC+Maven+Mybatis+MySQL项目搭建,http://www.importnew.com/20215.html
+java提高篇之详解匿名内部类 ,http://www.importnew.com/20211.html
+InterruptedException 和 interrupting threads 的一些说明,http://www.importnew.com/20206.html
+【Java TCP/IP Socket】Java NIO Socket VS 标准IO Socket,http://www.importnew.com/20202.html
+Java语法糖之foreach,http://www.importnew.com/20198.html
+java中的IO整理,http://www.importnew.com/20192.html
+【Java TCP/IP Socket】基于NIO的TCP通信（含代码）,http://www.importnew.com/20188.html
+Java集合框架源码剖析：LinkedHashSet 和 LinkedHashMap,http://www.importnew.com/20184.html
+Java异常处理的10个最佳实践,http://www.importnew.com/20139.html
+Java 8 HashMap键与Comparable接口,http://www.importnew.com/20121.html
+值得使用的Spring Boot ,http://www.importnew.com/20177.html
+利用redis + lua解决抢红包高并发的问题 ,http://www.importnew.com/19117.html
+认识JVM（下）——简单demo,http://www.importnew.com/19109.html
+Spring4新特性（2）：核心容器的其他改进,http://www.importnew.com/19102.html
+Spring4新特性（1）：泛型限定式依赖注入 ,http://www.importnew.com/19095.html
+Java垃圾回收机制,http://www.importnew.com/19085.html
+Java TreeMap工作原理及实现,http://www.importnew.com/19074.html
+Java线程池架构原理和源码解析(ThreadPoolExecutor),http://www.importnew.com/19067.html
+Java NIO系列教程（12）：Java NIO与IO,http://www.importnew.com/19046.html
+Spring 实践：AOP,http://www.importnew.com/19041.html
+Java NIO系列教程（11）：Pipe,http://www.importnew.com/19029.html
+如何修改request的parameter的几种方式 ,http://www.importnew.com/19023.html
+深入理解Java之线程池,http://www.importnew.com/19011.html
+Java NIO系列教程（10）：Java NIO DatagramChannel ,http://www.importnew.com/19004.html
+Java异常处理和设计,http://www.importnew.com/18994.html
+Java NIO系列教程（9）：ServerSocketChannel ,http://www.importnew.com/18988.html
+应用多级缓存模式支撑海量读服务,http://www.importnew.com/18983.html
+Java NIO系列教程（8）：SocketChannel,http://www.importnew.com/18977.html
+StackOverflow Java API 问题 Top10,http://www.importnew.com/18881.html
+理解Java Integer的缓存策略,http://www.importnew.com/18884.html
+Java LinkedList工作原理及实现 ,http://www.importnew.com/18968.html
+JVM的内存区域划分,http://www.importnew.com/18961.html
+Java NIO系列教程（7）：FileChannel ,http://www.importnew.com/18955.html
+Java内存使用系列一：Java 对象的内存占用,http://www.importnew.com/18878.html
+微信开发获取地理位置实例（java，非常详细，附工程源码）,http://www.importnew.com/18933.html
+Java NIO系列教程（6）：Selector,http://www.importnew.com/18927.html
+ 微信服务号、订阅号和企业号的区别（运营和开发两个角度）,http://www.importnew.com/18915.html
+Java NIO系列教程（5）：通道之间的数据传输,http://www.importnew.com/18908.html
+你真的会写单例模式吗——Java实现,http://www.importnew.com/18872.html
+Java ArrayList工作原理及实现,http://www.importnew.com/18865.html
+Java NIO系列教程（4）：Scatter/Gather,http://www.importnew.com/18857.html
+浅谈Java中的hashcode方法,http://www.importnew.com/18851.html
+微信开发之使用java获取签名signature（贴源码，附工程）,http://www.importnew.com/18846.html
+Java NIO系列教程（3） ：Buffer,http://www.importnew.com/18840.html
+Java 单例真的写对了么?,http://www.importnew.com/18835.html
+Java NIO系列教程（2）：Channel ,http://www.importnew.com/18827.html
+微信开发之通过代理调试本地项目,http://www.importnew.com/18820.html
+认识JVM（中）——java对象内存模型,http://www.importnew.com/18807.html
+通过Java字节码发现有趣的内幕之初始化篇（下）,http://www.importnew.com/18791.html
+通过Java字节码发现有趣的内幕之String篇（中）,http://www.importnew.com/18789.html
+通过Java字节码发现有趣的内幕之String篇（上）,http://www.importnew.com/18785.html
+spring启动component-scan类扫描加载过程---源码分析 ,http://www.importnew.com/19391.html
+Java 正则表达式,http://www.importnew.com/19381.html
+Java应用架构的演化之路,http://www.importnew.com/19376.html
+跟开涛学SpringMVC（3）：DispatcherServlet详解,http://www.importnew.com/19368.html
+Java Web前端到后台常用框架介绍,http://www.importnew.com/19363.html
+跟开涛学SpringMVC（2）：Spring MVC入门,http://www.importnew.com/19351.html
+Java 8 特性 – 终极手册,http://www.importnew.com/19345.html
+Kryo简介及代码阅读笔记,http://www.importnew.com/19338.html
+JVM调优总结（8）：反思,http://www.importnew.com/19281.html
+跟开涛学SpringMVC（1）：Web MVC简介,http://www.importnew.com/19331.html
+Java对象排序、中文排序、SortedSet排序使用和源码讲解,http://www.importnew.com/19326.html
+Jedis对redis的操作详解,http://www.importnew.com/19321.html
+JVM调优总结（7）：调优方法,http://www.importnew.com/19275.html
+JVM调优总结（6）：新一代的垃圾回收算法,http://www.importnew.com/19269.html
+Redis+Spring缓存实例（windows环境，附实例源码及详解）,http://www.importnew.com/19315.html
+JVM GC调优一则--增大Eden Space提高性能,http://www.importnew.com/19308.html
+JVM调优总结（5）：典型配置,http://www.importnew.com/19264.html
+JAVA回调机制(CallBack)详解,http://www.importnew.com/19301.html
+java enum的使用以及字符串其字符串之间的转换,http://www.importnew.com/19296.html
+JVM调优总结（4）：分代垃圾回收,http://www.importnew.com/19255.html
+69道Spring面试题和答案,http://www.importnew.com/19538.html
+Java Annotation-必须掌握的特性,http://www.importnew.com/19532.html
+跟开涛学SpringMVC（5）：处理器拦截器详解,http://www.importnew.com/19513.html
+泛型趣谈,http://www.importnew.com/19500.html
+跟开涛学SpringMVC（4.7）：Controller接口控制器详解（7）,http://www.importnew.com/19494.html
+Spring中@Transactional事务回滚（含实例详细讲解，附源码）,http://www.importnew.com/19489.html
+MVC框架的映射和解耦,http://www.importnew.com/19483.html
+跟开涛学SpringMVC（4.6）：Controller接口控制器详解（6）,http://www.importnew.com/19477.html
+Java中的锁,http://www.importnew.com/19472.html
+跟开涛学SpringMVC（4.5）：Controller接口控制器详解（5）,http://www.importnew.com/19461.html
+spring事务管理器的源码和理解,http://www.importnew.com/19455.html
+简化SLF4J和通用日志工具的区别 ,http://www.importnew.com/19448.html
+跟开涛学SpringMVC（4.4）：Controller接口控制器详解（4）,http://www.importnew.com/19442.html
+关于Java变量的可见性问题,http://www.importnew.com/19434.html
+Java对象的内存布局,http://www.importnew.com/19429.html
+跟开涛学SpringMVC（4.3）：Controller接口控制器详解（3）,http://www.importnew.com/19423.html
+搜索引擎solr和elasticsearch,http://www.importnew.com/19418.html
+在Java里处理文件的技巧,http://www.importnew.com/19413.html
+跟开涛学SpringMVC（4.2）：Controller接口控制器详解（2）,http://www.importnew.com/19403.html
+跟开涛学SpringMVC（4.1）：Controller接口控制器详解（1）,http://www.importnew.com/19397.html
+深入理解Java的接口和抽象类,http://www.importnew.com/18780.html
+singleton模式四种线程安全的实现 ,http://www.importnew.com/18774.html
+微信开发之入门教程,http://www.importnew.com/18769.html
+Java NIO系列教程（1）： Java NIO 概述,http://www.importnew.com/18763.html
+如何设计实现一个LRU Cache？,http://www.importnew.com/18758.html
+JVM调优总结（3）：垃圾回收面临的问题,http://www.importnew.com/18747.html
+JVM调优总结（2）：基本垃圾回收算法,http://www.importnew.com/18740.html
+使用httpclient必须知道的参数设置及代码写法、存在的风险 ,http://www.importnew.com/18731.html
+ Java集合框架：LinkedHashMap,http://www.importnew.com/18726.html
+在做性能测试之前需要知道什么,http://www.importnew.com/18719.html
+SpringMVC + spring3.1.1 + hibernate4.1.0 集成及常见问题总结,http://www.importnew.com/18711.html
+Java LinkedHashMap工作原理及实现,http://www.importnew.com/18706.html
+在Java中如何高效的判断数组中是否包含某个元素,http://www.importnew.com/18700.html
+JVM调优总结（1）：一些概念,http://www.importnew.com/18694.html
+理解Java虚拟机体系结构,http://www.importnew.com/18689.html
+跟我学Spring3（13.3）：测试之集成测试,http://www.importnew.com/18681.html
+系统架构-性能篇章1（应用系统性能2：OOM&参数配置）,http://www.importnew.com/18672.html
+Java PermGen 去哪里了?,http://www.importnew.com/18665.html
+跟我学Spring3（13.1 & 13.2）：测试之概述和单元测试,http://www.importnew.com/18657.html
+JMeter使用技巧,http://www.importnew.com/18642.html
+Java HashMap工作原理及实现,http://www.importnew.com/18633.html
+跟我学Spring3（12.5）：零配置综合示例-积分商城,http://www.importnew.com/18624.html
+JAVA多线程之UncaughtExceptionHandler——处理非正常的线程中止,http://www.importnew.com/18619.html
+如何精确地测量java对象的大小——底层instrument API,http://www.importnew.com/18614.html
+跟我学Spring3（12.4）：零配置之基于Java类定义Bean配置元数据,http://www.importnew.com/18609.html
+Java集合框架：HashMap,http://www.importnew.com/18604.html
+JMeter基础（3）：一个简单的性能测试,http://www.importnew.com/18598.html
+跟我学Spring3（12.3）：零配置之注解实现Bean定义,http://www.importnew.com/18591.html
+浅析Java中的final关键字,http://www.importnew.com/18586.html
+系统架构-性能篇章1（应用系统性能1） ,http://www.importnew.com/18581.html
+跟我学Spring3（12.2）：零配置之注解实现Bean依赖注入,http://www.importnew.com/18573.html
+Java虚拟机类加载机制——案例分析,http://www.importnew.com/18566.html
+在系统中使用Bean Validation验证参数,http://www.importnew.com/18561.html
+跟我学Spring3（12.1）：零配置之概述,http://www.importnew.com/18555.html
+Java虚拟机类加载机制,http://www.importnew.com/18548.html
+Timer与TimerTask的真正原理&使用介绍,http://www.importnew.com/18542.html
+跟我学Spring3（11.3）：SSH集成开发积分商城之实现积分商城层,http://www.importnew.com/18534.html
+Java经典设计模式（3）：十一种行为型模式（附实例和详解）,http://www.importnew.com/18528.html
+Java并发编程：synchronized,http://www.importnew.com/18523.html
+跟我学Spring3（11.2）：SSH集成开发积分商城之实现通用层,http://www.importnew.com/18512.html
+Java 日期时间处理,http://www.importnew.com/17921.html
+Java 解析 XML,http://www.importnew.com/17918.html
+Java并发编程：如何创建线程？,http://www.importnew.com/17915.html
+跟我学Spring3（6.9）：代理机制,http://www.importnew.com/17911.html
+Java并发编程：进程和线程之由来,http://www.importnew.com/17908.html
+lambda表达式和闭包,http://www.importnew.com/17905.html
+跟我学Spring3（6.8）：切面实例化模型,http://www.importnew.com/17900.html
+Git 工作流程,http://www.importnew.com/17897.html
+Jsoup代码解读（8）：防御XSS攻击,http://www.importnew.com/17893.html
+跟我学Spring3（6.7）： 通知顺序,http://www.importnew.com/17886.html
+Java编程入门（词汇表）,http://www.importnew.com/17876.html
+跟我学Spring3（6.6）： 通知参数 ,http://www.importnew.com/17858.html
+Jsoup代码解读（7）：实现一个CSS Selector,http://www.importnew.com/17854.html
+Java并发编程：深入剖析ThreadLocal,http://www.importnew.com/17849.html
+跟我学Spring3（6.5）：AspectJ切入点语法详解,http://www.importnew.com/17828.html
+Jsoup代码解读（6）：parser(下),http://www.importnew.com/17823.html
+Java并发编程：线程池的使用,http://www.importnew.com/17820.html
+跟我学Spring3（6.4）：基于@AspectJ的AOP,http://www.importnew.com/17813.html
+Jsoup代码解读（5）：parser(中),http://www.importnew.com/17808.html
+Git分支管理策略,http://www.importnew.com/17802.html
+maven环境快速搭建,http://www.importnew.com/18353.html
+深入剖析Java中的装箱和拆箱,http://www.importnew.com/18346.html
+跟我学Spring3（9.3）：Spring的事务之编程式事务,http://www.importnew.com/18332.html
+为什么Java要把字符串设计成不可变的,http://www.importnew.com/18326.html
+Java并发编程：Lock,http://www.importnew.com/18320.html
+OpenJDK：是时候替换JDK了么？,http://www.importnew.com/18308.html
+Java新手指南：方法覆盖,http://www.importnew.com/18287.html
+Java对象排序、中文排序、SortedSet排序使用和源码讲解,http://www.importnew.com/18280.html
+该如何创建字符串，使用“ ”还是构造函数,http://www.importnew.com/18274.html
+跟我学Spring3（9.2）：Spring的事务之事务管理器,http://www.importnew.com/18266.html
+认识JVM（上）——对象分配&回收算法,http://www.importnew.com/18242.html
+Java命令学习系列（5）：Jhat,http://www.importnew.com/18236.html
+跟我学Spring3（9.1）：Spring的事务之数据库事务概述,http://www.importnew.com/18228.html
+跟我学spring3（8.3）：对ORM的支持之集成iBATIS,http://www.importnew.com/18222.html
+浅谈Java中的equals和==,http://www.importnew.com/18215.html
+Java命令学习系列（4）：Jstat,http://www.importnew.com/18202.html
+Java命令学习系列（3）：Jmap,http://www.importnew.com/18196.html
+跟我学Spring3（8.2）：对ORM的支持之集成Hibernate3,http://www.importnew.com/18184.html
+Java命令学习系列（2）：Jstack,http://www.importnew.com/18176.html
+探秘Java中String、StringBuilder以及StringBuffer,http://www.importnew.com/18167.html
+跟我学Spring3（6.3）：基于Schema的AOP ,http://www.importnew.com/17795.html
+Jsoup代码解读（4）：parser(上),http://www.importnew.com/17788.html
+Java NIO：NIO概述,http://www.importnew.com/17781.html
+JVM内幕：Java虚拟机详解,http://www.importnew.com/17770.html
+2015最受欢迎的Java EE容器,http://www.importnew.com/17763.html
+Java NIO：浅析I/O模型,http://www.importnew.com/17759.html
+跟我学Spring3（6.1）：AOP的HelloWorld,http://www.importnew.com/17755.html
+Jsoup代码解读（3）：Document的输出,http://www.importnew.com/17750.html
+Jsoup代码解读（1）：概述,http://www.importnew.com/17746.html
+跟我学Spring3（5.4）：在Bean定义中使用EL—跟我学spring3,http://www.importnew.com/17741.html
+java NIO,http://www.importnew.com/17735.html
+跟我学Spring3（5.3）：Spring 表达式语言之 SpEL 语法,http://www.importnew.com/17724.html
+java中的IO整理,http://www.importnew.com/17714.html
+RESTful API 设计指南,http://www.importnew.com/17701.html
+Netty那点事（4）：Netty与Reactor模式,http://www.importnew.com/17695.html
+跟我学Spring3（5.1 & 5.2）：Spring表达式语言之概述和SpEL基础,http://www.importnew.com/17692.html
+给jdk写注释系列之jdk1.6容器(12)：PriorityQueue源码解析,http://www.importnew.com/17685.html
+给Java说句公道话,http://www.importnew.com/17683.html
+线程池调整真的很重要,http://www.importnew.com/17633.html
+Netty那点事（3）Channel与Pipeline,http://www.importnew.com/17676.html
+Comparable与Comparator浅析 ,http://www.importnew.com/19250.html
+Spring IOC核心源码学习,http://www.importnew.com/19243.html
+构建需求响应式亿级商品详情页,http://www.importnew.com/19238.html
+Java集合框架：ArrayList ,http://www.importnew.com/19233.html
+如何分分钟成为Java嵌入式开发人员,http://www.importnew.com/19226.html
+Spring4新特性（8）：注解、脚本、任务、MVC等其他特性改进,http://www.importnew.com/19220.html
+应对Memcached缓存失效，导致高并发查询DB的几种思路,http://www.importnew.com/19215.html
+Java HashSet工作原理及实现 ,http://www.importnew.com/19208.html
+Spring4新特性（7）：JSR310日期时间API的支持,http://www.importnew.com/19202.html
+HeapByteBuffer 和 DirectByteBuffer 以及回收 DirectByteBuffer,http://www.importnew.com/19191.html
+Spring4新特性（6）：更好的Java泛型操作API,http://www.importnew.com/19185.html
+利用github搭建个人maven仓库,http://www.importnew.com/19178.html
+Java对象大小内幕浅析,http://www.importnew.com/19172.html
+Spring4新特性（5）：Groovy Bean定义DSL,http://www.importnew.com/19165.html
+spring boot应用启动原理分析,http://www.importnew.com/19149.html
+WebService性能测试,http://www.importnew.com/19144.html
+Spring4新特性（4）：集成Bean Validation 1.1(JSR-349)到SpringMVC,http://www.importnew.com/19138.html
+采用Memcached实现分布式Session,http://www.importnew.com/19133.html
+JSP九大内置对象,http://www.importnew.com/19128.html
+Spring4新特性（3）：Web开发的增强 ,http://www.importnew.com/19122.html
+跟我学Spring3（4.4）：Resource通配符路径,http://www.importnew.com/17673.html
+给jdk写注释系列之jdk1.6容器(11)：Queue之ArrayDeque源码解析,http://www.importnew.com/17670.html
+Netty那点事（2）Netty中的buffer,http://www.importnew.com/17660.html
+跟我学Spring3（4.3）：访问Resource,http://www.importnew.com/17655.html
+给jdk写注释系列之jdk1.6容器(10)：Stack&Vector源码解析,http://www.importnew.com/17650.html
+Netty那点事（1）概述,http://www.importnew.com/17647.html
+跟我学Spring3（4.2）：内置Resources实现,http://www.importnew.com/17644.html
+给jdk写注释系列之jdk1.6容器(9)：Strategy设计模式之Comparable&Comparator接口,http://www.importnew.com/17642.html
+关于BeanCopier的一些思考,http://www.importnew.com/17626.html
+跟我学Spring3（4.1）：资源之基础知识,http://www.importnew.com/17624.html
+给jdk写注释系列之jdk1.6容器(8)：TreeSet、NavigableMap、NavigableSet源码解析,http://www.importnew.com/17620.html
+Java 反射,http://www.importnew.com/17616.html
+跟我学Spring3（3.4）:DI之Bean的作用域,http://www.importnew.com/17609.html
+给jdk写注释系列之jdk1.6容器(7)-TreeMap源码解析,http://www.importnew.com/17605.html
+给jdk写注释系列之jdk1.6容器(6)-HashSet源码解析&Map迭代器,http://www.importnew.com/17602.html
+跟我学Spring3（3.3）:更多的DI知识,http://www.importnew.com/17599.html
+聊聊并发（10）生产者消费者模式,http://www.importnew.com/17592.html
+微服务（Microservice）那点事,http://www.importnew.com/17588.html
+跟我学Spring3（3.2）:DI之循环依赖,http://www.importnew.com/17580.html
+聊聊并发（9）Java中的Copy-On-Write容器,http://www.importnew.com/17576.html
+Java并发编程：Callable、Future和FutureTask,http://www.importnew.com/17572.html
+跟我学Spring3（3.1）:DI的配置使用,http://www.importnew.com/17570.html
+聊聊并发（8）Fork/Join框架介绍,http://www.importnew.com/17565.html
+给jdk写注释系列之jdk1.6容器(5)-LinkedHashMap源码解析,http://www.importnew.com/17561.html
+给jdk写注释系列之jdk1.6容器(4)-HashMap源码解析,http://www.importnew.com/17559.html
+跟我学Spring3（2.3）:IoC容器基本原理,http://www.importnew.com/17552.html
+跟我学Spring3（2.2）:IoC容器基本原理,http://www.importnew.com/17549.html
+聊聊并发（7）Java中的阻塞队列,http://www.importnew.com/17537.html
+聊聊并发（6）ConcurrentLinkedQueue的实现原理分析,http://www.importnew.com/17539.html
+Java注解实践,http://www.importnew.com/17524.html
+Java I/O,http://www.importnew.com/17509.html
+聊聊并发（5）：原子操作的实现原理,http://www.importnew.com/17501.html
+给jdk写注释系列之jdk1.6容器(3)：Iterator设计模式,http://www.importnew.com/17495.html
+跟我学 Spring 3（2.1）：IoC 基础 ,http://www.importnew.com/17489.html
+聊聊并发（4）：深入分析ConcurrentHashMap,http://www.importnew.com/17481.html
+Java Web系列：JDBC 基础,http://www.importnew.com/17477.html
+跟我学 Spring 3（1）： Spring 概述,http://www.importnew.com/17474.html
+聊聊并发（3）：Java线程池的分析和使用,http://www.importnew.com/17472.html
+给jdk写注释系列之jdk1.6容器(2)：LinkedList源码解析,http://www.importnew.com/17460.html
+JAVA虚拟机的生命周期,http://www.importnew.com/17455.html
+Java8 Lambda表达式和流操作如何让你的代码变慢5倍,http://www.importnew.com/17262.html
+Java编程入门（2）：概述,http://www.importnew.com/17256.html
+Java编程入门（3）：概述,http://www.importnew.com/17250.html
+最近5年133个Java面试问题列表,http://www.importnew.com/17232.html
+现实世界中正在用Java解决的难题,http://www.importnew.com/17207.html
+Java ArrayList的不同排序方法,http://www.importnew.com/17211.html
+在MacBook Pro上设置Java开发环境,http://www.importnew.com/17192.html
+Java编程入门第2章测验,http://www.importnew.com/17160.html
+Java编程入门（2.6）：编程环境,http://www.importnew.com/17156.html
+诊断Java中的内存泄露,http://www.importnew.com/17153.html
+Java多线程：volatile变量、happens-before关系及内存一致性,http://www.importnew.com/17149.html
+最好的8个 Java RESTful 框架 ,http://www.importnew.com/17138.html
+Tomcat server.xml配置示例,http://www.importnew.com/17124.html
+Java编程入门（2.5）：表达式,http://www.importnew.com/17127.html
+Java常量池解析与字符串intern简介,http://www.importnew.com/17110.html
+Java类的连接与初始化 (及2013阿里初始化笔试题解析),http://www.importnew.com/17105.html
+源码分析：Java堆的创建,http://www.importnew.com/17068.html
+实例分析JVM安全体系：双亲委派、命名空间、保护域、策略,http://www.importnew.com/17093.html
+实例探索Class文件,http://www.importnew.com/17086.html
+深入探索 Java 热部署,http://www.importnew.com/17115.html
+跟我学Spring3（8.1）：对ORM的支持之概述,http://www.importnew.com/18147.html
+Java并发编程：volatile关键字解析,http://www.importnew.com/18126.html
+Java命令学习系列（1）：Jps,http://www.importnew.com/18132.html
+浅析Java中的访问权限控制,http://www.importnew.com/18097.html
+跟我学Spring3（7.5）：对JDBC的支持之集成Spring JDBC及最佳实践,http://www.importnew.com/18104.html
+使用JMH进行微基准测试：不要猜，要测试！,http://www.importnew.com/18084.html
+ThreadLocal实现方式&使用介绍---无锁化线程封闭,http://www.importnew.com/18077.html
+Java对象的序列化与反序列化,http://www.importnew.com/17964.html
+深入分析Java的序列化与反序列化,http://www.importnew.com/18024.html
+单例与序列化的那些事儿,http://www.importnew.com/18030.html
+跟我学Spring3（7.4）：对JDBC的支持之Spring提供的其它帮助,http://www.importnew.com/18016.html
+ 跟我学Spring3（7.3）：对JDBC的支持之关系数据库操作对象化,http://www.importnew.com/18013.html
+Maven和Gradle对比,http://www.importnew.com/18008.html
+Java中整型的缓存机制,http://www.importnew.com/17952.html
+java之JUC系列-外部Tools-Executors|Semaphor|Exchanger|CyclicBarrier|CountDownLatch,http://www.importnew.com/17948.html
+跟我学Spring3（ 7.2 ）：对JDBC的支持之JDBC模板类,http://www.importnew.com/17939.html
+Jetty嵌入式Web容器攻略,http://www.importnew.com/17936.html
+JDBC基础,http://www.importnew.com/17932.html
+跟我学Spring3（ 7.1 ）：对JDBC的支持之概述 ,http://www.importnew.com/17927.html
+H2数据库攻略,http://www.importnew.com/17924.html
+Java线程池介绍,http://www.importnew.com/16845.html
+浅谈 Java 字符串,http://www.importnew.com/16881.html
+Scala的模式匹配,http://www.importnew.com/16867.html
+快速高效学习Java编程在线资源Top 20,http://www.importnew.com/16843.html
+Java编程入门：第1章 测验,http://www.importnew.com/16837.html
+意外的内存分配：JIT编译抖动,http://www.importnew.com/16833.html
+通过分析 JDK 源代码研究 Hash 存储机制,http://www.importnew.com/16847.html
+Stackoverflow上人气最旺的10个Java问题,http://www.importnew.com/16841.html
+Java之JUC系列：外部Tools,http://www.importnew.com/16830.html
+Java新手问题集锦,http://www.importnew.com/16827.html
+偏执却管用的10条Java编程技巧,http://www.importnew.com/16805.html
+什么是Java对象分配率？,http://www.importnew.com/16803.html
+Java 8并行流：必备技巧,http://www.importnew.com/16801.html
+Java编程入门（1.7）：互联网,http://www.importnew.com/16793.html
+知名公司的Java面试题,http://www.importnew.com/16791.html
+用Java 8 Lambda表达式实现设计模式：命令模式,http://www.importnew.com/16789.html
+Java中的String为什么是不可变的？ -- String源码分析,http://www.importnew.com/16817.html
+Java 8新的时间日期库的20个使用示例,http://www.importnew.com/16814.html
+Capsule：开源的 JVM 应用部署工具,http://www.importnew.com/16811.html
+完全理解Gson（3）：Gson反序列化,http://www.importnew.com/16786.html
+HotSpot模板解释器目标代码生成过程源码分析,http://www.importnew.com/17072.html
+java中i=i++问题分析,http://www.importnew.com/17056.html
+Java Main如何被执行？,http://www.importnew.com/17051.html
+Java编程入门（2.4）：文本输入和输出,http://www.importnew.com/17044.html
+Java编程入门（2.3）：类、对象和子程序,http://www.importnew.com/17041.html
+初探Java字符串,http://www.importnew.com/17034.html
+怎样处理InterruptedException,http://www.importnew.com/17027.html
+Java Servlet工作原理问答,http://www.importnew.com/17025.html
+译文：理解Java中的弱引用,http://www.importnew.com/17019.html
+Java月报（2015.10）,http://www.importnew.com/17870.html
+使用RelProxy提高Java开发效率,http://www.importnew.com/17015.html
+泛型中? super T和? extends T的区别,http://www.importnew.com/17006.html
+Java重写方法与初始化的隐患,http://www.importnew.com/17000.html
+Java实现单例的难点,http://www.importnew.com/16995.html
+Java编程入门（2.2）：变量和基本类型,http://www.importnew.com/16981.html
+深入理解 Java final 变量的内存模型,http://www.importnew.com/16989.html
+Java编程入门（2.1）：基础Java应用程序,http://www.importnew.com/16968.html
+使用FreeMarker替换JSP的10个理由,http://www.importnew.com/16944.html
+深入理解重载和重写及与之相关的多态性 Overloading and Overriding,http://www.importnew.com/16958.html
+优化哈希策略,http://www.importnew.com/16932.html
+JMeter基础（2）：录制脚本,http://www.importnew.com/18502.html
+深入分析Java中的length和length(),http://www.importnew.com/18486.html
+跟我学Spring3（11.1）：SSH集成开发积分商城之概述,http://www.importnew.com/18477.html
+Jmeter基础（1）：jmeter基础概念,http://www.importnew.com/18472.html
+缓存系列文章–无底洞问题,http://www.importnew.com/18465.html
+40个Java多线程问题总结,http://www.importnew.com/18459.html
+初探Java字符串,http://www.importnew.com/18454.html
+跟我学Spring3（10.4）：集成其它Web框架之集成JSF,http://www.importnew.com/18445.html
+三张图彻底了解Java中字符串的不变性,http://www.importnew.com/18440.html
+Java经典设计模式（2）：七大结构型模式（附实例和详解）,http://www.importnew.com/18429.html
+跟我学Spring3（10.3）：集成其它Web框架之集成Struts2.x,http://www.importnew.com/18421.html
+Java ConcurrentModificationException异常原因和解决方法,http://www.importnew.com/18416.html
+图解微服务架构演进,http://www.importnew.com/18410.html
+跟我学Spring3（10.2）：集成其它Web框架之集成Struts1.x,http://www.importnew.com/18404.html
+Java命令学习系列（7）：Javap,http://www.importnew.com/18398.html
+Java经典设计模式（1）：五大创建型模式（附实例和详解）,http://www.importnew.com/18390.html
+spring里头各种获取ApplicationContext的方法,http://www.importnew.com/18384.html
+Java命令学习系列（6）：Jinfo,http://www.importnew.com/18373.html
+跟我学Spring3（10.1）：集成其它Web框架之概述,http://www.importnew.com/18366.html
+跟我学Spring3（9.4）：Spring的事务之声明式事务,http://www.importnew.com/18359.html
+聊聊并发（2）：Java SE1.6中的Synchronized,http://www.importnew.com/17450.html
+给jdk写注释系列之jdk1.6容器(1)：ArrayList源码解析,http://www.importnew.com/17440.html
+关于淘点点面试中碰到的架构问题 ,http://www.importnew.com/17437.html
+Comparable与Comparator的区别,http://www.importnew.com/17434.html
+Java注解教程及自定义注解,http://www.importnew.com/17413.html
+Java Web系列：Spring依赖注入基础,http://www.importnew.com/17408.html
+Java Web系列：Spring MVC基础,http://www.importnew.com/17404.html
+Java编程入门第2章练习,http://www.importnew.com/17342.html
+聊聊并发（1）：深入分析Volatile的实现原理,http://www.importnew.com/17394.html
+Java工程师成神之路,http://www.importnew.com/17389.html
+如何合理地估算线程池大小？,http://www.importnew.com/17384.html
+异常的深入研究与分析（1）,http://www.importnew.com/17374.html
+Java开发必会的Linux命令,http://www.importnew.com/17354.html
+Java编程入门（3.2）：代码块、循环和分支,http://www.importnew.com/17341.html
+Java日志记录的5条规则,http://www.importnew.com/17315.html
+Java 8 Streams API：对Stream分组和分区,http://www.importnew.com/17313.html
+推荐普通开发者学习使用的6个JDK内建工具,http://www.importnew.com/17308.html
+Java 8：使用compose和andThen组合函数,http://www.importnew.com/17209.html
+Java编程入门（3.1）：代码块、循环和分支,http://www.importnew.com/17253.html
+在Java中应用函数式编程请小心！,http://www.importnew.com/17292.html
+Java编程入门（1.4）：程序基本构建模块,http://www.importnew.com/16663.html
+从Linux终端编译运行Eclipse Java项目,http://www.importnew.com/16661.html
+Java HashMap 源码解析,http://www.importnew.com/16650.html
+Java集合框架综述,http://www.importnew.com/16658.html
+Java编程入门（1.3）：Java虚拟机,http://www.importnew.com/16642.html
+完全理解Gson（2）：Gson序列化,http://www.importnew.com/16638.html
+完全理解Gson（1）：简单入门,http://www.importnew.com/16630.html
+Java编程入门（1.2）：异步事件之轮询与中断,http://www.importnew.com/16620.html
+击败Java排序算法,http://www.importnew.com/16615.html
+Java学习之自动装箱和自动拆箱源码分析,http://www.importnew.com/16612.html
+借助 AOP 为 Java Web 应用记录性能数据,http://www.importnew.com/16610.html
+Java延时实例分析：Lock vs Synchronized,http://www.importnew.com/16596.html
+Java HashMap工作原理,http://www.importnew.com/16599.html
+Java IAQ：很少被回答的问题,http://www.importnew.com/16583.html
+八成Java开发者解答不了的问题,http://www.importnew.com/16566.html
+Java编程入门（1.1）：读取-执行周期：机器语言,http://www.importnew.com/16570.html
+Java编程入门：第1章 思考的风景,http://www.importnew.com/16575.html
+Java编程入门：前言,http://www.importnew.com/16560.html
+Java 8新特性之旅：使用Stream API处理集合,http://www.importnew.com/16545.html
+Java开源项目：Spring Integration,http://www.importnew.com/16538.html
+Java 8最快的垃圾收集器是什么？,http://www.importnew.com/16533.html
+Java内存问题,http://www.importnew.com/16521.html
+关于 hashCode() 你需要了解的 3 件事,http://www.importnew.com/16517.html
+Java 程序优化：字符串操作、基本运算方法等优化策略,http://www.importnew.com/16509.html
+Java 8类型转换（及改进？）,http://www.importnew.com/16502.html
+改善Java文档的理由、建议和技巧,http://www.importnew.com/16459.html
+Java9新功能之HTTP2和REPL,http://www.importnew.com/16492.html
+Java 编程中的 OAuth 2.0 客户端，第 3 部分: 认证码授权,http://www.importnew.com/16489.html
+Java 编程中的 OAuth 2.0 客户端，第 2 部分: 客户端凭据授权,http://www.importnew.com/16486.html
+Java 编程中的 OAuth 2.0 客户端，第 1 部分: 资源所有者密码凭据授权,http://www.importnew.com/16484.html
+Java I/O 操作及优化建议,http://www.importnew.com/16481.html
+JVM 并发性: 使用 Akka 执行异步操作,http://www.importnew.com/16479.html
+【JVM】模板解释器--字节码的resolve过程,http://www.importnew.com/16469.html
+【JVM】模板解释器--如何根据字节码生成汇编码？,http://www.importnew.com/16475.html
+集合类操作优化经验总结,http://www.importnew.com/16467.html
+高吞吐量系统设计优化建议,http://www.importnew.com/16464.html
+高性能Tomcat：漫谈行走在sendfile之上的Tomcat,http://www.importnew.com/16462.html
+"如何在 Java 中正确使用 wait, notify 和 notifyAll - 以生产者消费者模型为例",http://www.importnew.com/16453.html
+采用断路器设计模式来保护软件,http://www.importnew.com/16101.html
+Quora是如何维持高质量代码的,http://www.importnew.com/16438.html
+Java8 lambda表达式10个示例,http://www.importnew.com/16436.html
+Java内存管理原理及内存区域详解,http://www.importnew.com/16433.html
+Java：过去、未来的互联网编程之王,http://www.importnew.com/16411.html
+写给精明Java开发者的测试技巧,http://www.importnew.com/16392.html
+谁在关心toString的性能？,http://www.importnew.com/16382.html
+JVM的相关知识整理和学习,http://www.importnew.com/16388.html
+Java9先睹为快：JShell动手实践,http://www.importnew.com/16353.html
+写Java也得了解CPU--CPU缓存,http://www.importnew.com/16346.html
+Java日志终极指南,http://www.importnew.com/16331.html
+企业级 Java 应用最重要的4个性能指标,http://www.importnew.com/16342.html
+在成为Java团队领导人15年后我学到了哪些？,http://www.importnew.com/16315.html
+JVM 优化经验总结,http://www.importnew.com/16327.html
+JVM 垃圾回收器工作原理及使用实例介绍,http://www.importnew.com/16325.html
+Infer：Facebook Java静态分析工具初探,http://www.importnew.com/16303.html
+即将改变软件开发的5个Java9新特性（还有2个你等不到了）,http://www.importnew.com/16280.html
+HashMap的实现原理,http://www.importnew.com/16301.html
+10行Java代码实现最近被使用（LRU）缓存,http://www.importnew.com/16264.html
+Spring面试问答,http://www.importnew.com/16247.html
+Java常用排序算法/程序员必须掌握的8大排序算法,http://www.importnew.com/16266.html
+Comparable 與 Comparator,http://www.importnew.com/16275.html
+理解Spring MVC Model Attribute 和 Session Attribute,http://www.importnew.com/16782.html
+JDBC 实现篇(1)：Dirver 注册和获取及 Connection 获取原理,http://www.importnew.com/16799.html
+Java线程池架构原理和源码解析(ThreadPoolExecutor),http://www.importnew.com/16797.html
+Java编程入门（1.6）：现代用户界面,http://www.importnew.com/16775.html
+Java 模块化系统初探,http://www.importnew.com/16761.html
+Java 多维数组遍历,http://www.importnew.com/16742.html
+Java 自动装箱性能,http://www.importnew.com/16737.html
+使用Java 8函数式编程生成字母序列,http://www.importnew.com/16727.html
+Java常见异常及解释,http://www.importnew.com/16725.html
+Java NIO缓冲,http://www.importnew.com/16721.html
+Java 动态代理机制分析及扩展，第 1 部分,http://www.importnew.com/16735.html
+JVM 类加载器介绍及其父亲委托机制 Parent Delegation,http://www.importnew.com/16732.html
+打造高性能JAVA应用你需要知道的,http://www.importnew.com/16715.html
+Java 8动态代理的新技巧（1）：为什么使用动态代理？,http://www.importnew.com/16670.html
+Java中的常量：如何避免反模式,http://www.importnew.com/16700.html
+Java反射最佳实践,http://www.importnew.com/16717.html
+Java语言速览：StackOverflow,http://www.importnew.com/16689.html
+Java编程入门（1.5）：对象与面向对象编程,http://www.importnew.com/16674.html
+Java LinkedHashMap源码解析,http://www.importnew.com/16695.html
+Java TreeMap 源码解析,http://www.importnew.com/16679.html
+JUnit 4 与 TestNG 对比,http://www.importnew.com/16270.html
+关于Java集合的小抄,http://www.importnew.com/16235.html
+,http://www.importnew.com/16233.html
+Java垃圾回收调优实战,http://www.importnew.com/16223.html
+在什么情况下，Java比C++慢很多？,http://www.importnew.com/16218.html
+Eclipse Mars 正式版发布，列数 10 大特点,http://www.importnew.com/16215.html
+哪些因素影响Java调用的性能？,http://www.importnew.com/16202.html
+Java 8默认方法会破坏你的（用户的）代码,http://www.importnew.com/16193.html
+10种简单的Java性能优化,http://www.importnew.com/16181.html
+史上最全最强SpringMVC详细示例实战教程,http://www.importnew.com/16176.html
+深入理解 Java 垃圾回收机制,http://www.importnew.com/16173.html
+更好的Java,http://www.importnew.com/16160.html
+用 CompletableFuture 处理异步超时,http://www.importnew.com/16149.html
+关于 Java 对象序列化您不知道的 5 件事,http://www.importnew.com/16151.html
+探索 ConcurrentHashMap 高并发性的实现机制,http://www.importnew.com/16147.html
+JVM 性能监控工具,http://www.importnew.com/16145.html
+ConcurrentHashMap原理分析,http://www.importnew.com/16142.html
+谈谈 Hash Table,http://www.importnew.com/16138.html
+Java HashMap 核心源码解读,http://www.importnew.com/16135.html
+清理ThreadLocal,http://www.importnew.com/16112.html
+Java继承,http://www.importnew.com/16129.html
+Java内存模型与volatile关键字,http://www.importnew.com/16127.html
+详解Java中的clone方法 -- 原型模式,http://www.importnew.com/16094.html
+NIO.2手册（2）,http://www.importnew.com/16081.html
+什么是垃圾回收,http://www.importnew.com/16091.html
+使用Memcached改进Java企业级应用性能（1）：架构和设置,http://www.importnew.com/16074.html
+通过JVM日志来进行安全点分析,http://www.importnew.com/16068.html
+在什么情况下Java比C++快？,http://www.importnew.com/16056.html
+自己编写Java Web框架：Takes框架的Web App架构,http://www.importnew.com/16045.html
+稳定模式在RESTful架构中的应用,http://www.importnew.com/16027.html
+λ表达式之争：Scala vs Java8,http://www.importnew.com/16020.html
+Java 8 默认方法和多继承,http://www.importnew.com/16013.html
+如何为可扩展系统进行Socket编程,http://www.importnew.com/15996.html
+如何用JMX连接本地JVM上运行的Java程序,http://www.importnew.com/15982.html
+40个Java集合面试问题和答案,http://www.importnew.com/15980.html
+简阅MongoDB JVM开发库,http://www.importnew.com/15958.html
+用Java生成字符画（2）,http://www.importnew.com/15962.html
+如何成为一名Java冠军程序员？,http://www.importnew.com/15949.html
+依赖注入与JSR-330的参考实现——Guice,http://www.importnew.com/15947.html
+为什么JVM指定-Xmx参数后占用内存会变少？,http://www.importnew.com/15934.html
+构建Java Agent，而不是使用框架,http://www.importnew.com/15768.html
+关于垃圾回收被误解的7件事,http://www.importnew.com/15796.html
+JVM 垃圾回收器工作原理及使用实例介绍,http://www.importnew.com/15802.html
+IntelliJ IDEA的光芒会盖过Eclipse吗,http://www.importnew.com/15778.html
+Swing线程之SwingUtilities.invokeLater解释,http://www.importnew.com/15761.html
+工具类与函数编程毫不相干,http://www.importnew.com/15747.html
+什么时候使用CountDownLatch,http://www.importnew.com/15731.html
+Guava 教程(4)：条件，多重映射和分片,http://www.importnew.com/15726.html
+Guava 教程(3)：Java 的函数式编程，通过 Google Collections 过滤和调用,http://www.importnew.com/15724.html
+Guava 教程(2)：深入探索 Google Guava 库,http://www.importnew.com/15718.html
+"Guava 教程1-使用 Google Collections,Guava,static imports 编写漂亮代码",http://www.importnew.com/15716.html
+Java中的自动装箱与拆箱,http://www.importnew.com/15712.html
+Java 8时间和日期API 20例,http://www.importnew.com/15637.html
+Java 容器 & 泛型（3):：HashSet、TreeSet 和 LinkedHashSet比较,http://www.importnew.com/15708.html
+Java 容器 & 泛型（2）：ArrayList 、LinkedList和Vector比较,http://www.importnew.com/15702.html
+Java 容器 & 泛型（1）：认识容器,http://www.importnew.com/15689.html
+JVM线程池发展趋势,http://www.importnew.com/15082.html
+Java习惯用法总结,http://www.importnew.com/15605.html
+23种设计模式（15）：备忘录模式,http://www.importnew.com/15591.html
+23种设计模式（14）：解释器模式,http://www.importnew.com/15588.html
+23种设计模式（1）：单例模式,http://www.importnew.com/15524.html
+IntelliJ IDEA导航特性Top20,http://www.importnew.com/15462.html
+设计模式六大原则（6）：开闭原则,http://www.importnew.com/15520.html
+设计模式六大原则（5）：迪米特法则,http://www.importnew.com/15518.html
+设计模式六大原则（4）：接口隔离原则,http://www.importnew.com/15510.html
+改善Java中锁的性能,http://www.importnew.com/15455.html
+设计模式六大原则（3）：依赖倒置原则,http://www.importnew.com/15502.html
+设计模式六大原则（2）：里氏替换原则,http://www.importnew.com/15500.html
+设计模式六大原则（1）：单一职责原则,http://www.importnew.com/15497.html
+正确使用Java事件通知,http://www.importnew.com/15446.html
+迈出从3K到1W的重要一步——掌握设计模式,http://www.importnew.com/15494.html
+谈一谈自己对依赖、关联、聚合和组合之间区别的理解,http://www.importnew.com/15490.html
+设计模式中类的关系,http://www.importnew.com/15480.html
+Google Guava的5个鲜为人知的特性,http://www.importnew.com/15476.html
+最常用的Eclipse快捷键,http://www.importnew.com/15440.html
+详解java类的生命周期,http://www.importnew.com/15435.html
+Java 异步编程最佳实践,http://www.importnew.com/15432.html
+手把手教你用Java实现AOP,http://www.importnew.com/15420.html
+超越线程池：Java并发并没有你想的那么糟糕,http://www.importnew.com/15410.html
+不要“自作聪明”：{{是一种反模式,http://www.importnew.com/15087.html
+用Java生成字符画,http://www.importnew.com/15387.html
+深入理解Java String#intern() 内存模型,http://www.importnew.com/15397.html
+深入分析Java ClassLoader原理,http://www.importnew.com/15362.html
+使用Mockito测试抽象类,http://www.importnew.com/15353.html
+Java开发熟手该当心的11个错误,http://www.importnew.com/15346.html
+如何通过编程发现Java死锁,http://www.importnew.com/15307.html
+JVM中锁优化简介,http://www.importnew.com/15340.html
+Java的内存回收机制,http://www.importnew.com/15330.html
+管理堆空间：使用JVMTI循环类实例,http://www.importnew.com/15298.html
+JVM中的G1垃圾回收器,http://www.importnew.com/15311.html
+Java开发者写SQL时常犯的10个错误,http://www.importnew.com/15291.html
+读懂Java中的Socket编程,http://www.importnew.com/15285.html
+在Java中正确使用注释,http://www.importnew.com/15265.html
+Java程序员应当知道的10个面向对象设计原则,http://www.importnew.com/15270.html
+类加载与锁,http://www.importnew.com/15268.html
+Java8：Lambda表达式增强版Comparator和排序,http://www.importnew.com/15259.html
+Apache Lucene和Solr 5.0发布,http://www.importnew.com/15252.html
+Java注解处理器,http://www.importnew.com/15246.html
+在Ubuntu、Linux Mint、Debian上通过PPA仓库安装Oracle Java 9,http://www.importnew.com/15234.html
+Guava 是个风火轮之基础工具(3),http://www.importnew.com/15230.html
+设计模式问答（4）,http://www.importnew.com/15921.html
+泛型方法的反模式,http://www.importnew.com/15937.html
+设计模式问答（3）,http://www.importnew.com/15900.html
+NIO.2手册（1）,http://www.importnew.com/15884.html
+在JUnit中使用@Rule测试文件和目录,http://www.importnew.com/15887.html
+使用Gradle构建Java项目,http://www.importnew.com/15881.html
+Java 性能优化手册：提高 Java 代码性能的各种技巧,http://www.importnew.com/15877.html
+Java 8里面lambda的最佳实践,http://www.importnew.com/15873.html
+高级Java程序员值得拥有的10本书,http://www.importnew.com/15871.html
+不同的垃圾回收器的比较,http://www.importnew.com/15869.html
+Spring面试问答Top 25,http://www.importnew.com/15851.html
+Java String StringBuilder StringBuffer,http://www.importnew.com/15856.html
+ConcurrentHashmap 解析,http://www.importnew.com/15845.html
+Java 理论与实践: 正确使用 Volatile 变量,http://www.importnew.com/15842.html
+可提高Java开发性能的5款调试工具,http://www.importnew.com/15834.html
+为什么做java的web开发我们会使用struts2，springMVC和spring这样的框架?,http://www.importnew.com/15831.html
+在运行时开启GC日志,http://www.importnew.com/15722.html
+Minor GC、Major GC和Full GC之间的区别,http://www.importnew.com/15820.html
+Java，传奇的一生！,http://www.importnew.com/15818.html
+如何实现XA式、非XA式Spring分布式事务,http://www.importnew.com/15812.html
+23种设计模式（13）：迭代器模式,http://www.importnew.com/15585.html
+如何用Java编写一段代码引发内存泄露,http://www.importnew.com/15685.html
+java内存分配和String类型的深度解析,http://www.importnew.com/15671.html
+23种设计模式（12）：策略模式,http://www.importnew.com/15582.html
+23种设计模式（11）：责任连模式,http://www.importnew.com/15579.html
+23种设计模式（10）：命令模式,http://www.importnew.com/15576.html
+访问者模式讨论篇：java的动态绑定与双分派,http://www.importnew.com/15574.html
+Guava 是个风火轮之基础工具(2),http://www.importnew.com/15227.html
+Guava 是个风火轮之基础工具(1),http://www.importnew.com/15221.html
+追求代码质量（15）: 亲身体验行为驱动开发,http://www.importnew.com/15217.html
+追求代码质量（14）: 对 Ajax 应用程序进行单元测试,http://www.importnew.com/15211.html
+追求代码质量（13）: 使用 Selenium 和 TestNG 进行编程式测试,http://www.importnew.com/15202.html
+追求代码质量（12）: 使用 TestNG-Abbot 实现自动化 GUI 测试,http://www.importnew.com/15194.html
+追求代码质量（11）: 用 AOP 进行防御性编程,http://www.importnew.com/15190.html
+23种设计模式（9）：访问者模式,http://www.importnew.com/15561.html
+23种设计模式（8）：观察者模式,http://www.importnew.com/15557.html
+Netty实现原理浅析,http://www.importnew.com/15656.html
+23种设计模式（7）：中介者模式,http://www.importnew.com/15550.html
+23种设计模式（6）：模版方法模式,http://www.importnew.com/15546.html
+创建类模式总结篇,http://www.importnew.com/15544.html
+十篇必读的Java文章,http://www.importnew.com/15506.html
+23种设计模式（5）：原型模式,http://www.importnew.com/15541.html
+23种设计模式（4）：建造者模式,http://www.importnew.com/15537.html
+23种设计模式（3）：抽象工厂模式,http://www.importnew.com/15533.html
+如何使用Java泛型映射不同的值类型,http://www.importnew.com/15556.html
+23种设计模式（2）：工厂方法模式,http://www.importnew.com/15530.html
+单例模式讨论篇：单例模式与垃圾回收,http://www.importnew.com/15527.html
+追求代码质量（10）: 探究 XMLUnit,http://www.importnew.com/15188.html
+追求代码质量（9）: 用 JUnitPerf 进行性能测试,http://www.importnew.com/15186.html
+Java Class文件详解,http://www.importnew.com/15161.html
+追求代码质量（8）: 通过测试分类实现敏捷构建,http://www.importnew.com/15154.html
+追求代码质量（7）: 可重复的系统测试,http://www.importnew.com/15150.html
+追求代码质量（6）: JUnit 4 与 TestNG 的对比,http://www.importnew.com/15146.html
+Spring MVC 入门示例讲解,http://www.importnew.com/15141.html
+追求代码质量（5）: 驯服复杂的冗长代码,http://www.importnew.com/15132.html
+追求代码质量（4）: 用代码度量进行重构,http://www.importnew.com/15126.html
+追求代码质量（3）: 软件架构的代码质量,http://www.importnew.com/15111.html
+追求代码质量（2）: 监视圈复杂度,http://www.importnew.com/15105.html
+追求代码质量（1）: 不要被覆盖报告所迷惑,http://www.importnew.com/15097.html
+怎样编写高质量的Java代码,http://www.importnew.com/15094.html
+Java二进制操作指南,http://www.importnew.com/15060.html
+Web服务器的工作原理,http://www.importnew.com/15020.html
+如何使用Java、Servlet创建二维码,http://www.importnew.com/15028.html
+Java线程中yield与join方法的区别,http://www.importnew.com/14958.html
+JVMTI的对象标记对GC的影响,http://www.importnew.com/15012.html
+把Java数组转换为List时的注意事项,http://www.importnew.com/14996.html
+Java 8新特性探究（一）通往lambda之路_语法篇,http://www.importnew.com/14899.html
+在OS X管理多个Java版本,http://www.importnew.com/14866.html
+Java 8新特性探究（七）深入解析日期和时间-JSR310,http://www.importnew.com/14877.html
+构造模式实践,http://www.importnew.com/14849.html
+JAVA 8：健壮、易用的时间/日期API,http://www.importnew.com/14857.html
+Java 8新特性探究（十三）JavaFX 8新特性以及开发2048游戏,http://www.importnew.com/14973.html
+Java 8新特性探究（十二）Nashorn ：新犀牛,http://www.importnew.com/14966.html
+Java 8新特性探究（十一）Base64详解,http://www.importnew.com/14961.html
+Java 8:当重载遇上lambda,http://www.importnew.com/14952.html
+一个Java对象到底占多大内存？,http://www.importnew.com/14948.html
+Java 8新特性探究（十）StampedLock将是解决同步问题的新宠,http://www.importnew.com/14941.html
+Java 8新特性探究（九）跟OOM：Permgen说再见吧,http://www.importnew.com/14933.html
+Java 8新特性探究（八）精简的JRE详解,http://www.importnew.com/14926.html
+Java 8新特性探究（六）泛型的目标类型推断,http://www.importnew.com/14922.html
+Java 8新特性探究（五）重复注解（repeating annotations）,http://www.importnew.com/14919.html
+Java 8新特性探究（四）类型注解 复杂还是便捷,http://www.importnew.com/14916.html
+2014最热门、最具争议的10个Java话题,http://www.importnew.com/14874.html
+Java 8新特性探究（三）解开lambda最强作用的神秘面纱,http://www.importnew.com/14908.html
+Java 8新特性探究（二）深入解析默认方法,http://www.importnew.com/14902.html
+Java 8：不要再用循环了,http://www.importnew.com/14841.html
+Google vs Oracle：Java版权之争惊动奥巴马政府,http://www.importnew.com/14804.html
+不正当使用HashMap导致cpu 100%的问题追究,http://www.importnew.com/14825.html
+几周内搞定Java的10个方法,http://www.importnew.com/14613.html
+Java 工程的外部依赖显示工具实现及使用,http://www.importnew.com/14811.html
+Java架构师与开发者提高效率的10个工具,http://www.importnew.com/14624.html
+Java Servlet完全教程,http://www.importnew.com/14621.html
+提升Java的锁性能,http://www.importnew.com/14799.html
+Spring的IOC原理,http://www.importnew.com/14751.html
+为什么不允许代码里出现“魔数”,http://www.importnew.com/14627.html
+Java中不同的并发实现的性能比较,http://www.importnew.com/14742.html
+Java开发者在某个重大发布后需要使用的15个工具,http://www.importnew.com/14616.html
+Java线程的5个使用技巧,http://www.importnew.com/14712.html
+深入理解java异常处理机制,http://www.importnew.com/14688.html
+Java/JVM是如何构建的？看看OpenJDK吧！,http://www.importnew.com/14610.html
+Java 堆内存,http://www.importnew.com/14630.html
+Java高效读取大文件,http://www.importnew.com/14512.html
+Java常见内存溢出异常分析,http://www.importnew.com/14604.html
+对Json进行处理的Google Gson API教程,http://www.importnew.com/14509.html
+Java8集合中的Lambda表达式,http://www.importnew.com/14600.html
+Java中字符串switch的实现细节,http://www.importnew.com/14597.html
+Java字符串之性能优化,http://www.importnew.com/14595.html
+Java为什么会引入及如何使用Unsafe,http://www.importnew.com/14511.html
+Linkedin工程师是如何优化他们的Java代码的,http://www.importnew.com/14588.html
+TestNG系列教程：并行执行测试,http://www.importnew.com/14508.html
+Java并发的四种风味：Thread、Executor、ForkJoin和Actor,http://www.importnew.com/14506.html
+Java注解教程：自定义注解示例，利用反射进行解析,http://www.importnew.com/14479.html
+使用UncaughtExceptionHandler重启线程,http://www.importnew.com/14434.html
+Java序列化示例教程,http://www.importnew.com/14465.html
+Linux与JVM的内存关系分析,http://www.importnew.com/14486.html
+回顾：2014 Java发生的5件大事,http://www.importnew.com/14431.html
+推荐！国外程序员整理的Java资源大全,http://www.importnew.com/14429.html
+Java 9中新的货币API,http://www.importnew.com/14474.html
+使用ThreadLocal变量的时机和方法,http://www.importnew.com/14398.html
+优化Java中的多态代码,http://www.importnew.com/14393.html
+Lucene五分钟教程,http://www.importnew.com/12715.html
+全文检索引擎Solr系列-----全文检索基本原理,http://www.importnew.com/12707.html
+使volatile字段具有原子性操作,http://www.importnew.com/12685.html
+Java 7、8中的String.intern（3）,http://www.importnew.com/12681.html
+20个设计模式和软件设计面试问题,http://www.importnew.com/12649.html
+全文检索引擎Solr系列——入门篇,http://www.importnew.com/12607.html
+在Java中如何使用transient,http://www.importnew.com/12611.html
+2014年最流行的应用服务器,http://www.importnew.com/12590.html
+更好的异常处理：实现JUnit API,http://www.importnew.com/12581.html
+Hibernate和UUID标示符,http://www.importnew.com/12567.html
+Tomcat单机多实例,http://www.importnew.com/12553.html
+JMH简介,http://www.importnew.com/12548.html
+在访问者模式中使用反射,http://www.importnew.com/12536.html
+Java中的设计模式,http://www.importnew.com/12526.html
+Java面试参考指南（二）,http://www.importnew.com/12522.html
+Java面试参考指南（一）,http://www.importnew.com/12516.html
+Java Code Review清单,http://www.importnew.com/12511.html
+谁在害怕大的复杂类？,http://www.importnew.com/12482.html
+jOOQ：如何通过高内聚消除Bug,http://www.importnew.com/12472.html
+多线程环境下生成随机数,http://www.importnew.com/12460.html
+Java中的substring真的会引起内存泄露么？,http://www.importnew.com/14105.html
+ 在Eclipse中导入static元素,http://www.importnew.com/14074.html
+ 5步避免Java堆空间错误,http://www.importnew.com/14049.html
+在Java 8下更好地利用枚举,http://www.importnew.com/14040.html
+Java 9特性,http://www.importnew.com/14034.html
+为什么对象应该是不可变的,http://www.importnew.com/14027.html
+JavaBeans vs Spring beans vs POJOs,http://www.importnew.com/14019.html
+使用命令行操作JAR、WAR和EAR文件,http://www.importnew.com/14000.html
+Oracle宣布更多的Java 9 新特性,http://www.importnew.com/13986.html
+Java 8的6个问题,http://www.importnew.com/13972.html
+成为Java GC专家（5）—Java性能调优原则,http://www.importnew.com/13954.html
+给Eclipse提速的7个技巧,http://www.importnew.com/13942.html
+使用Java扩展机制加载所有JAR包,http://www.importnew.com/13919.html
+Java泛型与类型擦除,http://www.importnew.com/13907.html
+使用JMeter进行负载测试——终极指南,http://www.importnew.com/13876.html
+关于Java你可能不知道的10件事,http://www.importnew.com/13859.html
+Java GC系列（4）：垃圾回收监视和分析,http://www.importnew.com/13838.html
+Java GC系列（3）：垃圾回收器种类,http://www.importnew.com/13827.html
+Java集合总览,http://www.importnew.com/13801.html
+你应当知道的7个Java工具,http://www.importnew.com/13756.html
+Eclipse 4.4 Luna发布：全面支持Java8，全新黑色主题,http://www.importnew.com/12259.html
+NIO.2中如何列举和过滤目录的内容,http://www.importnew.com/12163.html
+Java类重新加载101：对象、类和类加载器,http://www.importnew.com/12198.html
+使用Spring跟踪应用异常（6）—构建一个可运行JAR包,http://www.importnew.com/11886.html
+Java 8速查表,http://www.importnew.com/12156.html
+Java程序员们最常犯的10个错误,http://www.importnew.com/12074.html
+使用Spring跟踪应用异常（5）—用Spring进行调度,http://www.importnew.com/11884.html
+2014 Java工具和技术概览（2）,http://www.importnew.com/12118.html
+使用Spring跟踪应用异常（4）— 用Spring发送邮件,http://www.importnew.com/11017.html
+Java 8新特性终极指南,http://www.importnew.com/11908.html
+使用Spring跟踪应用异常（3）—策略模式与包级私有,http://www.importnew.com/11099.html
+Visitor设计模式,http://www.importnew.com/11319.html
+使用Spring跟踪应用异常（2）—委托模式,http://www.importnew.com/11659.html
+Java语言基础特性——第二部分,http://www.importnew.com/11053.html
+使用Spring跟踪应用异常（1）,http://www.importnew.com/11978.html
+2014 Java工具和技术概览（1）,http://www.importnew.com/12106.html
+使用ReentrantLock和Lambda表达式让同步更纯净,http://www.importnew.com/11585.html
+在线学习Java免费资源推荐,http://www.importnew.com/11910.html
+Java 8：CompletableFuture终极指南,http://www.importnew.com/10815.html
+Java为什么需要保留基本数据类型,http://www.importnew.com/11915.html
+跟我一起学Spring 3(1)--为什么要学Spring,http://www.importnew.com/12978.html
+在Java中如何避免“!=null”式的判空语句？,http://www.importnew.com/13002.html
+如何选择一款合适的密码管理器,http://www.importnew.com/12969.html
+介绍Java中的内存泄漏,http://www.importnew.com/12961.html
+每周学点设计模式（2）——策略模式（下） ,http://www.importnew.com/12853.html
+使用ThreadPoolExecutor并行执行独立的单线程任务,http://www.importnew.com/12940.html
+全文检索引擎Solr系列——整合中文分词组件IKAnalyzer,http://www.importnew.com/12918.html
+如何用Java编写一段代码引发内存泄露,http://www.importnew.com/12901.html
+Java中的继承与组合,http://www.importnew.com/12907.html
+来说说Java中的实例初始化器,http://www.importnew.com/12893.html
+Web Service监控教程：如何识别不良部署,http://www.importnew.com/12867.html
+全文检索引擎Solr系列——整合中文分词组件mmseg4j,http://www.importnew.com/12860.html
+Java中关于String类型的10个问题,http://www.importnew.com/12845.html
+Java程序员在Google是如何工作的,http://www.importnew.com/12816.html
+使用Java 8的Stream API列出ZIP文件中的条目,http://www.importnew.com/12800.html
+全文检索引擎Solr系列——Solr核心概念、配置文件,http://www.importnew.com/12770.html
+每周学点设计模式——策略模式（上）,http://www.importnew.com/12690.html
+Java线程面试题 Top 50,http://www.importnew.com/12773.html
+Java设计模式教程 ——策略模式,http://www.importnew.com/12752.html
+Oracle发布Java9功能列表,http://www.importnew.com/12765.html
+使用AOP与注解记录Java日志,http://www.importnew.com/13367.html
+使用Java Mission Control进行内存分配分析,http://www.importnew.com/13346.html
+Java 7/8中字符集的编解码 ,http://www.importnew.com/13331.html
+Java EE7和Maven工程入门（3）,http://www.importnew.com/11741.html
+跟我一起学Spring 3(3)--使用Spring开发第一个HelloWorld应用,http://www.importnew.com/13246.html
+Java EE7和Maven工程入门（2）,http://www.importnew.com/11472.html
+跟我一起学Spring 3(2)--开发环境配置,http://www.importnew.com/13185.html
+Java问答：终极父类（3）,http://www.importnew.com/13256.html
+使用Iterator模式将对象转成String,http://www.importnew.com/13213.html
+Java EE 7与Angular JS（1）,http://www.importnew.com/13195.html
+Spring 4.1与Java 8 java.util.Optional,http://www.importnew.com/13169.html
+Java面试参考指南——同步,http://www.importnew.com/13159.html
+每周学点设计模式（3）——命令模式,http://www.importnew.com/13147.html
+从Java代码到字节码（1）,http://www.importnew.com/13107.html
+告别ORM,http://www.importnew.com/13098.html
+全文检索引擎Solr系列——整合MySQL、MongoDB,http://www.importnew.com/13068.html
+本周算法：背包问题,http://www.importnew.com/13072.html
+Spring / Hibernate应用性能调优,http://www.importnew.com/13047.html
+如何使用bloomfilter构建大型Java缓存系统,http://www.importnew.com/13032.html
+为什么Java7开始在数字中使用下划线,http://www.importnew.com/12998.html
+"Java 6,7,8中的String.intern —— 多线程访问",http://www.importnew.com/12452.html
+为Java添加@atomic操作,http://www.importnew.com/12438.html
+Java常见错误列表,http://www.importnew.com/12425.html
+Oracle计划发布115个安全补丁,http://www.importnew.com/12463.html
+Java EE7和Maven工程入门（1）,http://www.importnew.com/12408.html
+Java抽象类与接口的区别,http://www.importnew.com/12399.html
+Java程序员须知的七个日志管理工具,http://www.importnew.com/12383.html
+泛型的古怪与优雅,http://www.importnew.com/12364.html
+连接池大小调优,http://www.importnew.com/12342.html
+九大工具助你玩转Java性能优化,http://www.importnew.com/12324.html
+Spring/Hibernate应用性能调优,http://www.importnew.com/12314.html
+Hibernate调试——定位查询源头,http://www.importnew.com/12303.html
+Spring @Transactional工作原理,http://www.importnew.com/12300.html
+IntelliJ IDEA 14预览版发布,http://www.importnew.com/12292.html
+内存不足：杀死进程还是牺牲子进程,http://www.importnew.com/12285.html
+回到基础：封装集合,http://www.importnew.com/12270.html
+如何中断一个长时间运行的“无限”Java正则表达式,http://www.importnew.com/11975.html
+Java安全教程 —— 创建SSL连接和证书,http://www.importnew.com/12241.html
+Web Service入门,http://www.importnew.com/12182.html
+如何在Java中使用双重检查锁实现单例,http://www.importnew.com/12196.html
+为任务关键型Java应用优化垃圾回收（下）,http://www.importnew.com/13767.html
+Apache Commons IO入门教程,http://www.importnew.com/13715.html
+10个你能参与并学习的Java开源项目,http://www.importnew.com/13730.html
+使用Maven配置JBoss、Wildfly数据源,http://www.importnew.com/13718.html
+大型HashMap评估：JDK、FastUtil、Goldman Sachs、HPPC、Koloboke与Trove,http://www.importnew.com/13687.html
+为什么要使用String,http://www.importnew.com/13664.html
+Java和拳击（自动装箱）,http://www.importnew.com/13650.html
+为任务关键型Java应用优化垃圾回收（上）,http://www.importnew.com/13639.html
+跟我一起学Spring 3(4)--深入理解IoC(控制反转)和DI(依赖注入),http://www.importnew.com/13619.html
+Java NIO服务器实例,http://www.importnew.com/13602.html
+Java EE7和Maven工程入门（5）,http://www.importnew.com/13573.html
+JVM必备指南 ,http://www.importnew.com/13556.html
+Java EE7和Maven工程入门（4）,http://www.importnew.com/13530.html
+Java GC系列（1）：Java垃圾回收简介,http://www.importnew.com/13504.html
+Java GC系列（2）：Java垃圾回收是如何工作的？,http://www.importnew.com/13493.html
+Kontraktor：Task、Actor调度的另一个选择,http://www.importnew.com/13481.html
+Java方法参数太多怎么办—Part8—使用工具,http://www.importnew.com/8937.html
+Java EE7和Maven工程入门（7）,http://www.importnew.com/13420.html
+Java EE7和Maven工程入门（6）,http://www.importnew.com/13178.html
+危险！在HashMap中将可变对象用作Key,http://www.importnew.com/13384.html
+8张图理解Java,http://www.importnew.com/11725.html
+Java 8中如何使用ASM和JiteScript“烘焙”你自己的lambda,http://www.importnew.com/11642.html
+如何摆脱工具类,http://www.importnew.com/11593.html
+如何读写Excel 电子表格,http://www.importnew.com/11634.html
+POJO中使用ThreadLocal实现Java嵌套事务,http://www.importnew.com/11049.html
+类加载器不喜欢我，想我慢下来,http://www.importnew.com/11622.html
+Java缓存新标准（javax.cache）,http://www.importnew.com/11723.html
+Oracle意外赢官司，程序员或过苦日子,http://www.importnew.com/11649.html
+关于Spring的69个面试问答——终极列表,http://www.importnew.com/11657.html
+Java开发者必读的5本最佳Hibernate书籍,http://www.importnew.com/11640.html
+Java8中的简易并发,http://www.importnew.com/11590.html
+建造者模式实践,http://www.importnew.com/11506.html
+Java编程题——在一个字符串中查找第一个非重复的字符,http://www.importnew.com/11493.html
+Java FileInputStream与FileReader的区别,http://www.importnew.com/11537.html
+Java问答：终极父类（2）—下篇,http://www.importnew.com/11334.html
+Java问答：终极父类（2）—上篇,http://www.importnew.com/11147.html
+Java 8 LongAdders：管理并发计数器的正确方式,http://www.importnew.com/11345.html
+使用动态代理API-给抽象数据类型提供强类型,http://www.importnew.com/11412.html
+数据库连接池浅析,http://www.importnew.com/11469.html
+Web基础架构：负载均衡和LVS,http://www.importnew.com/11229.html
+Java 8：HashMap的性能提升,http://www.importnew.com/14417.html
+Java不同压缩算法的性能比较,http://www.importnew.com/14410.html
+设计模式问答（2）,http://www.importnew.com/14347.html
+解析IntelliJ IDEA内部设计,http://www.importnew.com/14260.html
+Java中有关Null的9件事,http://www.importnew.com/14229.html
+Java在现实生活中都用在哪些项目？,http://www.importnew.com/14224.html
+Java中的静态绑定和动态绑定,http://www.importnew.com/14338.html
+Java命名：可怕的DefaultAbstractHelperImpl,http://www.importnew.com/14241.html
+Java堆外内存的使用,http://www.importnew.com/14292.html
+自恢复JVM,http://www.importnew.com/14137.html
+如何用Java开发地理位置应用程序？,http://www.importnew.com/14132.html
+如何使用Spring开发和监控线程池服务,http://www.importnew.com/14163.html
+Java 注解指导手册 – 终极向导,http://www.importnew.com/14227.html
+Spring实战：为测试方法重置自增列,http://www.importnew.com/14129.html
+Java8 日期/时间（Date Time）API指南,http://www.importnew.com/14140.html
+SSH框架总结（框架分析+环境搭建+实例源码下载）,http://www.importnew.com/14152.html
+Java I/O底层是如何工作的？,http://www.importnew.com/14111.html
+深入解析String#intern,http://www.importnew.com/14142.html
+理解Java中的弱引用,http://www.importnew.com/14115.html
+Java内存与垃圾回收调优,http://www.importnew.com/14086.html
+Eclipse中的高效代码覆盖,http://www.importnew.com/11449.html
+NetBeans，Jenkins，Jacoco和Sonar如何在Java8下做持续集成？,http://www.importnew.com/11354.html
+Java语言基础特性—第一部分（下）,http://www.importnew.com/11317.html
+高吞吐低延迟Java应用的垃圾回收优化,http://www.importnew.com/11336.html
+Java语言基础特性—第一部分（中）,http://www.importnew.com/11312.html
+面向GC的Java编程,http://www.importnew.com/11372.html
+Java语言基础特性—第一部分（上）,http://www.importnew.com/11309.html
+在Eclipse Kepler中支持Java 8,http://www.importnew.com/11259.html
+JDK8新增便利的Map默认值方法,http://www.importnew.com/11365.html
+无IDE时编译和运行Java,http://www.importnew.com/11370.html
+我来Hacking JDBC，你并不需要它,http://www.importnew.com/11116.html
+如何更好地利用Pmd、Findbugs和CheckStyle分析结果,http://www.importnew.com/11119.html
+JVM的重排序,http://www.importnew.com/11157.html
+Spring MVC + Hibernate + Maven: Crud操作示例,http://www.importnew.com/11121.html
+Java 8的新并行API - 魅力与炫目背后,http://www.importnew.com/11113.html
+为什么Java 8存在接口污染,http://www.importnew.com/11087.html
+如何评价你的Java/Java EE技能,http://www.importnew.com/11092.html
+如何用JGit管理Git子模块,http://www.importnew.com/11095.html
+Java for-each循环解惑,http://www.importnew.com/11038.html
+115个Java面试题和答案——终极列表（上）,http://www.importnew.com/10980.html
+使用Java处理大文件,http://www.importnew.com/10712.html
+怎样对带有不可序列化属性的Java对象进行序列化,http://www.importnew.com/10705.html
+程序员如何用Java排序,http://www.importnew.com/10700.html
+Java并发：隐藏的线程死锁,http://www.importnew.com/10661.html
+面向对象设计原则和创建SOLID应用的5个方法,http://www.importnew.com/10656.html
+Java HashMap的工作原理,http://www.importnew.com/10620.html
+Java中简化堆外内存结构、元组,http://www.importnew.com/10567.html
+如何估算内存消耗,http://www.importnew.com/10570.html
+10个精妙的Java编码最佳实践,http://www.importnew.com/10138.html
+为什么我喜欢Java,http://www.importnew.com/10576.html
+如何避免Lambda表达式毁了你的世界,http://www.importnew.com/10480.html
+Java 7：如何正确关闭NIO.2文件通道,http://www.importnew.com/10496.html
+迭代与枚举,http://www.importnew.com/10492.html
+得墨忒耳定律,http://www.importnew.com/10501.html
+Java问答：终极父类（下）,http://www.importnew.com/10433.html
+在ImportNew分享原创Java技术文章,http://www.importnew.com/10508.html
+Tomcat – Java.Lang.OutOfMemoryError: PermGen Space,http://www.importnew.com/10427.html
+减少GC开销的5个编码技巧,http://www.importnew.com/10472.html
+超高速缓存的最佳实践,http://www.importnew.com/10278.html
+征集参与Java 8原创系列文章作者,http://www.importnew.com/10420.html
+Java Timer和TimerTask实例教程,http://www.importnew.com/9978.html
+寻找导致80JVM WebSphere集群崩溃的罪魁祸首——Oracle JDBC内存泄露,http://www.importnew.com/10007.html
+Sonar及其eclipse插件的安装,http://www.importnew.com/10017.html
+打开Java中的SecurityManager,http://www.importnew.com/9751.html
+Java、游戏手柄与我,http://www.importnew.com/9722.html
+160亿美元的收购，你怎么看？ 从开发一个J2ME应用说起,http://www.importnew.com/9924.html
+本周算法：图的拓扑排序,http://www.importnew.com/9719.html
+关于ArrayList的5道面试题,http://www.importnew.com/9928.html
+如何编写一个高效的Java表达式求值程序,http://www.importnew.com/9679.html
+Getter & Setter: 使用还是废弃,http://www.importnew.com/9716.html
+为什么说Tomcat是一个Web服务器而不是一个应用服务器,http://www.importnew.com/9702.html
+本周算法：有向无环图的最短路径,http://www.importnew.com/9690.html
+Java8中的java.util.Random类,http://www.importnew.com/9672.html
+JavaSE 8—新的时间和日期API,http://www.importnew.com/9635.html
+Java死锁范例以及如何分析死锁,http://www.importnew.com/9668.html
+如何用Map对象创建Set对象,http://www.importnew.com/9639.html
+10个有关String的面试问题,http://www.importnew.com/9622.html
+CDI(JSR 299)介绍——JavaEE平台的上下文与依赖注入,http://www.importnew.com/9597.html
+Java8 性能提升：LongAdder vs AtomicLong,http://www.importnew.com/9560.html
+关于Java内部类,http://www.importnew.com/9463.html
+使用HBase处理海量数据系列—Part4—Java API,http://www.importnew.com/8932.html
+用开源的方式编写《揭秘Java事务管理》电子书,http://www.importnew.com/9515.html
+JUnit Theories介绍,http://www.importnew.com/9501.html
+"Java 泛型: 什么是PECS（Producer Extends, Consumer Super）",http://www.importnew.com/8966.html
+Java中的String对象是不可变的吗,http://www.importnew.com/9468.html
+Arrays.sort()你应该知道的事,http://www.importnew.com/8952.html
+Java性能调优指南----java.io.BufferedInputStream和java.util.zip.GZIPInputStream,http://www.importnew.com/9363.html
+Java应用程序中的内存泄漏及内存管理,http://www.importnew.com/8935.html
+Java方法参数太多怎么办—Part 7—可变状态变量,http://www.importnew.com/8926.html
+Java高速、多线程虚拟内存,http://www.importnew.com/9270.html
+在测试中使用匹配器,http://www.importnew.com/8923.html
+Integer.valueOf(String) 方法之惑,http://www.importnew.com/9162.html
+怎么理解Condition,http://www.importnew.com/9281.html
+Android热点回顾第五期,http://www.importnew.com/9274.html
+Java反编译器剖析（下）,http://www.importnew.com/9248.html
+Java反编译器剖析（中）,http://www.importnew.com/9206.html
+Java反编译器剖析（上）,http://www.importnew.com/9155.html
+Android文本时钟 — Part2,http://www.importnew.com/8941.html
+深入理解Java HelloWorld,http://www.importnew.com/8943.html
+Android Service教程,http://www.importnew.com/9019.html
+使用HBase处理海量数据系列（5）数据建模（抛弃SQL）,http://www.importnew.com/10363.html
+半数以上的安全攻击针对Java,http://www.importnew.com/10318.html
+Java中的注解是如何工作的？,http://www.importnew.com/10294.html
+Java问答：终极父类（上）,http://www.importnew.com/10304.html
+工厂方法设计模式的最佳实践,http://www.importnew.com/10286.html
+为什么在密码问题上char[]优先于String？,http://www.importnew.com/10281.html
+Java 8简明教程,http://www.importnew.com/10360.html
+一个正则式引发的血案,http://www.importnew.com/10308.html
+你的单元测试有多稳定？提升自动测试质量的最佳实践,http://www.importnew.com/10312.html
+notify和notifyAll的一段代码分析,http://www.importnew.com/10173.html
+Java8-本地缓存,http://www.importnew.com/10227.html
+Java线程与多线程教程,http://www.importnew.com/9994.html
+开发者热切盼望Java 8,http://www.importnew.com/10233.html
+漂亮的代码，糟糕的行为——解决Java运行时的内存问题,http://www.importnew.com/10163.html
+JVM最简生存指南,http://www.importnew.com/10127.html
+七个改变世界的Java项目,http://www.importnew.com/10141.html
+Java Streams 8个很酷的特性,http://www.importnew.com/10101.html
+Java Mocking入门---使用Mockito,http://www.importnew.com/10083.html
+使用JUnit测试预期异常,http://www.importnew.com/10079.html
+如何正确地使用Java的@deprecated 标注,http://www.importnew.com/10113.html
+115个Java面试题和答案——终极列表（下）,http://www.importnew.com/11028.html
+Java 8会给你的代码带来什么：一个实际的例子,http://www.importnew.com/10997.html
+堆外并发计数器,http://www.importnew.com/10905.html
+到底多少线程算是线程数太多？,http://www.importnew.com/10911.html
+如何高效地判断数组中是否包含某特定值,http://www.importnew.com/10937.html
+Junit中处理异常的另一种方式：catch-exception,http://www.importnew.com/10922.html
+Java8采用Martin Fowler的方法创建内部DSL,http://www.importnew.com/10907.html
+Linux HotSopt虚拟机GC线程的CPU占用率,http://www.importnew.com/10910.html
+Java程序员的10道XML面试题,http://www.importnew.com/10839.html
+Java中弱引用、软引用、虚引用及强引用的区别,http://www.importnew.com/10866.html
+JVM最多支持多少个线程？,http://www.importnew.com/10780.html
+支持生产阻塞的线程池,http://www.importnew.com/10790.html
+Java中如何克隆集合——ArrayList和HashSet深拷贝,http://www.importnew.com/10761.html
+Java 8的default方法能做什么？不能做什么？,http://www.importnew.com/10764.html
+什么是字符串常量池？,http://www.importnew.com/10756.html
+,http://www.importnew.com/10572.html
+WAR包 vs 集成服务器的Java应用,http://www.importnew.com/10666.html
+Java还是程序员的金饭碗,http://www.importnew.com/10773.html
+深入Java内存模型,http://www.importnew.com/10589.html
+JavaEE概念介绍,http://www.importnew.com/10716.html
+Java的历史,http://www.importnew.com/9060.html
+JDBC事务管理及SavePoint示例,http://www.importnew.com/8832.html
+Java反射教程,http://www.importnew.com/9078.html
+JAX-RS 2.0 REST客户端编程实例,http://www.importnew.com/8939.html
+Android热点回顾第四期,http://www.importnew.com/8997.html
+在航空电子设备和无人机应用中使用Java,http://www.importnew.com/8979.html
+Eclipse BIRT概览,http://www.importnew.com/8812.html
+Servlet 3特性：异步Servlet,http://www.importnew.com/8864.html
+Eclipse构建变量详解,http://www.importnew.com/8817.html
+Kitkat系列文章—OAT文件分析—Part2,http://www.importnew.com/8825.html
+Android Kitkat系列文章—OAT文件分析—Part1,http://www.importnew.com/8822.html
+Java编程细节之十个最佳实践,http://www.importnew.com/8815.html
+使用HBase处理海量数据系列—Part3—架构概览,http://www.importnew.com/8819.html
+Spring示例：学生项目,http://www.importnew.com/8828.html
+HashSet vs. TreeSet vs. LinkedHashSet,http://www.importnew.com/8773.html
+使用Retrofit和Mockito进行可靠的Android API测试,http://www.importnew.com/8791.html
+Android热点回顾第三期,http://www.importnew.com/8804.html
+ArrayList vs. LinkedList vs. Vector,http://www.importnew.com/8782.html
+集合类接口和类层次关系图,http://www.importnew.com/8762.html
+使用Android Studio搭建开发环境,http://www.importnew.com/8731.html
+解码OutOfMemoryError：PermGen Space,http://www.importnew.com/8133.html
+FutureTask源码解析,http://www.importnew.com/8087.html
+Java最困扰你的那些事,http://www.importnew.com/8079.html
+Android NDK介绍（上）,http://www.importnew.com/8038.html
+Android NDK介绍（下）,http://www.importnew.com/8052.html
+Java Web开发框架对比—Part2—框架复杂性,http://www.importnew.com/8024.html
+Java开发牛人十大必备网站,http://www.importnew.com/7980.html
+基本类型转String,http://www.importnew.com/7550.html
+Java Web开发框架对比—Part1—快速原型,http://www.importnew.com/7957.html
+Importnew一周热点文章回顾 04,http://www.importnew.com/8011.html
+讲故事，学（Java）设计模式—观察者模式,http://www.importnew.com/7924.html
+Java Web开发框架对比—Part0—引言,http://www.importnew.com/7931.html
+Java 10大优点—Part5—高性能虚拟机,http://www.importnew.com/7889.html
+如何快速构建基于Spring4.0的Rest API（攻略）,http://www.importnew.com/7903.html
+如何使用建造者模式(Builder Pattern)创建不可变类,http://www.importnew.com/7860.html
+探究内存泄露—Part2—分析问题,http://www.importnew.com/7869.html
+Java异常的面试问题及答案-Part 3,http://www.importnew.com/7820.html
+探究内存泄露—Part1—编写泄露代码,http://www.importnew.com/7807.html
+关于Java和Scala同步机制你不知道的5个真相,http://www.importnew.com/7799.html
+Java你不知道的那些事儿—Java隐藏特性（上）,http://www.importnew.com/7712.html
+什么是内存泄漏,http://www.importnew.com/8715.html
+Java中的equals()和hashCode()契约,http://www.importnew.com/8701.html
+每个程序员应该知道的12个API,http://www.importnew.com/8300.html
+如何生成一个合适的hashcode方法,http://www.importnew.com/8189.html
+HashMap vs. TreeMap vs. Hashtable vs. LinkedHashMap,http://www.importnew.com/8658.html
+为什么main方法是public static void？,http://www.importnew.com/8475.html
+2014年Java值得期待的五大理由,http://www.importnew.com/8608.html
+在运行期通过反射了解JVM内部机制,http://www.importnew.com/8631.html
+Android文本时钟 — Part1,http://www.importnew.com/8587.html
+Java8：Lambda序列化？,http://www.importnew.com/8554.html
+危险代码：如何使用Unsafe操作内存中的Java类和对象—Part4,http://www.importnew.com/8514.html
+线程池实例：使用Executors和ThreadPoolExecutor,http://www.importnew.com/8542.html
+Android热点回顾第二期,http://www.importnew.com/8577.html
+危险代码：如何使用Unsafe操作内存中的Java类和对象—Part3,http://www.importnew.com/8494.html
+危险代码：如何使用Unsafe操作内存中的Java类和对象—Part2,http://www.importnew.com/8488.html
+本周算法：快速排序—三路快排 vs 双基准,http://www.importnew.com/8445.html
+危险代码：如何使用Unsafe操作内存中的Java类和对象—Part1,http://www.importnew.com/7844.html
+FileOutputStream vs. FileWriter,http://www.importnew.com/8440.html
+相互递归绑定让Observer更安全,http://www.importnew.com/8428.html
+如何成为一个偷懒又高效的Android开发人员,http://www.importnew.com/8415.html
+使用HBase处理海量数据系列—Part2—初步了解,http://www.importnew.com/8408.html
+Java垃圾回收精粹 — Part4,http://www.importnew.com/8352.html
+Importnew一周热点文章回顾 06,http://www.importnew.com/8524.html
+Java垃圾回收精粹 — Part3,http://www.importnew.com/8347.html
+使用HBase处理海量数据系列—Part1—介绍,http://www.importnew.com/8394.html
+嵌入式Tomcat：提示、技巧和秘籍,http://www.importnew.com/8388.html
+Java垃圾回收精粹 — Part2,http://www.importnew.com/8343.html
+Netty教程—Part6—Upstream、Downstream,http://www.importnew.com/7699.html
+可以重写静态方法吗？,http://www.importnew.com/7784.html
+Importnew一周热点文章回顾 03,http://www.importnew.com/7846.html
+Netty教程—Part5—Server端返回日期数据,http://www.importnew.com/7692.html
+本周算法：加锁并发算法 vs 无锁并发算法,http://www.importnew.com/7774.html
+"Github最流行的10,000个Java项目使用的类库",http://www.importnew.com/7743.html
+Netty教程—Part4—Server端的执行情况,http://www.importnew.com/7686.html
+Netty教程—Part3—ChannelEvent—真的吗？,http://www.importnew.com/7679.html
+Java垃圾回收精粹 — Part1,http://www.importnew.com/8335.html
+在安卓上使用RxJava,http://www.importnew.com/8321.html
+鲜为人知的Java8特性：泛化目标类型推断,http://www.importnew.com/8301.html
+Eclipse酷炫项目、最新趋势介绍,http://www.importnew.com/8314.html
+markdown示例【模板】,http://www.importnew.com/11778.html
+2013年ImportNew最受欢迎的10篇文章,http://www.importnew.com/8286.html
+应用ForkJoin——精益求精,http://www.importnew.com/8263.html
+Android热点回顾第一期,http://www.importnew.com/8246.html
+安卓开发者必备的42个链接,http://www.importnew.com/8229.html
+HashMap vs ConcurrentHashMap — 示例及Iterator探秘,http://www.importnew.com/8162.html
+性能调优、虚拟机、垃圾回收、软硬件协调相关文章和视频 — Part1,http://www.importnew.com/8147.html
+什么是连接池？我们为什么需要它？,http://www.importnew.com/8179.html
+Java8学习：Lambda表达式、Stream API和功能性接口 — 教程、资源、书籍和实例,http://www.importnew.com/8118.html
+动态绑定 vs 静态绑定,http://www.importnew.com/7751.html
+安卓的进化—Part2,http://www.importnew.com/7735.html
+Netty教程—Part2—创建Channel连接,http://www.importnew.com/7674.html
+安卓开发：NotificationListenerService和kitkat,http://www.importnew.com/7663.html
+Netty教程—Part1—介绍,http://www.importnew.com/7669.html
+Java 1.7.0_06中String类内部实现的一些变化,http://www.importnew.com/7656.html
+Java 10大优点—Part4—Java内存模型,http://www.importnew.com/7526.html
+ImportNew一周热点文章回顾-02,http://www.importnew.com/7719.html
+Java 10大优点—Part3—开源,http://www.importnew.com/7520.html
+使用Key Collection提高Java集合操作效率,http://www.importnew.com/7528.html
+安卓的进化—Part1,http://www.importnew.com/7608.html
+Java 10大优点—Part2—Core API,http://www.importnew.com/7522.html
+Java 10大优点—Part1—Java编译器,http://www.importnew.com/6268.html
+最常用的Java库一览,http://www.importnew.com/7530.html
+IntelliJ IDEA 13 发布：向着Java开发的奇迹进发,http://www.importnew.com/7572.html
+深入理解Java中的final关键字,http://www.importnew.com/7553.html
+Java异常的面试问题及答案-Part 2,http://www.importnew.com/7541.html
+如何写一个不可变类？,http://www.importnew.com/7535.html
+使用Netty代理你的请求,http://www.importnew.com/7496.html
+为什么要使用SLF4J而不是Log4J,http://www.importnew.com/7450.html
+100个高质量Java开发者博客,http://www.importnew.com/7469.html
+ImportNew一周热点文章回顾-01,http://www.importnew.com/7494.html
+Java方法参数太多怎么办—Part6—方法返回值,http://www.importnew.com/6905.html
+JDK6和JDK7中的substring()方法,http://www.importnew.com/7418.html
+用Java数字签名提供XML安全,http://www.importnew.com/6271.html
+为什么String类是不可变的？,http://www.importnew.com/7440.html
+使用Java创建RESTful Web Service,http://www.importnew.com/7336.html
+Java异常的面试问题及答案-Part 1,http://www.importnew.com/7383.html
+Java ScheduledThreadPoolExecutor延迟或周期性执行任务,http://www.importnew.com/7276.html
+Java 8新特性——default方法（defender方法）介绍,http://www.importnew.com/7302.html
+避免Java应用中NullPointerException的技巧和最佳实践,http://www.importnew.com/7268.html
+优先使用TimeUnit类中的sleep(),http://www.importnew.com/7219.html
+优先级队列是一种什么样的数据结构,http://www.importnew.com/6510.html
+类加载器的工作原理,http://www.importnew.com/6581.html
+Java方法参数太多怎么办—Part 2—引入参数对象,http://www.importnew.com/6600.html
+我是如何从0开始，在23天里完成一款Android游戏开发的 – Part3 – 第6至第8天,http://www.importnew.com/6551.html
+单例模式中为什么用枚举更好,http://www.importnew.com/6461.html
+Java方法参数太多怎么办—Part 1—自定义类型,http://www.importnew.com/6518.html
+为什么存储密码字符数组比字符串更合适？,http://www.importnew.com/6430.html
+我是如何从0开始，在23天里完成一款Android游戏开发的 – Part 2 – 第3至第5天,http://www.importnew.com/6469.html
+Java程序员应该知道的10个面向对象理论,http://www.importnew.com/6445.html
+我是如何从0开始，在23天里完成一款Android游戏开发的 - Part 1 - 开篇与前2天,http://www.importnew.com/6450.html
+深入解析Android关机,http://www.importnew.com/6356.html
+如何创建、初始化匿名数组,http://www.importnew.com/6370.html
+真的吗？Java开发者喜欢编写非Java程序,http://www.importnew.com/6420.html
+JVM性能优化， Part 5：Java的伸缩性,http://www.importnew.com/6246.html
+5本最佳的Java面向对象理论和设计模式的书籍,http://www.importnew.com/6374.html
+关于《Java那么健壮，怎么会挂？》的1000条回复,http://www.importnew.com/6325.html
+安卓上的蓝牙数据传输,http://www.importnew.com/6333.html
+使用后台进程和Shutdown Hook友好地关闭Tomcat,http://www.importnew.com/6255.html
+盘点Oralce的大数据工具库,http://www.importnew.com/6250.html
+Android支持库——RenderScript,http://www.importnew.com/6275.html
+我是如何从0开始，在23天里完成一款Android游戏开发的 – Part8– 第21至第23天,http://www.importnew.com/7282.html
+你应当知道的Java牛人 v2.0,http://www.importnew.com/5575.html
+Java方法参数太多怎么办—Part5—方法命名,http://www.importnew.com/7185.html
+Java字符串问题Top10,http://www.importnew.com/7174.html
+什么是静态(static)?什么是静态方法，静态变量，静态块和静态类？,http://www.importnew.com/7208.html
+ConurrentHashMap和Hashtable的区别,http://www.importnew.com/7166.html
+Java数组（初学者必看）,http://www.importnew.com/7127.html
+Java优先队列（PriorityQueue）示例,http://www.importnew.com/6932.html
+Java5在自动装箱时使用“==”会遇到什么问题？,http://www.importnew.com/6997.html
+clone方法是如何工作的,http://www.importnew.com/6960.html
+我是如何从0开始，在23天里完成一款Android游戏开发的 – Part7– 第18至第20天,http://www.importnew.com/6897.html
+有经验的Java开发者和架构师容易犯的10个错误（下）,http://www.importnew.com/7081.html
+HashMap的工作原理,http://www.importnew.com/7099.html
+有经验的Java开发者和架构师容易犯的10个错误（上）,http://www.importnew.com/6953.html
+我是如何从0开始，在23天里完成一款Android游戏开发的 – Part6– 第15至第17天,http://www.importnew.com/6892.html
+Java方法参数太多怎么办—Part4—重载,http://www.importnew.com/6778.html
+"JDK, JRE 和JVM的区别",http://www.importnew.com/7021.html
+HashMap和Hashtable的区别,http://www.importnew.com/7010.html
+JAVA 7新特性——在单个catch代码块中捕获多个异常，以及用升级版的类型检查重新抛出异常,http://www.importnew.com/7015.html
+,http://www.importnew.com/6804.html
+免费在线阅读“Gradle Beyond the Basics”,http://www.importnew.com/5899.html
+JDK 8开发文档预览版更新,http://www.importnew.com/5888.html
+JVM并发机制的探讨——内存模型、内存可见性和指令重排序,http://www.importnew.com/5869.html
+CSRF 攻击的应对之道,http://www.importnew.com/5839.html
+快到极致的Android模拟器——Genymotion,http://www.importnew.com/5770.html
+你不需要 Hadoop做数据分析的10个理由 —— 使用之前必须测试其他替代品,http://www.importnew.com/5759.html
+为什么手机制造商总是跟不上Android更新的节奏,http://www.importnew.com/5802.html
+SPRING SECURITY JAVA配置：OAUTH,http://www.importnew.com/5749.html
+JDBC批处理Select语句,http://www.importnew.com/5660.html
+提升你的Java应用性能：改善数据处理,http://www.importnew.com/5674.html
+Apache HBase 快照介绍之二：深入探索 ,http://www.importnew.com/5663.html
+SPRING SECURITY JAVA配置：Method Security,http://www.importnew.com/5670.html
+Eclipse Kepler有关的数据,http://www.importnew.com/5702.html
+改进异常处理的6条建议,http://www.importnew.com/5616.html
+ARM和Oracle将针对M2M进一步开发Java,http://www.importnew.com/5634.html
+SPRING SECURITY JAVA配置：Web Security,http://www.importnew.com/5641.html
+IntelliJ IDEA 12（12.1）新特性,http://www.importnew.com/5602.html
+关于Hadoop和Cassandra性能问题的讨论,http://www.importnew.com/5533.html
+Typesafe Console面向开发者免费,http://www.importnew.com/5538.html
+SPRING SECURITY JAVA配置：简介,http://www.importnew.com/5520.html
+Spring和Groovy工具升级到3.3.0支持Kepler,http://www.importnew.com/5052.html
+2013 Eclipse社区报告,http://www.importnew.com/5025.html
+Undertow：WildFly的新Web服务器,http://www.importnew.com/4994.html
+Apache HBase快照介绍,http://www.importnew.com/4966.html
+谷歌最新版安卓系统“果冻豆”份额首超其他,http://www.importnew.com/4979.html
+Android vs iOS 游戏之迷思,http://www.importnew.com/4916.html
+HBase：迁移到新的监测系统——Metrics2,http://www.importnew.com/4895.html
+据传Google在开发基于Android操作系统的游戏机,http://www.importnew.com/4884.html
+安卓开发经验分享：资源、UI、函数库、测试、构建一个都不能少,http://www.importnew.com/4868.html
+NIO新功能Top 10（下）,http://www.importnew.com/4852.html
+重构：仔细查看，改进代码,http://www.importnew.com/4827.html
+NIO新功能Top 10（上）,http://www.importnew.com/4760.html
+Java9 javac 将不再支持Java 1.5以及更早的代码,http://www.importnew.com/4797.html
+Scala并发,http://www.importnew.com/4750.html
+一年内，Nexus 7 从最好到最烂,http://www.importnew.com/4770.html
+ Hadoop入门教程(四):MR作业的提交监控、输入输出控制及特性使用,http://www.importnew.com/4736.html
+你应该关注的几个Eclipse超酷插件,http://www.importnew.com/4707.html
+学习Clojure,http://www.importnew.com/4680.html
+Google I/O 2013 Android Session 之 Android开发者工具更新,http://www.importnew.com/4650.html
+使用Specs进行单元测试,http://www.importnew.com/4593.html
+Android 4.3可能于7月发布,http://www.importnew.com/5508.html
+JMS 2的新特性,http://www.importnew.com/5475.html
+在Jelastic上使用Scala编程,http://www.importnew.com/5482.html
+SPRING本周快讯（2013-07-15）,http://www.importnew.com/5403.html
+Java JIT编译：不仅仅是个流行词,http://www.importnew.com/5270.html
+并行和并发需要不同的工具,http://www.importnew.com/5412.html
+使用Gradle构建Android项目,http://www.importnew.com/5216.html
+Log4J 2 API,http://www.importnew.com/5383.html
+Oracle WebLogic Server 12.1.2发布,http://www.importnew.com/5405.html
+使用FindBugs检查你的返回值,http://www.importnew.com/5092.html
+Eclipse插件收藏列表（1）,http://www.importnew.com/5207.html
+Google Play 2013年夏季最优美应用设计集合,http://www.importnew.com/4964.html
+经典论文翻译导读之《A Bloat-Aware Design for Big Data Applications》,http://www.importnew.com/5061.html
+Oracle宣布暑期Java项目,http://www.importnew.com/5262.html
+如何为Eclipse JFace UI运行单元测试,http://www.importnew.com/5077.html
+使用Spring框架实现RESTful,http://www.importnew.com/5163.html
+几分钟内学习 Clojure,http://www.importnew.com/5247.html
+JVM函数式编程资源,http://www.importnew.com/5065.html
+传闻：Google高层施密特已经开始使用Moto X,http://www.importnew.com/5145.html
+JDBC为什么要使用PreparedStatement而不是Statement,http://www.importnew.com/5006.html
+Java EE 7 并发编程—Concurrency Utilities,http://www.importnew.com/6870.html
+讲故事，学（Java）设计模式—适配器模式,http://www.importnew.com/6923.html
+讲故事，学（Java）设计模式—抽象工厂模式,http://www.importnew.com/6914.html
+讲故事，学（Java）设计模式—桥接模式,http://www.importnew.com/6857.html
+HashMap和HashSet的区别,http://www.importnew.com/6931.html
+讲故事，学（Java）设计模式—原型模式,http://www.importnew.com/6907.html
+类在什么时候加载和初始化,http://www.importnew.com/6579.html
+讲故事，学（Java）设计模式—建造者模式,http://www.importnew.com/6841.html
+Android全新运行时——ART介绍 ,http://www.importnew.com/6751.html
+讲故事，学（Java）设计模式—单例模式,http://www.importnew.com/6662.html
+我是如何从0开始，在23天里完成一款Android游戏开发的 – Part5– 第12至第14天,http://www.importnew.com/6729.html
+Node.js和Java EE从CouchDB读取JSON数据的性能比较,http://www.importnew.com/6817.html
+避免代码冗余，使用接口和泛型重构Java代码,http://www.importnew.com/6761.html
+Java正则表达式教程及示例,http://www.importnew.com/6810.html
+阻塞队列实现生产者消费者模式,http://www.importnew.com/6695.html
+Java方法参数太多怎么办—Part3—Builder模式,http://www.importnew.com/6605.html
+讲故事，学（Java）设计模式—工厂模式,http://www.importnew.com/6718.html
+Java 8 Optional类深度解析,http://www.importnew.com/6675.html
+LinkedList和ArrayList的区别,http://www.importnew.com/6629.html
+我是如何从0开始，在23天里完成一款Android游戏开发的 – Part4 – 第9至第11天,http://www.importnew.com/6640.html
+Javaone 2013回顾,http://www.importnew.com/6265.html
+新书推荐：Eclipse 4 Plug-in Development by Example,http://www.importnew.com/6252.html
+测试基于Web的Spring应用程序（第一部分）,http://www.importnew.com/5268.html
+Java8开发者预览版准备测试,http://www.importnew.com/6223.html
+Google宣布下一代Android系统——KitKat,http://www.importnew.com/6200.html
+Java + Scala,http://www.importnew.com/6188.html
+Eclipse的调试功能的10个小窍门,http://www.importnew.com/6164.html
+如何提高hadoop中Short-Circuit Local Reads时的性能及安全性,http://www.importnew.com/6151.html
+冲冠一怒为红颜？Android业界巨头Hugo Barra从Google离职,http://www.importnew.com/6129.html
+Android禅艺,http://www.importnew.com/6106.html
+JDBC性能小贴,http://www.importnew.com/6100.html
+深入JVM的Class文件结构,http://www.importnew.com/6027.html
+Android手机分布图，市场很挤涌,http://www.importnew.com/6072.html
+Tomcat 生产服务器性能优化 ,http://www.importnew.com/5995.html
+Hibernate 的 10 个常见面试问题及答案 ,http://www.importnew.com/6004.html
+以日为始：Dalvik vs ASM.JS vs 本地代码——大比拼,http://www.importnew.com/6011.html
+SPRING SECURITY JAVA配置：可读性,http://www.importnew.com/5981.html
+为集群配置Impala和Mapreduce,http://www.importnew.com/5881.html
+SPRING本周快讯（2013-07-30）,http://www.importnew.com/5915.html
+神秘的朝鲜Android平板电脑——Samjiyon,http://www.importnew.com/5923.html
+快讯：Oracle停止Java Time Zone的免费更新,http://www.importnew.com/4635.html
+为什么Java不支持多重继承?,http://www.importnew.com/4604.html
+7本免费的Java电子书和教程,http://www.importnew.com/4578.html
+Scala集合（二）,http://www.importnew.com/4543.html
+Hadoop教程(三): MR重要运行参数,http://www.importnew.com/4528.html
+Scala教程：简单构建工具SBT,http://www.importnew.com/4311.html
+Scala教程：高级类型,http://www.importnew.com/4307.html
+Scala教程：类型基础,http://www.importnew.com/4126.html
+使用Hadoop和BIRT对海量数据进行可视化处理,http://www.importnew.com/4276.html
+Hadoop教程(二),http://www.importnew.com/4259.html
+Hadoop教程（一）,http://www.importnew.com/4248.html
+专为Mac本跟踪Hadoop任务的应用,http://www.importnew.com/4203.html
+Google I/O 2013隆重推出Android Studio （含下载地址）,http://www.importnew.com/4178.html
+Google I/O 2013大会Andoird更新前瞻,http://www.importnew.com/4157.html
+Google I/O 2013和Android,http://www.importnew.com/4133.html
+Quartz快速入门,http://www.importnew.com/4107.html
+Android性能优化案例研究（下）,http://www.importnew.com/4065.html
+用Android应用开发Android应用,http://www.importnew.com/4046.html
+Android开发者必知的开发资源,http://www.importnew.com/3988.html
+Eclipse Orion 2.0发布,http://www.importnew.com/3975.html
+Java开发2.0: 使用 Hibernate Shards 进行分片--Part.1,http://www.importnew.com/3705.html
+Facebook推出Android构建工具——Buck,http://www.importnew.com/3948.html
+JPA与CMT - 为什么单纯捕捉持久化异常是不够的？,http://www.importnew.com/3922.html
+用Android手机劫持飞机,http://www.importnew.com/3880.html
+HBase数据迁移（3）-自己编写MapReduce Job导入数据,http://www.importnew.com/3912.html
+Vertu手机决定采用Android系统,http://www.importnew.com/3815.html
+Android性能优化案例研究(上),http://www.importnew.com/3784.html
+模式匹配和函数复合,http://www.importnew.com/3753.html
+Scala集合,http://www.importnew.com/3673.html
+经典论文翻译导读之《Google File System》,http://www.importnew.com/3491.html
+HBase数据迁移（2）- 使用bulk load 工具从TSV文件中导入数据,http://www.importnew.com/3645.html
+Scala 中的 Stream,http://www.importnew.com/3587.html
+Scala基础（二）,http://www.importnew.com/3578.html
+Android 4.2原生支持从右到左的文字排列格式,http://www.importnew.com/3517.html
+使用密码学技术保护敏感信息,http://www.importnew.com/3456.html
+Java到底是传引用还是传值?,http://www.importnew.com/3559.html
+Netty 4 中的线程模型,http://www.importnew.com/2913.html
+Oracle停止维护Java6，Rad hat接手OpenJDK6,http://www.importnew.com/3544.html
+Android一周开发要闻 2013-2-5,http://www.importnew.com/3475.html
+Android 各版本市场份额最新数据，2.3 终于降低到45%以下,http://www.importnew.com/3447.html
+Scala基础（一）,http://www.importnew.com/3240.html
+HBase数据迁移（1）,http://www.importnew.com/3226.html
+2013 Eclipse社区大奖最终获奖候选人名单,http://www.importnew.com/3431.html
+经典论文翻译导读之《Finding a needle in Haystack: Facebook’s photo storage》,http://www.importnew.com/3292.html
+Log4j 2.x架构,http://www.importnew.com/3180.html
+,http://www.importnew.com/3251.html
+成为Java GC专家（4）—Apache的MaxClients参数详解及其在Tomcat执行FullGC时的影响,http://www.importnew.com/3151.html
+成为Java GC专家（3）—如何优化Java垃圾回收机制,http://www.importnew.com/3146.html
+通过Google Play验证Android应用的后台请求,http://www.importnew.com/3115.html
+为Hbase建立高可用性多主节点,http://www.importnew.com/3020.html
+Log4j 2 介绍,http://www.importnew.com/3046.html
+经典论文翻译导读之《Large-scale Incremental Processing Using Distributed Transactions and Notifications》,http://www.importnew.com/2896.html
+Android手机中的“秘码”,http://www.importnew.com/2789.html
+RenderScript的性能演进,http://www.importnew.com/2824.html
+经典论文翻译导读之《Dremel: Interactive Analysis of WebScale Datasets》,http://www.importnew.com/2617.html
+HBase推荐书籍列表 ,http://www.importnew.com/2631.html
+了解CMS(Concurrent Mark-Sweep)垃圾回收器,http://www.importnew.com/2782.html
+Java ——回顾2012，预测未来,http://www.importnew.com/2737.html
+下一代大型JVM语言,http://www.importnew.com/2746.html
+Android 内存剖析 - 发现潜在问题,http://www.importnew.com/2433.html
+Hibernate使用技巧,http://www.importnew.com/1926.html
+有效处理Java异常三原则,http://www.importnew.com/1701.html
+MapReduce启蒙文献,http://www.importnew.com/1885.html
+Android NDK断点失效原因及解决方案,http://www.importnew.com/1768.html
+Java 面试题问与答：编译时与运行时,http://www.importnew.com/1796.html
+JVM性能优化， Part 1 ―― JVM简介,http://www.importnew.com/1774.html
+Java Web Services面试问题集锦,http://www.importnew.com/1851.html
+Java 8：Lambda表达式试水,http://www.importnew.com/1746.html
+使用Erlang、C和Lisp实现的BigData解决海量移动数据,http://www.importnew.com/1706.html
+诊断Java.lang.OutOfMemoryError（OOM）,http://www.importnew.com/1586.html
+单元测试要做多深？——测试驱动开发（TDD)引发的争论,http://www.importnew.com/1781.html
+JVM垃圾回收机制,http://www.importnew.com/1551.html
+JVM语言“三巨头” – Scala Clojure Groovy,http://www.importnew.com/1537.html
+Java性能小技巧,http://www.importnew.com/1531.html
+Java异常有多慢？,http://www.importnew.com/1480.html
+深入理解JVM内幕：从基本结构到Java 7新特性,http://www.importnew.com/1486.html
+Google Maps Android API v2更新,http://www.importnew.com/1615.html
+2013年: IDE趋于Web化,http://www.importnew.com/1561.html
+Java多线程面试问题集锦,http://www.importnew.com/1428.html
+Java的Sizeof实现,http://www.importnew.com/1306.html
+Java对象内存结构,http://www.importnew.com/1305.html
+Eclipse 推荐书籍列表,http://www.importnew.com/1947.html
+Eclipse 插件开发,http://www.importnew.com/2174.html
+Eclipse 4 新手上路,http://www.importnew.com/2165.html
+配置一个好用的Android模拟器,http://www.importnew.com/1352.html
+SQLite在Android中的使用,http://www.importnew.com/1324.html
+对比Java.nio 和 Java.io,http://www.importnew.com/1178.html
+欢迎来到JavaOne 2012 & 主题曲,http://www.importnew.com/1271.html
+“Java之父”高斯林现在在做什么？,http://www.importnew.com/1147.html
+如何增强JAVA的I/O性能,http://www.importnew.com/1068.html
+用BitSet来替代HashSet,http://www.importnew.com/977.html
+嵌套类：静态嵌套类和非静态嵌套类,http://www.importnew.com/1153.html
+Java不是新的COBOL,http://www.importnew.com/1043.html
+如何用Spring 3.1的Environment和Profile简化工作,http://www.importnew.com/1099.html
+Spring面试问题集锦,http://www.importnew.com/1019.html
+Java集合框架面试问题集锦,http://www.importnew.com/871.html
+Google Play服务和OAuth认证工具,http://www.importnew.com/949.html
+Java 8 新特性,http://www.importnew.com/879.html
+通过多线程技术提高Android应用性能,http://www.importnew.com/895.html
+Java的版本历史与特性,http://www.importnew.com/844.html
+推荐初中级开发者的书籍 - Java 7 并发手册,http://www.importnew.com/2346.html
+Android开发案例——Smule,http://www.importnew.com/2488.html
+深入理解JDBC的超时设置,http://www.importnew.com/2466.html
+Android一周开发要闻 - 第一期字幕,http://www.importnew.com/2434.html
+"JVM 性能优化, Part 4: C4 垃圾回收",http://www.importnew.com/2410.html
+Hibernate面试问题集锦: 概述,http://www.importnew.com/2281.html
+Java 7 Fork/Join 框架,http://www.importnew.com/2279.html
+构建可伸缩系统 Scala vs Java,http://www.importnew.com/2277.html
+常见Java面试题 – 第三部分：重载（overloading）与重写（overriding）,http://www.importnew.com/2228.html
+常见Java面试题 – 第四部分：迭代（iteration）和递归（recursion）,http://www.importnew.com/2329.html
+常见Java面试题 – 第一部分：非可变性（Immutability）和对象引用（Object reference）,http://www.importnew.com/2217.html
+JVM性能优化， Part 3 垃圾回收,http://www.importnew.com/2233.html
+常见Java面试题 – 第二部分：equals与==,http://www.importnew.com/2223.html
+Eclipse 教程系列,http://www.importnew.com/2189.html
+5种调优Java NIO和NIO.2的方式,http://www.importnew.com/2000.html
+成为JavaGC专家（2）—如何监控Java垃圾回收机制,http://www.importnew.com/2057.html
+成为JavaGC专家（1）—深入浅出Java垃圾回收机制,http://www.importnew.com/1993.html
+JVM性能优化， Part 2 ―― 编译器,http://www.importnew.com/2009.html
+打造企业级应用：HTML5，Hybrid，Native Dilemma之间的对比,http://www.importnew.com/1960.html
+2013年技术领域即将发生的10件事,http://www.importnew.com/1880.html

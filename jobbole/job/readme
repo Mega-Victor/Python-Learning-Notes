@@ -1,0 +1,1 @@
+使用scrapy crawl name -o filename.csv 运行
